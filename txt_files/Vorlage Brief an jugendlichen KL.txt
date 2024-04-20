@@ -1,0 +1,33 @@
+Hidden text:
+Zustelladressen im Sammelbeschluss-Tool erfassen 
+und Adressdaten in Excel exportieren 
+Word Dok Speichern unter
+Word Dok als Serienbrief mit Excel verknüpfen (beim
+Pop-up ankreuzen, welche Zeilen mit dem Brief verknüpft werden sollen)
+Word Dok bearbeiten
+Dok speichern und drucken
+
+
+
+
+
+
+Wechsel deines Beistands
+
+Lieber «KlientIn_Vorname»
+
+Wir möchten dich darüber informieren, dass du  erhältst. Herr «Bisheriger_MT_Vorname» «Bisheriger_MT_Name» . Deshalb wird das Mandat für deine Begleitung an Herrn «Neuer_MT_Vorname» «Neuer_MT_Name» («Neuer_MT_SZ», «Neuer_MT_QT») übertragen.
+
+Dies bedeutet, dass per «Übergabedatum» Herr «Neuer_MT_Name» für dich zuständig ist und die Aufgaben von Herrn «Bisheriger_MT_Name» übernehmen wird.
+
+Falls du mit dieser Mandatsübergabe nicht einverstanden bist, kannst du oder deine Angehörigen innert 10 Tagen bei uns Einwände dagegen erheben. Andernfalls gehen wir von deinem Einverständnis aus. Die Kindes- und Erwachsenenschutzbehörde der Stadt Zürich wird dann die Übergabe formal beschliessen und dir den entsprechenden Beschluss zukommen lassen. 
+
+Wir wünschen dir und Herrn «Neuer_MT_Name» eine gute Zusammenarbeit.
+
+
+Freundliche Grüsse
+
+
+
+«Bisheriges_QT_Name_SL» 
+Stellenleitung

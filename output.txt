@@ -1,0 +1,93 @@
+
+## Instruktion: Es geht hier nur um die Klienten in der wirtschaftlichen Sozialhilfe. Bitte beantworten Sie die Frage nur in Bezug auf die wirtschaftliche Sozialhilfe.
+Müssen Zahlungen bei Todesfall in der wirtschaftlichen Sozialhilfe eingestellt werden vom Sozialamt?
+ANTWORT:
+Ja, gemäß dem Bedarfsdeckungsprinzip fallen Zahlungen der wirtschaftlichen Hilfen weg, da es keinerlei akute Notwendigkeiten mehr geben sollte. Allerdings können einige wenige Ausnahmefälle auftreten, darunter offene Arztrechnungen während des Zeitraumes der Unterstützung und andere vertragsbasierende finanzielle Verantwortlichkeiten.
+TITEL: PRA_Todesfall_WH.txt
+TEXT: Grundlage 
+Die folgenden Ausführungen gelten aufgrund von § 28 und § 30 Sozialhilfegesetz (SHG)
+bei Personen, die im Zeitpunkt ihres Todes unterstützt wurden, sowie 
+bei Personen, die im Zeitpunkt ihres Todes nicht mehr unterstützt wurden, die aber innerhalb der letzten 15 Jahre vor ihrem Tod unterstützt worden sind.
+
+Gemäss Zivilrecht sind nach dem Tod von mit wirtschaftlicher Hilfe (WH) unterstützten Personen für alle Belange die Erb*innen zuständig (Ausnahme vgl. Ziffer 2). Allfällige Handlungen nach dem Tod können nur als „Geschäftsführer ohne Auftrag“ (Art. 419 bis 424 OR) durchgeführt werden. Für verbeiständete Personen mit oder ohne WH gilt ausschliesslich die PRA Aufgaben nach Todesfall bei EKSM. 
+
+Aufgaben der Fallführenden
+
+Meldepflicht an involvierte Stellen sowie an Erb*innen
+
+
+TITEL: HAW (jährliche) Überprüfung der Mittellosigkeit _ Beendigung der Unterstützung.txt
+TEXT: Auszahlung der WH wird per Ende des Monats nach Ausstellen des Entscheids einstweilen gestoppt. Reicht KL ein Begehren um Neubeurteilung ein, wird die WH umgehend nachbezahlt und bis zu einem rechtskräftigen Entscheid nicht eingestellt.
+Kontaktabbruch
+Meldet sich KL nach mehrmaliger Kontaktaufnahme nicht mehr und bricht somit den Kontakt ab, kann davon ausgegangen werden, dass sie*er auf weitere Unterstützung verzichtet. KL wird in einem Schreiben über den Abschluss des Falles informiert und darauf hingewiesen, dass sie*er einen Einstellungsentscheid verlangen kann. 
+
+
+TITEL: HAW Anspruch WH bei ausl. KL.txt
+TEXT: Wenn kein WH-Anspruch mehr besteht, dürfen auch keine WH-Auszahlungen mehr an die KL erfolgen. Die Leistungen können per sofort eingestellt werden und die Klienten*innen sind schriftlich zu informieren, dass die Leistungen eingestellt wurden und eine beschwerdefähige Verfügung verlangt werden kann. Ziel ist es, keine Auszahlungen an die KL zu machen ohne Rechtsgrundlage. Allenfalls sind entsprechende KL an die ZAV zu vermitteln zur Klärung des Anspruchs auf Notfallhilfe. 
+
+Das Migrationsamt kann die SOD mangels rechtlicher Grundlage nicht automatisch über einen rechtskräftigen Bewilligungsentzug informieren. Jedoch erfolgt in diesen Fällen im Fallführungssystem eine Meldung über die Änderung des Aufenthaltsstatus auf "unbekannt". Gestützt auf diese Meldung ist das Migrationsamt nach dem genauen Aufenthaltsstatus anzufragen (partner@ma.zh.ch / Mailvorlage) und zu prüfen, ob der WH-Anspruch weiterhin gegeben ist.
+
+
+TITEL: PRA_Umgang_mit_Ferien_und_Abwesenheiten.txt
+TEXT: Unterstützungsvoraussetzungen sind nachweislich nicht mehr gegeben
+Die Ausrichtung von Sozialhilfe ist per sofort zu stoppen. Hierbei handelt es sich nicht um eine Einstellung von Leistungen gemäss § 24 a. SHG, sondern um eine Verneinung der weiteren Anspruchsberechtigung (z.B. wegen fehlender Zuständigkeit der SOD). Aus diesem Grund ist kein formelles Einstellungsverfahren notwendig, sondern lediglich die Ablehnung weiterer Leistungen mittels anfechtbarer Verfügung anzuzeigen. 
+
+Unterstützungsvoraussetzungen sind weiterhin gegeben
+Die Unterstützung ist weiterhin gemäss dem bestehenden Bedarf, ggf. unter Einbezug der unter Ziff. 3.2 erwähnten Kaufkraftanpassung und/oder der verfügten Kürzung, auszurichten. 
+
+Zweifel am Fortbestand der Unterstützungsvoraussetzungen
+
+
+TITEL: PRA Entscheide.txt
+TEXT: Das SHG enthält dazu keine ausdrückliche Rechtsgrundlage. Gemäss ständiger Rechtsprechung leitet sich die Möglichkeit dazu aber aus dem in der Sozialhilfe geltenden Bedarfsdeckungsprinzip ab. Auch gemäss SKOS-Richtlinien (Kapitel F.3) ist es zulässig, die Leistungen einzustellen, wenn erhebliche Zweifel an der Bedürftigkeit der KL bestehen. Voraussetzung ist aber, dass die KL vorgängig ermahnt worden sind (schriftliche Auflage ohne Rechtsmittelbelehrung) und ihnen im Hinblick auf den geplanten Einstellungsentscheid das rechtliche Gehör gewährt worden ist.
+
+
+TITEL: PRA_Todesfall_WH.txt
+TEXT: Ausgaben, welche auch nach dem Tod noch von den SOD übernommen werden
+
+Bei Auszahlung der WH gilt das Bedarfsdeckungsprinzip. Ab Todesfall KL gibt es keine aktuelle Notlage mehr, weshalb grundsätzlich keine Leistungen übernommen werden, welche den Zeitraum nach dem Tod betreffen.
+
+Folgende Leistungen können ausnahmsweise nach dem Tod übernommen werden:
+
+Offene Arzt- und Krankenkassenrechnungen, die den Unterstützungszeitraum betreffen
+Leistungen, für die zu Lebzeiten KL seitens SOD formell oder stillschweigend eine KOGU erteilt worden ist, und sich die SOD vertraglich zur Übernahme (über den Tod hinaus) verpflichtet haben (z.B. Zahnbehandlungen; Garantieerklärungen Vermieterschaft; offene Rechnungen SEB, privater betreuter Wohneinrichtungen mit Rahmenverträgen gemäss Vereinbarungen Vertragscenter oder Heim ohne Rahmenverträge bis zum Ablauf der Kündigungs- oder Anullationsfrist gemäss geleisteter KOGU)
+
+Rückforderungen gegenüber dem Nachlass
+
+
+TITEL: KESB Plenarbeschluss Mai 2022 keine Rechnungen nach Tod.txt
+TEXT: Hintergrund:
+His ca. März 2021 haben Beistandspersonen üblicherweise alle Passiven nach dem Todes
+tag noch beglichen, teilweise auch als Folge einer Aufforderung durch die Abteilung Berichts
+prüfung. Mit der Genehmigung des Schlussberichts hat die Berichtsprüfung bis zum Eingang
+der letzten Monatskontoauszüge der Bank zugewartet, damit die verbleibende Nachlasshöhe
+exakt ermittelt werden konnte. Ergab sich nach Berücksichtigung der Rückforderungsansprü
+che seitens AZL, SOD und KESS kein Nachlassvermögen, wurde die Beistandsperson mit
+der Genehmigungsverfügung aufgefordert, das Verkehrskonto zu Gunsten AZL, SOD und/
+oder KESS zu saldieren. Kam es in solchen Fällen dann (z.B. durch Ausschlagung) doch zu
+einer (unerwarteten) konkursamtlichen Nachlassliquidation, haben einzelne Konkursämter
+
+
+
+TITEL: KESB Plenarbeschluss Mai 2022 keine Rechnungen nach Tod.txt
+TEXT: Stadt Zürich Stadt Zürich
+Kindes- und Kindes- und
+Erwachsenenschutzbehörde Erwachsenenschutzbehörde
+Präsidium
+Stauffacherstrasse 45
+Postfach 8225, 8036 Zürich
+Tel.0444121111
+kesbkontakt@zuerich.ch
+www.stadt-zuer.ch/kesb
+Ihre Kontaktperson:
+Saziale Dienste der Stadt Zürich
+Michael.Allgäuer
+Herrn Manfred Dachs Direktwahl Assistenz 044 412 20 01
+VZ Werd
+Werdstrasse 75
+8004 Zürich
+Zürich, 23. Mai 2022 /uw
+Praxisänderung im Zusammenhang mit der Beendigung einer Beistand
+schaft mit Vermögensverwaltung; Handhabung der offenen Rechnungen
+und der Vermögenswerte nach dem Tod einer betreuten Person
+Sehr geehrt[...]<|END_OF_TURN_TOKEN|>

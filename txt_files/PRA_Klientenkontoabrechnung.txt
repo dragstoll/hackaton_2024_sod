@@ -1,0 +1,50 @@
+Abrechnung von Klientenkonten
+Wann ist eine Abrechnung zu erstellen?
+Mit welchen Unterstützungsauslagen dürfen eingehende Versicherungsleistungen
+verrechnet werden?
+Wie sind die Perioden zu bestimmen?
+
+Diese und andere Fragen stellen sich immer wieder im Zusammenhang mit Nachzahlungen der Alters-, Hinterlassenen- und Invalidenversicherung, der Zusatzleistungen zur AHV und IV, der Arbeitslosenversicherung, der Unfallversicherung, der Krankenkassen und der beruflichen Vorsorge.
+
+Rechtliche Bestimmungen
+Grundlage für eine korrekte Abrechnung bilden die §§ 19/20 und 27 des Gesetzes über die öffentliche Sozialhilfe (SHG) 
+
+Gemäss § 19 SHG kann die wirtschaftliche Leistung davon abhängig gemacht werden, dass der oder die Hilfesuchende vermögensrechtliche Ansprüche gegenüber Dritten an die Fürsorgebehörde abtritt, soweit sie nicht von Gesetzes wegen übergehen. Insoweit eine Abtretung nicht erfolgte, muss rechtmässig bezogene wirtschaftliche Hilfe zurückerstattet werden, wenn der/die HilfeempfängerIn aus Erbschaft, Lotteriegewinn oder anderen nicht auf eigene Arbeitsleistung zurückzuführenden Gründen in finanziell günstige Verhältnisse gelangt oder wenn die Voraussetzungen zur Rückerstattung nach § 20 SHG erfüllt sind.
+
+Gestützt auf die von den Unterstützten im Sinne von § 19 SHG unterzeichneten Zahlungsermächtigungen / Formulare für die Drittauszahlung an eine Behörde (AHVG, IVG, ALVG) bzw. Abtretungserklärungen (KVG) überweisen die Versicherungen ihre Leistungen an die Sozialen Dienste Zürich. Weigert sich die unterstützte Person, die Zahlungsermächtigung bzw. das Formular für die Drittauszahlung zu unterzeichnen, ist ein Entscheid der Einzelfallkommission zu erlassen. In diesem ist der Rückerstattungstatbestand festzuhalten und die entsprechende Sozialversicherung anzuweisen, die Nachzahlungen direkt an die Sozialen Dienste Zürich zu überweisen.
+
+Das Subsidiaritätsprinzip in § 2 Abs. 2 SHG bringt zum Ausdruck, dass andere gesetzliche Leistungen sowie die Leistungen Dritter und sozialer Institutionen den Leistungen der Sozialhilfe vorgehen. Versicherungsleistungen sind demnach primär zur Sicherung des Lebensunterhaltes bestimmt. Grundsätzlich sind rückwirkend ausbezahlte Versicherungsleistungen nur mit in der gleichen Zeitperiode entstandenen Unterstützungsleistungen zu verrechnen. 
+
+Besteht eine unterstützte Person auf der Auszahlung des Überschusses, muss diesem Begehren stattgegeben werden, auch wenn damit zu rechnen ist, dass das Geld innert kürzester Zeit verbraucht sein wird. Wurde im konkreten Fall von Verwandten Verwandtenunterstützung geltend gemacht, ist diesen ein allfälliger Überschuss bis zum Umfang der geleisteten Verwandtenunterstützung auszuzahlen.
+Eine allfällig geleistet Mietzinsdepot-Zahlungen bzw. Mietzinsgarantie ist ebenfalls
+zu verrechnen.
+Abrechnungsverfahren
+Abrechnungen sind notwendig für alle UnterstützungsbezügerInnen,
+
+die Leistungen von Dritten an die Sozialen Dienste Zürich abgetreten haben bzw. Zahlungsermächtigungen unterschrieben haben und Nachzahlungen erfolgen
+
+oder
+
+die Versicherungsleistungen wieder direkt ausbezahlt erhalten sollen (z.B. bei Ablösung von den Sozialen Diensten Zürich)
+
+Bei der Abrechnung ist grundsätzlich nicht von einzelnen Monaten oder Jahren, sondern von ganzen Zeitperioden auszugehen. Eine Zeitperiode entspricht einer Zeitspanne mit gleichbleibenden Verhältnissen. Jede Veränderung der Verhältnisse wie die Änderung des IV-Grades oder das Hinzukommen von zusätzlichen Einkommen bzw. von Versicherungsleistungen sowie das Wegfallen von zusätzlichen Einkommen bzw. von Versicherungsleistungen begründet eine neue Zeitperiode.
+
+
+01.05.1994 		01.06.1996 		01.10.1998 		10.07.1999
+____________I______________I______________I______________I___________
+Unterstützungsbeginn 	½ IV-Rente 	ganze IV-Rente 	IV-Rente/EL
+
+oder
+
+	01.04.1996 		01.07.1997 				02.02.2000
+____________I______________I_____________________________I__________
+	IV-Rente + EL 	Unterstützungsbeginn 		Ablösung
+
+In komplizierten oder unklaren Fällen kann die Abrechnung in Zusammenarbeit mit
+dem Rechtsdienst erstellt werden.
+
+Rechtsmittelverfahren
+Die Abrechnung ist von der/dem fallführenden Sozialarbeitenden zu unterzeichnen und mit einer Rechtsmittelbelehrung zu versehen, wonach der/die KlientIn gegen die Abrechnung innert 30 Tagen bei der Einspracheinstanz und Geschäftsprüfungskommission der Fürsorgebehörde der Stadt Zürich Einsprache erheben kann.
+
+KlientInnenkontoabrechnungen sollen wenn möglich persönlich an den Klienten / die Klientin abgegeben und dabei gegengezeichnet werden. Ist dies nicht möglich, so sind sie per Einschreiben zu versenden.
+Dieses Vorgehen ist wichtig, da sonst im Falle einer Einsprache die Einsprachefrist massiv verlängert wird.

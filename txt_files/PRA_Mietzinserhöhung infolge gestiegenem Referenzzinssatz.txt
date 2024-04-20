@@ -1,0 +1,69 @@
+1 Ausgangslage
+Seit dem 10. September 2008 gilt für Mietzinsanpassungen in der Schweiz ein einheitlicher Referenzzinssatz. Dieser stützt sich auf den hypothekarischen Durchschnittszinssatz der Banken. Der Stand des Referenzzinssatzes wird vierteljährlich (1. März/1. Juni/1. September/1. Dezember) durch das Bundesamt für Wohnungswesen mitgeteilt. 
+Der Mietzins (MZ) ist an den Referenzzinssatz gebunden. Sinkt der Referenzzinssatz, haben Mieter*innen grundsätzlich Anspruch auf eine Mietzinssenkung. Umgekehrt darf die Vermieterschaft bei einer Erhöhung des Referenzzinssatzes den Mietzins erhöhen. Diese Praxishilfe unterstützt die Fallführenden bei Mietzinserhöhungen aufgrund eines gestiegenen Referenzzinssatzes.
+2 Wer ist von der Erhöhung betroffen?
+Mieter*innen sind durch die aktuelle Erhöhung betroffen, wenn sie:
+Seit November 2008 einen neuen Mietvertrag abgeschlossen haben;
+In den vergangen Jahren eine Mietzinsenkung infolge der Anpassung an den Referenzzinssatz erhalten haben.
+Nicht betroffen sind Mieter*innen, die:
+In den vergangen Jahren keine Mietzinssenkung infolge der Anpassung an den Referenzzinssatz erhalten haben. 
+in staatlich verbilligten Mietverhaltnissen (oft Baugenossenschaften) leben. 
+3 Ist die Mietzinserhöhung durch die Vermieterschaft gerechtfertigt?
+Der Mietzins muss bezüglich des Referenzzinssatzes und anderer mietzinsrelevanter Faktoren überprüft werden. Mieter*innen können sich darauf verlassen, dass der bei Vertragsabschluss festgelegte Mietzins «richtig» ist. Deshalb sind Mietzinserhöhungen nur dann zulässig, wenn sich die Berechnungsfaktoren seit Vertragsabschluss verändert haben.
+Nachfolgende Checkliste hilft bei der Prüfung, ob eine Mietzinserhöhung aufgrund des veränderten Referenzzinssatzes gerechtfertigt ist. Zudem finden sich auf der Homepage des Mieterverbands (MV) detailierte Informationen zum Thema Referenzzinssatz und ein Mietzinsrechner.
+
+Hat die Vermieterschaft formelle Fehler gemacht?
+Anhand der nachfolgenden Checkliste kann kontrolliert werden, ob die Vermieterschaft bei der Ankündigung der Mietzinserhöhung formelle Fehler gemacht hat:
+Wurde das richtige bzw. amtlich genehmigte Formular verwendet?
+	Ja 	Nein 
+
+Ist die Erhöhung 10 Tage vor Beginn der Kündigungsfrist bei dem*der Mieter*in eingegangen?
+	Ja 	Nein 
+
+Ist die Erhöhung auf den richtigen Zeitpunkt (Kündigungstermin) angekündigt?
+	Ja 	Nein 
+
+Ist die Erhöhung klar begründet?
+	Ja 	Nein 
+
+Wenn die Erhöhung auf einem Beilageblatt begründet wird:
+Findet sich auf dem amtlichen Formular ausdrücklich ein Hinweis darauf?
+	Ja 	Nein 
+
+Wenn die Erhöhung auf verschiedenen Gründen beruht: 
+Wurden diese in Einzelbeträgen ausgewiesen?
+	Ja 	Nein 
+
+Hat die Vermieterschaft den bisherigen Mietzins (und eventuelle Nebenkosten) auf dem Formular aufgeführt?
+	Ja 	Nein 
+
+Kann eine dieser Fragen mit Nein beantworten werden? 		Dann hat die Vermieterschaft einen formellen Fehler gemacht. Der*die Mieter*in sollte die Erhöhung schnellstmöglich anfechten (Ziffer 0).
+Können alle Fragen mit Ja beantwortet werden, ist in einem nächsten Schritt zu prüfen, ob der geltend gemachte Erhöhungsgrund gerechtfertigt ist (Ziffer 3.2). 
+Hat die Vermieterschaft bei der Anpassung des Nettomietzinses an den Referenzzinssatz einen Fehler gemacht?
+Ein möglicher Erhöhungsgrund ist die Anpassung an den Referenzzinssatz. Die Vermieterschaft darf den Mietzins erhöhen, wenn der Referenzzinssatz gestiegen ist.
+Anhand der nachfolgenden Checkliste kann kontrolliert werden, ob und wie viel der Nettomietzins erhöht werde darf:
+Welcher Referenzzinssatz galt bisher (siehe Mietvertrag und/oder letzter Mietzinsänderungsanzeige)? Ist der aktuelle Referenzzinssatz höher?
+	Ja 	Nein 
+
+Sind frühere Referenzzinssatzsenkungen in Form einer Mietzinssenkung weitergegeben worden?
+	Ja 	Nein 
+
+Ist die prozentuale Erhöhung korrekt berechnet (vgl. Tabelle)?
+	Ja 	Nein 
+
+Nachfolgende Tabelle zeigt, um wieviel Prozent der Nettomietzins erhöht werden darf, je nachdem wie sich der Referenzinssatz entwickelt.
+
+Lesebeispiel: Steigt der Referenzzins von 1.25% auf 1.50%, kann der Nettomietzins um 3.00% erhöht werden.
+Kann eine dieser Fragen mit Nein beantworten werden? 		Dann hat die Vermieterschaft einen Fehler gemacht. Der*die Mieter*in sollte die Erhöhung schnellstmöglich anfechten (Ziffer 0).
+Können alle Fragen mit Ja beantwortet werden, ist die Erhöhung wahrscheinlich gerechtfertigt. Es ist nichts weiter zu unternehmen.
+4 Anfechtung der Mietzinserhöhung
+Hat die Vermieterschaft bei der Erhöhung einen formellen Fehler gemacht (Ziffer 0) oder ist die Anpassung an den gestiegenen Referenzzinssatz (Ziffer 3.2) nicht gerechtfertigt?
+
+Dann sollte der*die Mieter*in die Erhöhung schnellstmöglich bei der Mietschlichtungsbehörde anfechten (Vorlage Anfechtung Mietzinserhöhung). Ein Protest oder eine Erkundigung bei der Vermieterschaft genügt nicht. 
+
+Die Anfechtung muss innert 30 Tagen nach Empfang des Mietzinserhöhungs-
+formulars erfolgen. Eine spätere Anfechtung ist wirkungslos.
+5 Beratung und Informationen
+Sozialarbeiter*innen können sich bei Fragen an die Anlaufstelle für Wohnfragen, Fachstab SI, (sod-si-fachfragen@zuerich.ch), wenden. 
+
+Für die persönliche Direktberatung von Klient*innen steht bei Bedarf der Mieterinnen- und Mieterverband (MV) zur Verfügung. Die Kosten für eine einmalige Beratung oder eine private Mitgliedschaft können von der Sozialhilfe via SIL übernommen werden. 

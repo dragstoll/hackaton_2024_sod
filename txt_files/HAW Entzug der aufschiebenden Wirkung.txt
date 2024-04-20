@@ -1,0 +1,42 @@
+
+
+Grundlage
+Klientinnen und Klienten können einen Entscheid (der SEK, der/des SL oder der/des SA) anfechten, wenn sie mit ihm nicht einverstanden sind. Tun sie dies, kann der Entscheid von Gesetzes wegen nicht umgesetzt werden, bis der Rechtsstreit erledigt ist: Der Einsprache oder dem Rekurs kommt also aufschiebende Wirkung zu (§ 25 Abs. 1 VRG Verwaltungsrechtspflegegesetz des Kantons Zürich). Bis über die Einsprache oder den Rekurs entschieden worden ist, kann ein angefochtener Entscheid somit nicht umgesetzt werden. Beim zweistufigen Auflage- und Kürzungsverfahren wirkt sich die aufschiebende Wirkung auch auf die Folgeentscheide aus: der Kürzungsentscheid kann erst erlassen werden, wenn der Auflageentscheid rechtskräftig ist.
+
+§ 25 Abs. 3 VRG sieht vor, dass ausnahmsweise "aus besonderen Gründen" und wenn der Entzug verhältnismässig ist, die aufschiebende Wirkung entzogen werden kann. Dann kann der angefochtene Entscheid per sofort umgesetzt werden, obwohl er noch nicht rechtskräftig ist. Dabei ist aber zu beachten, dass der Entscheid unter Umständen durch die nächst höhere Instanz aufgehoben oder abgeändert wird und deshalb die SOD allenfalls Leistungen nachzahlen oder zurückfordern müssen.
+
+Grundsatz: Kein Entzug der aufschiebenden Wirkung
+Die SOD verzichten grundsätzlich darauf, in Ihren Entscheiden die aufschiebende Wirkung zu entziehen. 
+
+Nur in Ausnahmefällen, wenn den SOD ein erheblicher – nicht rein fiskalischer – Schaden entstehen würde, rechtfertigt es sich, die aufschiebende Wirkung zu entziehen. Die wichtigsten Ausnahmen sind unter Ziffer 3.2 beschrieben, im Einzelfall sind auch weitere Situationen denkbar, die einen Entzug der aufschiebenden Wirkung rechtfertigen.
+
+Ausnahme: Entzug der aufschiebenden Wirkung
+Folgende Voraussetzungen müssen kumulativ erfüllt sein, damit einem Entscheid ausnahmsweise die aufschiebende Wirkung entzogen werden kann:
+
+Besondere Gründe
+Es muss im konkreten Fall davon ausgegangen werden, dass den SOD ein schwerer, nicht rein finanzieller Nachteil entsteht, wenn der angefochtene Entscheid nicht sofort wirksam wird.
+Verhältnismässigkeit
+Der Entzug der aufschiebenden Wirkung ist im konkreten Fall geeignet, den schweren Nachteil für die SOD zu verhindern;
+es gibt keine schwächere Massnahme, um dieses Ziel zu erreichen und
+die Interessen der SOD an der sofortigen Wirksamkeit des Entscheides wiegen schwerer als die Interessen der Klientin/des Klienten an der Beibehaltung der aktuellen Situation.
+Ein allfälliger Entzug der aufschiebenden Wirkung muss jeweils in der Rechtsmittelbelehrung (im Dispositiv) des anfechtbaren Entscheides angeordnet werden (z.B. im Einstellungsentscheid). Der Entzug ist auf den konkreten Fall zu beziehen und in den Erwägungen immer zu begründen. 
+Entscheid über Entzug der aufschiebenden Wirkung im Vier-Augen-Prinzip
+Entscheide, bei denen geprüft wird, ob ausnahmsweise die aufschiebende Wirkung entzogen werden soll, müssen mit einer Mitarbeiterin oder einem Mitarbeiter des Fachstabs Wirtschaftliche Hilfe (FS WH) im Vier-Augen-Prinzip besprochen werden (ausgenommen Fälle gemäss Ziffer 3.2.2). Die Mitarbeitenden des FS WH halten in einer Aktennotiz ihre Einschätzung fest. 
+
+Sind die Zentrale Rückerstattungen (ZR) oder das Team Vertiefte Abklärungen in die Formulierung des Entscheides involviert, nehmen sie diese Einschätzung anstelle des FS WH vor. 
+Hauptanwendungsfälle
+
+Mittellosigkeit ist nachgewiesenermassen nicht mehr gegeben
+Ein blosser Verdacht oder blosse Zweifel an der Bedürftigkeit reichen für den Entzug der aufschiebenden Wirkung nicht aus, da die Sozialhilfe ansonsten ihrer Aufgabe als letztes Auffangnetz der sozialen Sicherheit nicht mehr gerecht würde. Ausschlaggebend für den Entzug der aufschiebenden Wirkung ist, dass die Klientinnen und Klienten mit an Sicherheit grenzender Wahrscheinlichkeit nicht mehr mittellos sind. 
+
+Mögliche Begründung für den Entzug der aufschiebenden Wirkung:
+
+„Beschreibung der Situation. Kann die Einstellung der wirtschaftlichen Sozialhilfe nicht sofort vollzogen werden, müssen X. weiterhin Gelder ausbezahlt werden, auf die er/sie nachgewiesenermassen keinen Anspruch hat. Die begrenzten Mittel der Sozialhilfe sollen jedoch nur tatsächlich Bedürftigen zu Gute kommen. Deshalb und unter Berücksichtigung sämtlicher übriger Umstände ist einer allfälligen Einsprache gegen diesen Entscheid gestützt auf § 25 Abs. 1 Verwaltungsrechtspflegegesetz die aufschiebende Wirkung zu entziehen.“ 
+Weiterführung der Verrechnung bei Rückerstattungen
+Hier liegt schon ein rechtskräftiger Rückerstattungsentscheid vor und die Einsprache kann allenfalls die Höhe des Verrechnungsanteils zum Thema haben. Bei einer allfälligen Einsprache kann die aufschiebende Wirkung entzogen werden, da das absolute Existenzminimum nicht unterschritten wird. Es wäre zudem störend, wenn – im Extremfall jährlich – die Verrechnung der Rückerstattungsschuld unterbrochen werden müsste, bis über die Einsprache erneut entschieden wurde. Zudem könnte der Schaden der Klientin/des Klienten bei einer Gutheissung der Einsprache durch eine Nachzahlung einfach wieder gutgemacht werden. 
+
+Diese Fälle müssen nicht im Vier-Augen-Prinzip mit dem Rechtsdienst besprochen werden.
+
+Mögliche Begründung für den Entzug der aufschiebenden Wirkung:
+
+„Beschreibung des Rückerstattungsgrundes. Die begrenzten Mittel der Sozialhilfe sollen nur denjenigen Personen zu Gute kommen, die einen Anspruch darauf haben. X. hat die zweckentfremdete Summe daher so schnell wie möglich zurückzuerstatten. Das absolute Existenzminimum von X. wird mit der Verrechnungssumme von Fr. …./Monat nicht gefährdet. Deshalb und unter Berücksichtigung sämtlicher übriger Umstände ist einer allfälligen Einsprache gegen diesen Entscheid gestützt auf § 25 Abs. 1 Verwaltungsrechtspflegegesetz die aufschiebende Wirkung zu entziehen.“

@@ -1,0 +1,610 @@
+Entwurf
+18. Dezember 2023
+Kanton Zürich
+Sicherheitsdirektion
+Kantonales Sozialamt
+SEBE-Abklärungsstelle
+Januar 2024
+1/17
+SEBE-Wegleitung
+für Menschen mit Behinderung
+Version 1 vom 19. Dezember 2023, gültig ab 3. Januar 2024Kantonales Sozialamt
+2/17
+Einleitung
+SEBE ist ein neues System für Menschen mit Behinderung im Kanton Zürich. Menschen
+mit Behinderung können mit SEBE selbst bestimmen, wo sie begleitet und betreut werden
+möchten. Sie können Unterstützung in der eigenen Wohnung bekommen. Oder sie können
+in einer Institution wohnen und dort Unterstützung erhalten. Mit SEBE setzt der Kanton Zü-
+rich das Selbstbestimmungsgesetz (SLBG) um.
+In den ersten drei Jahren müssen zuerst ambulante Angebote entstehen. Es werden erste
+Erfahrungen mit den verschiedenen Neuerungen in SEBE gesammelt und das System wird
+laufend verbessert. Gleichzeitig kommt der Bereich «Arbeit» dazu. Und wir hoffen, dass im-
+mer mehr ambulante Anbietende hinzukommen.
+Für Menschen mit Behinderung, die in einer Institution leben oder in eine Institution eintre-
+ten wollen, ändert sich per Januar 2024 nichts. Sie können direkt in eine Institution eintre-
+ten.
+Weitere Informationen finden Sie auf der Webseite des Kantonalen Sozialamtes
+www.zh.ch/sebe.Kantonales Sozialamt
+3/17
+Inhalt
+SEBE-Wegleitung für Menschen mit Behinderung ................................................................ 1
+Einleitung ............................................................................................................................. 2
+1 Für wen gilt diese Wegleitung? ........................................................................................ 4
+2 Übersicht System SEBE ................................................................................................... 5
+3 Login für SEBE Digital erstellen ....................................................................................... 6
+4 Antrag stellen .................................................................................................................... 6
+4.2 Antrag Teil 1: Bedarf anmelden ................................................................................. 6
+4.3 Antrag Teil 2: Bedarf angeben ................................................................................... 7
+5 Fragebogen und Abklärung .............................................................................................. 7
+5.1 SEBE-Fragebogen auswerten und Unterstützungsbedarf einschätzen ................... 7
+5.2 Subsidiaritätsprüfung ................................................................................................. 8
+5.3 Gesetzliche Grundsätze berücksichtigen .................................................................. 8
+5.4 SEBE-Leistungen festlegen ....................................................................................... 9
+6 Rekurs einreichen ........................................................................................................... 10
+7 SEBE-Voucher ............................................................................................................... 10
+7.1 Drei SEBE-Voucher ................................................................................................. 10
+7.2 Voucher einsetzen ................................................................................................... 12
+8 Anbietende...................................................................................................................... 12
+8.1 Ambulante Anbietende ............................................................................................ 12
+8.2 Bezugspersonen (anerkannte Privatpersonen) ....................................................... 14
+8.3 Institutionen .............................................................................................................. 16
+9 SEBE-Geldbetrag (statt Voucher) .................................................................................. 16
+10 SEBE-Beratungsstellen ................................................................................................ 16
+11 SEBE-Schlichtungsstelle .............................................................................................. 17Kantonales Sozialamt
+4/17
+1 Für wen gilt diese Wegleitung?
+Unter Menschen mit Behinderung gemäss § 5 des Selbstbestimmungsgesetzes (SLBG)
+sowie § 4 der Selbstbestimmungsverordnung (SLBV) werden folgende Personen verstan-
+den:
+Personen Voraussetzungen
+Volljährige Personen mit Rente:
+Rente oder Hilflosenentschä-  Invalidenversicherung (IVG, Bundesgesetz vom 19.
+digung bis AHV-Altersgrenze Juni 1959)
+ Unfallversicherung (UVG, Bundesgesetz vom 20.
+(Art. 21 Abs. 1 des Bundes- März 1981)
+gesetzes über die Alters- und  Militärversicherung (MVG, Bundesgesetz vom 19.
+Hinterlassenenversicherung Juni 1992).
+vom 20. Dezember 1946) Hilflosenentschädigung:
+ Bundesgesetz über den Allgemeinen Teil des Sozi-
+alversicherungsrechts (ATSG) vom 6. Oktober
+2000, Art. 9
+Personen mit AHV-Rente Personen im AHV-Rentenalter können grundsätzlich nur
+Leistungen in den Bereichen beziehen, in denen sie be-
+reits vorher Leistungen bezogen haben (Besitzstands-
+wahrung). Diese Leistungen werden angepasst, falls die
+Person mehr Unterstützung braucht und der altersbe-
+dingte Pflegebedarf nicht überwiegt.
+Personen, die vor dem AHV-Rentenalter Leistungen im
+Bereich Arbeit bezogen haben, können nachher Leistun-
+gen im Bereich Tagesgestaltung beziehen.
+Personen im AHV-Rentenalter können ausnahmsweise
+Leistungen in neuen Bereichen beziehen. Dann darf es
+aber nicht teurer werden.
+Jugendliche bis zum 18. Ge- Drei Voraussetzungen müssen erfüllt sein:
+burtstag  invalid im Sinne von Art. 8 ATSG
+ Volksschule oder berufliche Grundbildung abge-
+schlossen
+ kein weiterer Anspruch auf Massnahmen der Kin-
+der- und Jugendhilfe oder der beruflichen Integra-
+tion
+Personen, welche die versi- Zwei Voraussetzungen müssen erfüllt sein:
+cherungsmässigen Voraus-  Bestätigung des Invaliditätsgrads über 40%
+setzungen (Art. 6 IVG) nicht  Bestätigung, dass ein Bezug von Leistungen aus
+erfüllen. Oder Personen, wel- formalen Gründen nicht möglich ist.
+che die Mindestbeitragszeit
+(Art. 36 IVG) nicht erfüllen.Kantonales Sozialamt
+5/17
+Weitere Voraussetzung gemäss § 2 SLBV:
+Menschen mit Behinderung müssen zudem seit mindestens zwei Jahren ihren zivilrechtli-
+chen Wohnsitz im Kanton Zürich haben. Oder sie müssen die weiteren Voraussetzungen
+zur Karenzfrist erfüllen (§ 2 Abs. 2 und Abs. 4 SLBV).
+2 Übersicht System SEBE
+Dieses Kapitel gibt eine kurze Übersicht, wie SEBE funktioniert. Die einzelnen Schritte wer-
+den weiter unten in dieser Wegleitung ausführlich beschrieben.
+SEBE bietet Begleitung und Betreuung für Menschen mit Behinderung. SEBE unterstützt,
+wenn keine andere Stelle die notwendige Begleitung und Betreuung finanziert.
+Menschen mit Behinderung können über SEBE Digital Begleitung und Betreuung beantra-
+gen. SEBE Digital ist eine Online-Plattform. Zuerst erstellen Menschen mit Behinderung ein
+Login für den Zugang zu SEBE Digital.
+Nach dem Login stellen Menschen mit Behinderung den ersten Teil des Antrags. Dafür ge-
+ben sie auf SEBE Digital erste Informationen zu ihrer Person ein. Sie teilen beispielsweise
+mit, ob sie eine Rente oder Hilflosenentschädigung beziehen. Die Abklärungsstelle prüft die
+Angaben und schaut, ob die Voraussetzungen erfüllt sind. Falls ja, erhält der Mensch mit
+Behinderung den SEBE-Fragebogen.
+Nun startet der zweite Teil des Antrags. Im SEBE-Fragebogen gibt der Mensch mit Behin-
+derung an, wie viel Begleitung und Betreuung er braucht (Selbsteinschätzung). Eine an-
+dere Person ergänzt diese Selbsteinschätzung (ergänzende Sicht). Menschen mit Behinde-
+rung können den SEBE-Fragebogen digital ausfüllen oder auf Papier ausdrucken und aus-
+füllen. Danach geht der Fragebogen an die Abklärungsstelle zurück.Kantonales Sozialamt
+6/17
+Die Abklärungsstelle liest den ausgefüllten SEBE-Fragebogen und die eingereichten Unter-
+lagen. Sie klärt offene Punkte telefonisch oder in einem persönlichen Gespräch. Hat die
+Abklärungsstelle alles geklärt, stellt sie dem Menschen mit Behinderung einen Abklärungs-
+bericht zu. Danach stellt die Abklärungsstelle einen Voucher aus. Darauf steht, wie viele
+Stunden Begleitung und Betreuung der Mensch mit Behinderung beziehen kann.
+Der Mensch mit Behinderung kann selbst entscheiden, bei wem er den Voucher einsetzen
+möchte. Es gibt zwei Möglichkeiten: Ambulante Anbietende und Privatpersonen. Privatper-
+sonen sind Bezugspersonen von Menschen mit Behinderung, die vom Kantonalen Sozial-
+amt als Anbietende anerkannt sind. In eine Institution kann man ohne Voucher eintreten.
+3 Login für SEBE Digital erstellen
+Menschen mit Behinderung können bei SEBE einen Antrag für Begleitung und Betreuung
+stellen. Der Antrag wird über SEBE Digital gestellt. Der Mensch mit Behinderung wird in
+SEBE Digital informiert, was mit seinen Daten geschieht. Seine Daten werden ausschliess-
+lich für SEBE verwendet.
+Für die Antragstellung meldet sich der Mensch mit Behinderung auf SEBE Digital an. SEBE
+Digital ist eine Online-Plattform. Sie wurde für SEBE entwickelt. Bei der Anmeldung wird
+nach Vorname und Nachname, einer gültigen E-Mailadresse und Mobiltelefonnummer ge-
+fragt. Weiter muss die Person die Nutzungshinweise lesen und annehmen. Am Schluss
+wird ein Passwort erstellt. Denn bei jedem Besuch auf SEBE Digital ist ein Login nötig.
+4 Antrag stellen
+4.2 Antrag Teil 1: Bedarf anmelden
+Im Teil 1 des Antrags geht es um persönliche Angaben und die aktuellen Leistungen:
+ Personalien und Kontaktangaben: Name, Vorname, Geburtsdatum, AHV-Nummer,
+Telefonnummer und E-Mailadresse
+ Bestehende Leistungen: Rentenentscheid der IV, Unfall- oder Militärversicherung, In-
+formationen zu Hilflosenentschädigung, IV-Assistenzbeitrag und entsprechende
+Nachweise
+ Beistandschaft (falls vorhanden): Personalien der Beistandsperson, Kontaktangaben,
+Ernennungsurkunde Beistandschaft
+ Menschen mit Behinderung, die wegen versicherungsrechtlichen Gründen keine
+Rente oder Hilflosenentschädigung erhalten: Nachweise für Behinderung und An-
+spruchsberechtigung gemäss Absprache mit der Abklärungsstelle
+Die Abklärungsstelle prüft beim Teil 1 des Antrags, ob eine Person grundsätzlich Anspruch
+auf SEBE-Leistungen hat. Die Voraussetzungen stehen in § 5 des Selbstbestimmungsge-
+setzes. Wenn alle Voraussetzungen erfüllt sind, erhält der Mensch mit Behinderung den
+SEBE-Fragebogen für die Abklärung. Wenn die Voraussetzungen nicht erfüllt sind, wird dieKantonales Sozialamt
+7/17
+Person darüber informiert. Sie kann eine Verfügung verlangen , wenn sie damit nicht einver-
+standen ist.
+4.3 Antrag Teil 2: Bedarf angeben
+Im Teil 2 geben Menschen mit Behinderung ihren Bedarf mit dem SEBE-Fragebogen an.
+Sie kennen ihre eigene Situation am besten. Der SEBE-Fragebogen klärt ab, wie viel Un-
+terstützung jemand wegen einer Behinderung braucht. Der SEBE-Fragebogen wurde für
+das Kantonale Sozialamt entwickelt und stützt sich auf eine wissenschaftliche Grundlage.
+Der SEBE-Fragebogen wird auf SEBE Digital freigeschaltet. Der SEBE-Fragebogen kann
+auch als PDF-Formular oder auf Papier zugestellt werden. Der Mensch mit Behinderung
+muss den SEBE-Fragebogen ausfüllen. Er macht Angaben zu verschiedenen Bereichen
+des Lebens wie beispielsweise «Gesundheit und Selbstfürsorge» oder «Alltag». Er gibt an,
+zu welchen Uhrzeiten er Unterstützung braucht und ob der Bedarf immer gleich oder
+schwankend ist. Weiter macht er Angaben zu Hilfsmitteln und Leistungen anderer Versi-
+cherungen. Die Angaben müssen wahr sein.
+Die Bedarfsangaben werden durch eine zweite Person ergänzt (ergänzende Sicht). Der
+Mensch mit Behinderung entscheidet, wer diese zweite Person sein soll. Die ergänzende
+Sicht soll eine zweite Sichtweise einbringen. Es soll nichts Wichtiges vergessen gehen. So
+kann die SEBE-Abklärungsstelle den Unterstützungsbedarf besser feststellen. Der Mensch
+mit Behinderung gibt an, ob er mit der ergänzenden Sicht einverstanden ist oder nicht.
+Am Schluss des SEBE-Fragebogens wird der Mensch mit Behinderung über das weitere
+Vorgehen informiert. Er reicht den vollständigen SEBE-Fragebogen bei der Abklärungs-
+stelle ein.
+5 Fragebogen und Abklärung
+Die Abklärungsstelle bestätigt den Eingang des SEBE-Fragebogens. Sobald eine Fachspe-
+zialistin oder ein Fachspezialist der Abklärungsstelle den Antrag bearbeitet, erhält die be-
+troffene Person eine Information. Sie weiss nachher, wer für ihre Abklärung zuständig ist.
+Sie kann sich bei Fragen und Anliegen direkt an diese Fachperson wenden.
+Im Abklärungsprozess kontaktiert die Abklärungsstelle immer den Menschen mit Behinde-
+rung oder dessen Vertretung. In der Regel geschieht dies per E-Mail, Brief oder Telefon.
+Meistens gibt es ein Gespräch in der Abklärungsstelle. Dabei ist das gegenseitige Verste-
+hen zentral. Dafür kann das Abklärungsgespräch auch online, in Gebärdensprache oder
+mit unterstützter Kommunikation stattfinden. Auf Wunsch sendet die Abklärungsstelle Un-
+terlagen in Leichter Sprache.
+5.1 SEBE-Fragebogen auswerten und Unterstützungsbedarf einschätzen
+Die Fachpersonen studieren den SEBE-Fragebogen ganz genau. Sie überprüfen die Infor-
+mationen und holen fehlende Informationen ein – entweder beim Menschen mit Behinde-
+rung oder bei anderen Stellen. Sie klären den Unterstützungsbedarf ab und folgen dabei
+einem strukturierten Vorgehen. Oft findet nachher ein Abklärungsgespräch statt. Da wer-
+den offene Fragen mit dem Menschen mit Behinderung besprochen. Der Mensch mit Be-
+hinderung kann zu diesem Gespräch weitere Personen mitnehmen.Kantonales Sozialamt
+8/17
+5.2 Subsidiaritätsprüfung
+Die Fachpersonen müssen prüfen, ob andere Versicherungen gewisse Leistungen zahlen
+können. Das ist die sogenannte Subsidiaritätsprüfung. Die Abklärungsstelle muss solche
+Leistungen beim Bestimmen der SEBE-Leistungen einbeziehen. Folgende Leistungen wer-
+den zum Beispiel in die Subsidiaritätsprüfung einbezogen:
+ Leistungen der Krankenversicherung: Alle Leistungen, die über die Krankenversiche-
+rung abgerechnet werden können (z.B. Spitex).
+ Leistungen von weiteren Versicherungen: Alle Leistungen, die über eine Versiche-
+rung abgedeckt werden können (z.B. Unfallversicherung).
+ Begleitung und Betreuung über die Hilflosenentschädigung (HE): Es werden pau-
+schal Stunden für Begleitung und Betreuung abgezogen: Bei einer leichten Hilflo-
+sigkeit werden zwei Stunden pro Monat abgezogen. Bei einer mittleren Hilflosigkeit
+werden fünf Stunden abgezogen und bei einer schweren Hilflosigkeit werden acht
+Stunden pro Monat abgezogen. Es wird nicht der gesamte Betrag der HE für Be-
+gleitung und Betreuung abgezogen. Denn die HE ist auch für die Finanzierung von
+anderen Leistungen vorgesehen.
+ Der Assistenzbeitrag der Invalidenversicherung (IV) wird ganz angerechnet. Gemäss
+IV deckt der Assistenzbeitrag den Bedarf an Begleitung und Betreuung im Grund-
+satz. Deshalb braucht es keine umfassende Bedarfsabklärung durch die SEBE-Ab-
+klärungsstelle. SEBE-Leistungen gibt es vor allem für den Aufwand als Arbeitgebe-
+rin oder Arbeitgeber im Assistenzbeitrag. Wird der Assistenzbeitrag aufgrund einer
+Obergrenze gekürzt, kann die Abklärungsstelle die darüber hinausgehenden Stun-
+den als SEBE-Leistungen zusprechen.
+ Hilfsmittel werden berücksichtigt, wenn sie Leistungen im Bereich Begleitung und Be-
+treuung ersetzen.
+ Leistungen von Beiständinnen und Beiständen oder weiteren Personen gemäss ih-
+rem gesetzlichen Auftrag.
+ Tagesstruktur oder Erwerbsarbeit: Es werden pauschal 90 Minuten pro Halbtag ab-
+gezogen. Die Begleitung und Betreuung in den Bereichen Tagesgestaltung und Ar-
+beit ausserhalb von Institutionen gemäss IFEG werden aktuell noch nicht über
+SEBE finanziert. Dieser Bereich soll zu einem späteren Zeitpunkt dazu kommen.
+Wenn Personen SEBE-Leistungen beziehen möchten, müssen sie allenfalls vor oder wäh-
+rend der Abklärung Leistungen bei anderen Versicherungen beantragen. Erst wenn geklärt
+ist, dass die anderen Versicherungen nicht zahlen, kann die Abklärungsstelle festlegen,
+welche Leistungen durch SEBE bezahlt werden. Während der Abklärung von anderen Leis-
+tungen, sind im Ausnahmefall befristete SEBE-Leistungen möglich.
+5.3 Gesetzliche Grundsätze berücksichtigen
+Die Abklärungsstelle muss sich an das Selbstbestimmungsgesetz halten. Sie muss auch
+die vier gesetzlichen Grundsätze berücksichtigen: «Qualität, Zweckmässigkeit, Wirtschaft-
+lichkeit und Verhältnismässigkeit». Das bedeutet: Eine Leistung muss zweckmässig undKantonales Sozialamt
+9/17
+angebracht sein; auch die Qualität und der Preis müssen stim men. Die Grundsätze werden
+zum Beispiel so berücksichtigt:
+ Wer in einer Institution wohnt, kann nicht gleichzeitig ambulante SEBE-Leistungen
+beziehen (Ausnahme: Voucher Zukunft und Veränderung bei geplantem Auszug).
+ Mit SEBE können Menschen mit Behinderung in Institutionen leben. Dort sind Be-
+gleit- und Betreuungspersonen für mehrere Personen immer anwesend oder abruf-
+bar. Mit SEBE können Menschen mit Behinderung in privaten Wohnungen leben.
+Dort sind Begleit- und Betreuungspersonen nicht immer anwesend oder abrufbar.
+Ambulante Leistungen sind begrenzt. Das gilt auch für die Begleitung und Betreu-
+ung in der Freizeit.
+ Leistungen für Begleitung und Betreuung werden gemeinsam mit dem Menschen mit
+Behinderung durchgeführt. Es sind keine stellvertretenden Leistungen. Für jeman-
+den stellvertretend kochen, putzen, waschen oder für jemanden die Steuererklä-
+rung ausfüllen sind keine SEBE-Leistungen. Diese Aufzählung ist nicht fertig. Stell-
+vertretende Leistungen werden über die Hilflosenentschädigung finanziert. Im Ein-
+zelfall sind Ausnahmen wegen einer speziellen Situation möglich.
+ Wenn sich die Lebenssituation ändert, müssen Personen neue Dinge lernen. Wer
+beispielsweise aus einer Institution oder dem Elternhaushalt auszieht, muss lernen
+zu kochen, Kleider zu waschen, den Haushalt zu führen. Die Personen brauchen
+nachher weniger Unterstützung. Die SEBE-Leistungen «Zukunft und Veränderung»
+sind deshalb befristet.
+5.4 SEBE-Leistungen festlegen
+Die Fachpersonen klären ab, welche Unterstützung SEBE bezahlt. Sie berücksichtigen da-
+bei unterschiedliche Informationen: die Angaben im SEBE-Fragebogen und aus dem Ab-
+klärungsgespräch, die Subsidiaritätsprüfung und die gesetzlichen Rahmenbedingungen.
+Eine Abklärung ist immer individuell. Die Leistungen werden in Stunden festgelegt. Es sind
+aber nicht immer ganze Stunden. Es können also zum Beispiel auch Viertelstunden sein.
+Der Mensch mit Behinderung erhält einen Abklärungsbericht mit den zugesprochenen
+Stunden. Er kann innert 30 Tagen Rückfragen stellen oder eine Anpassung bei der Fach-
+person beantragen. Nachher stellt die Abklärungsstelle den Voucher (Verfügung) aus. Da-
+rin steht, wie viele Stunden Begleitung und Betreuung SEBE finanziert.
+Personen mit IV-Assistenzbeitrag erhalten zusätzlich zum Abklärungsbericht ein Formular.
+Dort können sie angeben, ob sie ihre Stunden als Voucher oder als Geldbetrag beziehen
+möchten. Die Abklärungsstelle muss das Formular innert 30 Tagen erhalten, um die rich-
+tige Verfügung auszustellen.
+Mit der Verfügung ist die Abklärung abgeschlossen. Wenn der Bedarf sinkt, muss der
+Mensch mit Behinderung dies der Abklärungsstelle mitteilen. Wer später mehr Unterstüt-
+zung in Form von Begleitung und Betreuung braucht (z. B. wegen Krankheit oder nach ei-
+nem Umzug), kann eine neue Abklärung beantragen. Wenn der Bedarf steigt und eine Per-
+son zusätzliche Leistungen benötigt, muss die Abklärungsstelle eine neue Abklärung
+durchführen. Auch kann die Abklärungsstelle die Person zu einer Überprüfung des An-
+spruchs einladen.Kantonales Sozialamt
+10/17
+6 Rekurs einreichen
+Wenn der Mensch mit Behinderung mit den verfügten Stunden an Begleitung und Betreu-
+ung nicht einverstanden ist, kann er gegen die Verfügung Rekurs einreichen. Er kann den
+Rekurs bei der Rekursabteilung der Sicherheitsdirektion einreichen. Im Rekurs gibt der
+Mensch mit Behinderung an, mit was er nicht einverstanden ist. Mit einem Rekurs gibt der
+Mensch mit Behinderung der Rekursabteilung den Auftrag, die Abklärung der Abklärungs-
+stelle zu überprüfen. Für den Rekurs hat er ab Zustellung der Verfügung 30 Tage Zeit.
+Auch in der Verfügung steht, wie man einen Rekurs einreichen kann (Rechtsmittelbeleh-
+rung).
+7 SEBE-Voucher
+Ein Voucher ist ein Zahlungsmittel für Begleitung und Betreuung. Im Voucher steht die Un-
+terstützung, die wegen einer Behinderung über SEBE bezahlt wird. Diese Unterstützung
+wird in Stunden angegeben.
+Menschen mit Behinderung können den Voucher bei ambulanten Anbietenden und Be-
+zugspersonen einsetzen. Bezugspersonen sind Privatpersonen, die vom Kantonalen Sozi-
+alamt als Anbietende anerkannt sind. Sie vereinbaren mit den ambulanten Anbietenden o-
+der der Bezugsperson, wie viele Stunden für Begleitung und Betreuung diese erbringen
+sollen. Danach können Menschen mit Behinderung die Stunden mit dem Voucher beglei-
+chen. Die geleisteten Stunden werden von ihrem Voucher-Konto abgezogen. Das Kanto-
+nale Sozialamt rechnet direkt mit den Anbietenden oder Bezugspersonen ab. Menschen
+mit Behinderung bekommen also keine Rechnungen. Sie können ihr Stundenguthaben je-
+derzeit auf ihrem Voucher-Konto einsehen. Für Menschen, welche SEBE Digital nicht nut-
+zen können, werden Alternativen angeboten.
+7.1 Drei SEBE-Voucher
+Es gibt drei verschiedene Voucher bei SEBE für Begleitung und Betreuung. Einer für «All-
+tag und Privatleben», einer für «Freizeit und Gesellschaft» sowie einer für «Zukunft und
+Veränderung». Sie werden hier beschrieben:
+7.1.1 Voucher «Alltag und Privatleben»
+Dieser Voucher dient dazu, alltägliche Aufgaben zu erledigen, sich um sich selbst zu sor-
+gen und das Privatleben zu gestalten.
+Leistungen: «Wohnen», «Familie, Freundschaft und Sexualität», «Gesundheit und
+Selbstfürsorge» und «Arbeitgeberrolle (im Assistenzbeitrag der IV)».
+Höhe: Die Anzahl Stunden ist pro Kalenderjahr angegeben.
+Gültigkeit: Der Voucher «Alltag und Privatleben» gilt in der Regel so lange, bis es zu ei-
+ner erneuten Abklärung kommt. Die Abklärungsstelle kann den Voucher befristen, also zeit-
+lich einen Endpunkt setzen.
+Gutschrift: Die jährlichen Stunden vom Voucher werden gleichmässig auf die Monate
+verteilt. Jeden Monat erhält die Person Stunden auf ihrem Voucher-Konto (Gutschrift). Die
+Stunden müssen nicht vor der nächsten Gutschrift bezogen werden. Das StundenguthabenKantonales Sozialamt
+11/17
+auf dem Voucher-Konto kann maximal in der Höhe von zwei G utschriften sein. Hat das
+Stundenguthaben diese Obergrenze erreicht, wird die nächste Gutschrift angepasst.
+Spezielles: Der Voucher «Alltag und Privatleben» kann «Zusatzstunden» und/oder ein
+«Nachtpikett» umfassen:
+ Zusatzstunden: Wer wegen seiner Behinderung einen stark schwankenden Be-
+darf hat, hat Anspruch auf Zusatzstunden. Beispielsweise während einer psychi-
+schen Krise oder einer vorübergehend starken Verschlechterung des Zustandes.
+Sind die Zusatzstunden aktiviert, erhöht sich die Gutschrift.
+ Nachtpikett: Anspruch auf ein Nachtpikett haben Personen, wenn folgende Bedin-
+gungen erfüllt sind: Sie brauchen wegen ihrer Behinderung nachts Begleit- und Be-
+treuungsleistungen. Diese Leistungen sind unregelmässig und nicht planbar. Die
+Person benötigt darum einen ambulanten Anbietenden, der zwischen 22 Uhr und 6
+Uhr auf Abruf und für einen allfälligen Einsatz bereit ist. Dieser Bereitschaftsdienst
+kann nicht von einer Bezugsperson abgerechnet werden; ein effektiver Einsatz in
+der Nacht hingegen schon.
+7.1.2 Voucher «Freizeit und Gesellschaft»
+Dieser Voucher ist für die Freizeit und das gesellschaftliche Leben vorgesehen.
+Höhe: Die Anzahl Stunden ist pro Kalenderjahr angegeben.
+Gültigkeit: Der Voucher «Freizeit und Gesellschaft» gilt in der Regel so lange, bis es zu
+einer erneuten Abklärung kommt. Die Abklärungsstelle kann den Voucher befristen, also
+zeitlich einen Endpunkt setzen.
+Gutschrift: Die jährlichen Stunden vom Voucher werden gleichmässig auf vier Gutschrif-
+ten verteilt. Alle drei Monate erhält die Person neue Stunden auf ihrem Voucher-Konto
+(Gutschrift). Die Stunden müssen nicht vor der nächsten Gutschrift bezogen werden. Das
+Stundenguthaben auf dem Voucher-Konto kann maximal in der Höhe von acht Gutschriften
+sein. Hat das Stundenguthaben diese Obergrenze erreicht, wird die nächste Gutschrift an-
+gepasst.
+7.1.3 Voucher «Zukunft und Veränderung»
+Dieser Voucher dient dazu, die Zukunft zu gestalten und Veränderungen im Leben umzu-
+setzen.
+Leistungen: Der Voucher kann jede Leistung abdecken («Wohnen», «Familie, Freund-
+schaft und Sexualität», «Gesundheit und Selbstfürsorge», «Arbeitgeberrolle (im Assistenz-
+beitrag der IV)» und «Freizeit»). Mit diesem Voucher erhält eine Person Begleitung und Be-
+treuung bei einer grossen Lebensveränderung. Beispielsweise muss sie sich nach einem
+Umzug in der neuen Wohnumgebung zurechtfinden und kann das wegen ihrer Behinde-
+rung nicht selbstständig.
+Höhe: Die Anzahl Stunden ist für den befristeten Zeitraum angegeben.
+Gültigkeit: Der Voucher «Zukunft und Veränderung» ist zeitlich befristet (maximal auf 18
+Monate).Kantonales Sozialamt
+12/17
+Gutschrift: Der Mensch mit Behinderung erhält die Stunden einmalig mit einer Gutschrift.
+Nicht verbrauchte Stunden verfallen nach Ablauf der Gültigkeit des Vouchers.
+7.2 Voucher einsetzen
+Der Mensch mit Behinderung entscheidet, bei wem er den Voucher einsetzen möchte:
+1. Bei anerkannten ambulanten Anbietenden
+2. Bei Bezugspersonen (Privatpersonen, die vom Kantonalen Sozialamt als An-
+bietende anerkannt sind)
+Der Mensch mit Behinderung kann Leistungen von verschiedenen ambulanten Anbieten-
+den und/oder Bezugspersonen mit dem Voucher beziehen. Der Mensch mit Behinderung
+kann nur die Anzahl Stunden gemäss Voucher vereinbaren. Wenn der Voucher bei mehre-
+ren ambulanten Anbietenden oder Bezugspersonen eingelöst wird, müssen die Einsätze
+der einzelnen Anbietenden oder Bezugspersonen aufeinander abgestimmt sein. Der
+Mensch mit Behinderung sollte in diesem Fall über die geplanten Einsätze der ambulanten
+Anbietenden oder Bezugspersonen informieren.
+Wer in eine Institution eintreten möchten, kann dies ohne Voucher tun.
+8 Anbietende
+SEBE-Leistungen können bei ambulanten Anbietenden, Bezugspersonen (anerkannte Pri-
+vatpersonen) oder in Institutionen bezogen werden, die vom Kantonalen Sozialamt aner-
+kannt sind. In diesem Kapitel wird der Bezug von Leistungen bei den verschiedenen Anbie-
+tenden beschrieben.
+8.1 Ambulante Anbietende
+Ambulante Anbietende müssen anerkannt und auf einer Liste des Kantonalen Sozialamtes
+aufgeführt sein. Das bedeutet: Sie haben vom Kantonalen Sozialamt eine Anerkennung er-
+halten. Das Kantonale Sozialamt hat sie geprüft und hat festgestellt, dass sie verschiedene
+Kriterien erfüllen. Ambulante Anbietende unterstützen Menschen mit Behinderung, die aus-
+serhalb einer Institution leben. Sie kommen zu Hause vorbei und unterstützen im Alltag, in
+der Freizeit, bei einer Lebensveränderung oder punktuell in der Nacht. Menschen mit Be-
+hinderung wählen ihre ambulanten Anbietenden aus einer Liste aus. Die Liste steht auf der
+Webseite des Kantonalen Sozialamts.
+So kann der Voucher bei ambulanten Anbietenden eingelöst werden:
+Kontakt aufnehmen
+Der Mensch mit Behinderung hat einen ambulanten Anbietenden von der Liste des Kanto-
+nalen Sozialamts ausgewählt. In der Liste sind Kontaktangaben wie Telefonnummer oder
+E-Mailadresse angegeben. Der Mensch mit Behinderung schickt dem ambulanten Anbie-
+tenden eine Anfrage und sagt, welche Leistung er mit welchem Voucher beziehen möchte.
+Für eine schriftliche Kontaktaufnahme gibt es die Vorlage «Einen ambulanten Anbietenden
+kontaktieren». Diese Vorlage ist auf der Webseite des Kantonalen Sozialamts.Kantonales Sozialamt
+13/17
+Vertrag abschliessen (Einsatzvereinbarung und An hänge)
+Wenn der ambulante Anbietende die angefragte Begleitung und Betreuung bieten kann,
+kann die Person mit dem Anbietenden gemeinsam einen Vertrag abschliessen. Beide Sei-
+ten besprechen die Erwartungen und halten alle Details in einem Vertrag fest.
+Der ambulante Anbietende muss für den Vertrag die Vorlage des Kantonalen Sozialamts
+benutzen. Die Vorlage besteht aus einer Einsatzvereinbarung und einem oder mehreren
+Anhängen:
+ Die Einsatzvereinbarung regelt die Rahmenbedingungen der Begleitung und Betreu-
+ung. Zum Beispiel die Absage von Einsätzen oder das Vorgehen bei Uneinigkeit.
+Die Person und der Anbietende vereinbaren, ob Einsätze in Gruppen oder per Te-
+lefon stattfinden dürfen. Zudem bestimmen die Person und der Anbietende gemein-
+sam eine Kündigungsfrist für die Einsatzvereinbarung und die Anhänge. Sie kann
+zwischen einem und drei Monaten liegen.
+ Die Anhänge regeln, wie viele Stunden Begleitung und Betreuung der ambulante An-
+bietende erbringen soll. Sie regeln ausserdem, für welche Leistungen dies sein soll:
+«Wohnen» «Familie, Freundschaft und Sexualität», «Gesundheit und Selbstfür-
+sorge», «Arbeitgeberrolle im Assistenzbeitrag der IV», «Freizeit». Für jeden Vou-
+cher wird ein separater Anhang erstellt. Die Stunden eines Vouchers können auf
+verschiedene Anbietende aufgeteilt werden. Der Mensch mit Behinderung darf die
+Anzahl Stunden des Vouchers nicht überschreiten. Er kann auf SEBE Digital se-
+hen, wie viele Stunden er bereits eingesetzt hat.
+ Für die Einsatzvereinbarung zum Voucher «Alltag und Privatleben» gelten Besonder-
+heiten, wenn in der Bedarfsermittlung ein Anspruch auf «Nachtpikett und «Zusatz-
+stunden» festgelegt wurde:
+o Wenn eine Person Anspruch auf ein Nachtpikett hat, kann sie einen Anbie-
+tenden mit Nachtpikett suchen und ein Nachtpikett vereinbaren. Es ist nicht
+möglich, das Nachtpikett über mehrere Anbietende aufzuteilen.
+o Wenn eine Person vorübergehend einen Anspruch auf Zusatzstunden hat,
+kann sie bestimmen, wer sie begleiten soll (beispielsweise während einer
+psychischen Krise oder einer vorübergehend starken Verschlechterung des
+Zustandes). Die Person kann die Zusatzstunden auf einen oder mehrere
+ambulante Anbietende oder Bezugspersonen verteilen. Die Person be-
+stimmt zudem, wer die Zusatzstunden beim Kantonalen Sozialamt aktivie-
+ren darf. Es ist zum Beispiel möglich, dass während einer Phase mit stark
+erhöhtem Bedarf mehrere Anbietende zusätzliche Begleitung und Betreu-
+ung erbringen sollen, aber nur ein Anbieter zuständig dafür ist, die Zusatz-
+stunden zu aktivieren. Die Zusatzstunden sind drei Monate gültig.
+Die Einsatzvereinbarung und die Anhänge werden vom Menschen mit Behinderung und
+dem ambulanten Anbietenden unterschrieben. Beide erhalten je ein unterschriebenes
+Exemplar. Der ambulante Anbietende lädt die unterschriebene Vereinbarungen auf SEBE
+Digital hoch. Das Kantonale Sozialamt prüft, ob es die Einsatzvereinbarung freigeben kann.
+Die Vereinbarung muss mit dem Voucher übereinstimmen.Kantonales Sozialamt
+14/17
+Begleitung und Betreuung erhalten
+Wenn das Kantonale Sozialamt die Einsatzvereinbarung und Anhänge freigegeben hat, fi-
+nanziert es die Begleitung und Betreuung durch den ambulanten Anbietenden. Anbietende
+leisten maximal die im Anhang abgemachten Stunden.
+Der Mensch mit Behinderung und der ambulante Anbietende vereinbaren gemeinsam die
+Termine für die Begleitung und Betreuung. Die vereinbarten Termine sind für beide ver-
+pflichtend. Sie können in Absprache verschoben oder abgesagt werden. Kann der ambu-
+lante Anbietende den Termin nicht wahrnehmen, muss er für Ersatz sorgen. Kann die Per-
+son den Termin nicht einhalten, muss sie dem Anbieter so früh als möglich, spätestens
+aber 24 Stunden vorher absagen. Sonst werden die Stunden auf dem Voucher-Konto be-
+lastet.
+Wenn der Termin stattgefunden hat, trägt der ambulante Anbietende den Termin auf SEBE
+Digital ein. Die Person kann in ihrem Voucher nachschauen, welche Begleitung und Be-
+treuung der ambulante Anbietende mit dem Kantonalen Sozialamt abgerechnet hat. Der
+ambulante Anbietende macht Notizen zu den Einsätzen. Diese Notizen darf der Menschen
+mit Behinderung jederzeit einsehen.
+Vereinbarung kündigen
+Die Anhänge können zeitlich unbefristet oder befristet sein. Sowohl Menschen mit Behinde-
+rung als auch ambulante Anbietende können die Einsatzvereinbarung und die Anhänge
+kündigen. Die Kündigung muss schriftlich und unter Einhaltung der vereinbarten Kündi-
+gungsfrist eingereicht werden. Die Kündigungsfrist wird in der Einsatzvereinbarung festge-
+halten. Sie kann einen, zwei oder drei Monate betragen. Die einzelnen Anhänge können
+unabhängig voneinander gekündigt werden. Der ambulante Anbietende informiert das Kan-
+tonale Sozialamt über die Kündigung.
+Eine ausserordentliche Auflösung des Vertrags ist aus wichtigen Gründen möglich. Zum
+Beispiel bei wesentlichen Veränderungen der Umstände oder anderen Gründen, welche
+die weitere Zusammenarbeit als unzumutbar erscheinen lassen.
+Nach Ablauf der Kündigungsfrist sind die Stunden im Voucher wieder verfügbar und kön-
+nen an einen anderen Anbietenden oder eine Bezugsperson vergeben werden.
+8.2 Bezugspersonen (anerkannte Privatpersonen)
+Der Mensch mit Behinderung kann seinen Voucher bei Bezugspersonen einlösen. Mit Be-
+zugspersonen sind in SEBE Personen aus dem Umfeld des Menschen mit Behinderung
+gemeint. Eine Bezugsperson kann maximal 400 Stunden pro Jahr über den Voucher ab-
+rechnen. Der Mensch mit Behinderung kann auch mehrere Bezugspersonen beauftragen.
+Sie müssen vom Kantonalen Sozialamt anerkannt sein.
+So kann der Voucher bei Bezugspersonen eingelöst werden:
+Kontakt aufnehmen
+Der Mensch mit Behinderung möchte Stunden seines Vouchers bei einer Privatperson ein-
+lösen. Wenn die Bezugsperson einverstanden ist, muss sie sich beim Kantonalen Sozial-
+amt anerkennen lassen. Das Kantonale Sozialamt prüft, ob diese Person die Vorausset-
+zungen für eine Anerkennung erfüllt. Weitere Informationen dazu stehen in der SEBE-Weg-
+leitung für Privatpersonen.Kantonales Sozialamt
+15/17
+Vertrag abschliessen (Einsatzvereinbarung)
+Sobald die Bezugsperson anerkannt ist, kann der Mensch mit Behinderung mit der Bezugs-
+person einen Vertrag abschliessen. Dieser Vertrag heisst Einsatzvereinbarung. Beide Sei-
+ten besprechen die Erwartungen und halten alle Details in einem Vertrag fest. Die Bezugs-
+personen finden für die Einsatzvereinbarung auf SEBE Digital eine Vorlage vom Kantona-
+len Sozialamt. Sie müssen diese Vorlage verwenden.
+Für jeden Voucher muss eine separate Einsatzvereinbarung abgeschlossen werden. Dies
+gilt auch, wenn eine Bezugsperson für mehrere Voucher Begleitung und Betreuung leistet.
+Mit der Einsatzvereinbarung sind die Rahmenbedingungen geregelt. Zum Beispiel die Ab-
+sage von Einsätzen oder das Vorgehen bei Uneinigkeit. Zudem bestimmen der Mensch mit
+Behinderung und die Bezugsperson gemeinsam eine Kündigungsfrist für die Einsatzverein-
+barung und die Anhänge. Sie kann zwischen einem und drei Monaten liegen. Auch steht in
+der Einsatzvereinbarung, wie viele Stunden und welche Leistung die Bezugsperson erbrin-
+gen soll. Es sind Leistungen in verschiedenen Bereichen möglich: «Wohnen», «Familie,
+Freundschaft und Sexualität», «Gesundheit und Selbstfürsorge», «Arbeitgeberrolle im As-
+sistenzbeitrag der IV» und «Freizeit»). Die Stunden eines Vouchers können auf verschie-
+dene Anbietende aufgeteilt werden. Der Mensch mit Behinderung darf die Anzahl Stunden
+des Vouchers nicht überschreiten. Er kann in SEBE Digital nachschauen, wie viele Stun-
+den er bereits eingesetzt hat. Für die Einsatzvereinbarung zum Voucher «Alltag und Privat-
+leben» gelten Besonderheiten, wenn in der Bedarfsermittlung ein Anspruch auf «Nachtpi-
+kett und «Zusatzstunden» festgelegt wurde:
+ Wenn jemand Anspruch auf Zusatzstunden hat (beispielsweise während einer psy-
+chischen Krise oder einer vorübergehend starken Verschlechterung des Zustan-
+des), kann er bestimmen, wer ihn dann begleiten soll. Er kann die Zusatzstunden
+auf einen oder mehrere ambulante Anbietende oder Bezugspersonen verteilen. Er
+bestimmt zudem, wer die Zusatzstunden beim Kantonalen Sozialamt aktivieren
+darf. Es ist zum Beispiel möglich, dass während einer Phase mit stark erhöhtem
+Bedarf mehrere ambulante Anbietende und Bezugspersonen zusätzliche Beglei-
+tung und Betreuung erbringen, aber nur ein Anbieter die Zusatzstunden aktiviert.
+Die Einsatzvereinbarung wird vom Menschen mit Behinderung und der Bezugsperson un-
+terschrieben. Beide erhalten je ein unterschriebenes Exemplar. Die Bezugsperson lädt die
+unterschriebene Einsatzvereinbarung auf SEBE Digital hoch. Das Kantonale Sozialamt
+prüft, ob es die Einsatzvereinbarung freigeben kann. Die Vereinbarung muss mit dem Vou-
+cher übereinstimmen.
+Begleitung und Betreuung erhalten
+Wenn das Kantonale Sozialamt die Einsatzvereinbarung freigibt, zahlt es den Einsatz der
+Bezugsperson. Die Bezugsperson kann maximal die in der Einsatzvereinbarung abge-
+machten Stunden mit dem Kantonalen Sozialamt abrechnen.
+Der Mensch mit Behinderung und die Bezugsperson vereinbaren gemeinsam die Termine
+für die Begleitung und Betreuung. Die vereinbarten Termine sind für beide verpflichtend.
+Sie können im gegenseitigen Einvernehmen verschoben oder abgesagt werden.
+Wenn ein Termin stattgefunden hat, trägt die Bezugsperson den Termin auf SEBE Digital
+ein. Der Mensch mit Behinderung kann in seinem Voucher einsehen, welche Begleitung
+und Betreuung die Bezugsperson mit dem Kantonalen Sozialamt abgerechnet hat.Kantonales Sozialamt
+16/17
+Vereinbarung kündigen
+Die Einsatzvereinbarungen können zeitlich unbefristet oder befristet sein. Sowohl der
+Mensch mit Behinderung als auch die Bezugsperson können die Einsatzvereinbarungen
+kündigen. Die Kündigung muss schriftlich unter Einhaltung der Kündigungsfrist auf Ende
+eines Monats eingereicht werden. Die Kündigungsfrist wird in der Einsatzvereinbarung fest-
+gehalten. Die einzelnen Einsatzvereinbarungen können unabhängig voneinander gekündigt
+werden.
+Eine ausserordentliche Auflösung des Vertrags ist aus wichtigen Gründen möglich. Zum
+Beispiel bei wesentlichen Veränderungen der Umstände oder anderen Gründen, welche
+die weitere Zusammenarbeit als unzumutbar erscheinen lassen.
+Nach Ablauf der Kündigungsfrist sind die Stunden im Voucher wieder verfügbar und kön-
+nen an einen anderen ambulanten Anbietenden oder eine andere Bezugsperson vergeben
+werden.
+8.3 Institutionen
+Der Mensch mit Behinderung kann in eine Institution eintreten. Wohnt er in einer Institution,
+kann er keine zusätzlichen Leistungen von ambulanten Anbietenden oder Bezugspersonen
+mit dem Voucher beziehen (Ausnahme: Voucher Zukunft und Veränderung bei geplantem
+Auszug). Wer in eine Institution eintritt, muss die Vereinbarungen mit den ambulanten An-
+bietenden und den Bezugspersonen fristgerecht kündigen.
+SEBE startet im Jahr 2024. Für Menschen mit Behinderung, die dann in eine Institution ein-
+treten, ändert sich zu diesem Zeitpunkt nichts. Sie können direkt und ohne Voucher in eine
+Institution eintreten. In den kommenden Jahren wird das Kantonale Sozialamt schauen, ob
+auch diese Personen zuerst den SEBE-Fragebogen ausfüllen sollen.
+Ein Mensch mit Behinderung kann aber in einer Institution arbeiten oder einer Beschäfti-
+gung nachgehen und gleichzeitig ambulante SEBE-Leistungen beziehen.
+9 SEBE-Geldbetrag (statt Voucher)
+Wer einen Assistenzbeitrag der IV bezieht, kann die SEBE-Leistungen als Voucher oder
+als Geldbetrag erhalten. Der Mensch mit Behinderung bekommt mit dem Abklärungsbericht
+ein Formular, auf dem er seinen Entscheid mitteilen kann. Beim Entscheid «Geldbetrag»
+muss er seine Kontoangaben im Formular angeben. Die Abklärungsstelle stellt anschlies-
+send an diesen Entscheid die Verfügung aus. Der Geldbetrag wird monatlich ausbezahlt.
+10 SEBE-Beratungsstellen
+Verschiedene SEBE-Beratungsstellen sind für Menschen mit Behinderung und deren Be-
+zugspersonen da. Die Beratungsstellen helfen, das System SEBE zu verstehen. Sie sind
+für Menschen mit Behinderung und deren Bezugspersonen kostenlos. Der Mensch mit Be-
+hinderung kann selbst eine Beratungsstelle aussuchen, die zu seinen Bedürfnissen passt.
+Die vom Kanton unterstützen Beratungsstellen sind auf der Webseite des Kantonalen Sozi-
+alamts aufgeführt.
+Die Beratungsstellen unterstützen Menschen mit Behinderung bei Fragen und Anliegen zu:Kantonales Sozialamt
+17/17
+ Informationen zum System SEBE
+ Login und Antragstellung
+ Ausfüllen des SEBE-Fragebogens
+ Auswahl von ambulanten Anbietenden
+ Einsatzvereinbarung mit Privatpersonen
+ Einsatzvereinbarung mit ambulanten Anbietenden
+ Wechsel eines Anbietenden
+ Weitere Unterstützung in Bezug auf SEBE
+Die Beratungsstellen unterstützen Bezugspersonen bei Fragen und Anliegen zu:
+ Informationen zum System SEBE
+ Anerkennung als Privatperson
+ Ausfüllen der Einsatzvereinbarung
+ Abrechnung
+11 SEBE-Schlichtungsstelle
+Es gibt eine SEBE-Schlichtungsstelle. Diese wird von der Unabhängigen Beschwerdestelle
+für das Alter UBA geführt. Die UBA kennt sich mit Menschen mit Behinderung aus. Sie ist
+seit Jahren die Schlichtungsstelle für Menschen mit Behinderung in Institutionen. Die
+SEBE-Schlichtungsstelle hilft bei Konflikten zwischen Menschen mit Behinderung und am-
+bulanten Anbietenden. Ihre Leistungen sind für Menschen mit Behinderung und ihre Be-
+zugspersonen gratis. Die SEBE-Schlichtungsstelle ist unabhängig vom Kantonalen Sozial-
+amt und den verschiedenen Anbietenden. Ihre Kontaktangaben sind auf der Webseite des
+Kantonalen Sozialamts zu finden.
+Die SEBE-Schlichtungsstelle informiert bei schwerwiegenden Fällen das Kantonale Sozial-
+amt. Der Mensch mit Behinderung bleibt dabei anonym. Das bedeutet, dass das Kantonale
+Sozialamt keine Informationen über den Menschen mit Behinderung bekommt und nur in
+schwerwiegenden Fällen über den ambulanten Anbietenden.
+Die SEBE-Schlichtungsstelle vermittelt zwischen dem Menschen mit Behinderung und den
+Anbietenden, wenn sie den Konflikt selbst nicht lösen können. Zum Beispiel unterstützt die
+SEBE-Schlichtungsstelle bei diesen Konflikten:
+ Probleme in der Begleitung und Betreuung (z.B. wenn der Mensch mit Behinderung
+nicht zufrieden ist mit dem Einsatz und die Verantwortlichen in der Organisation
+das Problem nicht lösen).
+ Probleme mit der Kündigung, wenn der ambulante Anbietende diese nicht akzeptie-
+ren möchte.
+ Andere Uneinigkeiten oder Schwierigkeiten zwischen einem ambulanten Anbieten-
+den und dem Menschen mit Behinderung.
+Das Ziel ist immer eine Einigung zwischen dem ambulanten Anbietenden und dem Men-
+schen mit Behinderung. Menschen mit Behinderung können auch jederzeit unter Einhal-
+tung der Kündigungsfrist den ambulanten Anbietenden wechseln, wenn sie nicht zufrieden
+sind.

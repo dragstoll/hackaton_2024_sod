@@ -1,0 +1,116 @@
+
+
+Einleitung
+Sachbearbeitende (SB) und Sozialarbeitende (SA) sind mit immer neuen Zahlungsmitteln und Vermögenswerten konfrontiert. Dieser volatile Bereich erfordert Kenntnisse über die verschiedenen Arten von Zahlungsmitteln und Vermögenswerten. Insbesondere bei der Klärung der Mittellosigkeit ist entsprechendes Fachwissen notwendig. 
+
+Diese Praxishilfe (PRA) gibt eine Übersicht über die verschiedenen Zahlungsmöglichkeiten im bargeldlosen Zahlungsverkehr und welche Unterlagen beim jeweiligen Zahlungsmittel vorhanden sind. Sie zeigt auf, wo ein Zahlungsmittel mit einer Kreditkarte oder einem Bankkonto verknüpft ist. Das unterstützt bei der Beurteilung, welche Unterlagen zur Überprüfung der Mittellosigkeit notwendig sind und hilft den Geldfluss besser nachzuvollziehen. Mit dem entsprechenden Fachwissen lässt sich zudem das Risiko minimieren, Hinweise auf nicht deklarierte Zahlungsmittel oder nicht deklarierte Einnahmen / Vermögenswerte nicht zu erkennen.
+Übersicht Akteure und Dienstleistungen im Zahlungsverkehr
+Die folgende Darstellung bietet einen Überblick über die verschiedenen Akteure, Dienstleistungen und Zahlungsmittel im bargeldlosen Zahlungsverkehr. Da sich dieser Bereich sehr schnell wandelt, besteht kein Anspruch auf Vollständigkeit. Die Darstellung dient lediglich der Orientierung (Stand Mai 2023). 
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hinweis zu Online-Banken (auch Neobanken oder Smartphone-Banken)
+Online-Banken bieten ähnliche Dienstleistungen wie klassische Banken an – allerdings meistens ohne Bankfiliale und Berater*innen. Dafür stellen sie ihren Kund*innen eine Smartphone-App zur Verfügung, über welche sie ihre Dienstleistungen kostengünstig und vollständig digital anbieten. Neben Schweizer Onlinebanken (wie Yuh, Zak, Neon etc.) gibt es internationale Onlinebanken, welche ihren Service auch für Schweizer Kunden anbieten. Zu den häufigsten gehören hier: N26 und Revolut . Kontoauszüge werden direkt in der App heruntergeladen. 
+
+Umgang mit den Zahlungsmitteln / Vermögenswerten
+
+Die Tabelle zeigt auf, welche Unterlagen bei welchem Zahlungsmittel vorhanden sind und welche Hinweise uns dabei helfen können, zu erkennen ob ein*e Klient*in (KL) ein bestimmtes Zahlungsmittel verwendet. 
+
+Entweder werden die Zahlungsmittel von KL deklariert oder gehen aus den eingereichten Unterlagen hervor.
+Werden aufgrund der vorliegenden Dokumente neue Zahlungsmittel festgestellt, müssen die entsprechenden Unterlagen eingefordert werden.
+Schlussendlich muss die Frage des Geldflusses beantwortet werden können. Alle erforderlichen Unterlagen müssen in Form von Kontoauszügen oder PDF im KiSS vorliegen. 
+Printscreens werden in Ausnahmefällen akzeptiert. 
+
+Debitkarten
+Bankkarte, die zwingend direkt mit einem Konto verbunden ist. Zahlungen werden im Normalfall sofort oder innerhalb kurzer Frist abgebucht. Sie setzen ein ausreichendes Guthaben voraus (Überziehung teilweise möglich).
+Die Debit Mastercard und Visa Debit ersetzen nach und nach die alte Generation von Debitkarten und sind zusätzlich mit einer Online-Zahlfunktion ausgestattet und können z.B. im Mobile Payment als Zahlungsmittel hinterlegt werden.
+
+
+	
+Kreditkarten
+Setzen kein Guthaben zum Zeitpunkt der Zahlung voraus, d.h. eine Zahlung ist auch ohne entsprechendes Guthaben (auf Kredit) möglich. Die Zahlungen werden im Normalfall einmal im Monat gebündelt in Rechnung gestellt oder dem verknüpften Bankkonto abgebucht. Durch diese Abbuchung / durch das Bezahlen der Rechnung ist ersichtlich, dass eine Kreditkarte genutzt wird. Es gibt neben Banken diverse weitere Kreditkartenherausgeber. Kreditkarten können z.B. im Mobile Payment als Zahlungsmittel hinterlegt werden. 
+
+
+Prepaidkreditkarte
+Kreditkarte, auf die zuerst ein Guthaben aufgeladen werden muss (z.B. via Überweisung oder Bareinzahlung). Zahlungen sind nur in der Höhe des Guthabens möglich. Onlinezahlfunktion ist vorhanden. Kann im Mobile Payment als Zahlungsmittel hinterlegt werden. 
+Erfolgt die Aufladung der Prepaidkarte über das eigene Bankkonto ist im Buchungstext ersichtlich, dass die Zahlung an eine Kreditkarte geht.
+
+
+Mobile Payment / Online Payment 
+Elektronische Zahlungsform mithilfe von Smartphones, Smartwatches, Tablets etc. Zahlungen können im Normalfall in Apps, im Online-Handel, im stationären Handel und zwischen Personen erfolgen. 
+Die Zahlungsmittel sind im Normalfall entweder mit einem Bankkonto verknüpft, dem die Zahlungen belastet werden oder eine Kreditkarte ist in einem digitalen Portemonnaie (Wallet) hinterlegt. Aufgrund der Abbuchungen auf dem Bankkonto oder dem Kreditkartenkonto ist ersichtlich, welches Zahlungsmittel genutzt wird. 
+
+
+Bargeldüberweisungsunternehmen 
+
+Mit Bargeldüberweisungsunternehmen kann Geld – sowohl mit Bargeld als auch per Kontoüberweisung - weltweit versendet und empfangen werden. Die nachfolgenden Ausführungen beziehen sich v.a. auf die Möglichkeit, Geld zu empfangen. Der Umgang mit dem Thema "Geld senden beschreibt die PRA Geldzahlungen an Dritte.
+
+
+
+
+
+
+Kryptowährungen
+
+Kryptowährungen basieren auf digitalen Technologien (meist einer Blockchain) und sind innerhalb eines Nutzerkreises anerkannt. Kryptowährungen können an Kryptobörsen gehandelt werden. Sie zählen zu den liquiden Vermögenswerten. Erträge aus dem Handel mit Kryptos und Rewards aus dem Staking von Kryptos (im Prinzip wie Zinsen auf dem Konto) werden als Einnahme angerechnet
+z.B. im Buchungstext auf Bank-, Kreditkarten- oder z.B. PayPal Auszügen ist der Besitz von Kryptos ersichtlich.
+
+
+
+
+
+
+
+
+
+
+Wertschriften
+Wertschriften sind liquide Vermögenswerte. Es sind Urkunden, die im Normalfall ein Vermögensrecht (Forderung, Mitgliedschaftsrecht, Miteigentumsanteil) festhalten. Sie können in der Regel gehandelt werden. Bei Wertschriften muss der Depotkontoauszug eingefordert werden.
+Erträge aus dem Verkauf von Wertschriften, sowie Dividenden von Aktien und Zinsen von Obligationen gelten als Einnahme. Ggf. muss abgeklärt werden, woher die Mittel für den Kauf von Wertschriften kommen. Im Buchungstext auf Bank-, Kreditkarten- oder z.B. PayPal Auszügen ist der Handel von Wertschriften ersichtlich.
+Aktien, Obligationen (Anleihen), Zertifikate, Optionen, Fonds, ETFs, etc.
+
+NFT
+Ein Non-Fungible Token (NFT) ist ein digitales Objekt, welches einer Person eindeutig zugeordnet werden kann. Es ist ein einzigartiges, nicht austauschbares Token, welches einen bestimmten Gegenstand (Musikstück, Bild, GIF, usw.) in einer Blockchain repräsentiert. Bei NFT handelt es sich grundsätzlich um liquide Vermögenswerte, welche in einem NFT-Wallet aufgeführt sind. Eingefordert werden muss ein Auszug aus dem NFT-Wallet. Um den aktuellen Wert zu ermitteln bedarf es allenfalls weiterer Abklärungen. Bei Bedarf kann sich KL im Beisein der Fallführung im eigenen Account einloggen. Gewinne aus dem Verkauf von NFTs gelten als Einnahme. 
+Im Buchungstext auf Bank-, Kreditkarten- oder z.B. PayPal Auszügen ist der Besitz von NFT ersichtlich. Ggf. muss abgeklärt werden, woher die Mittel für den Kauf von NFT kommen. 
+
+
+Bezahldienstleister
+Bei Bezahldienstleister wie z.B. Klarna, Byjuno, MF Group bezahlen Kunden die Rechnung für eine Ware nicht direkt an den Händler, sondern an den Bezahldienstleister. Bezahldienstleister ermöglichen eine Zahlung auf Raten, weshalb die Nutzung attraktiv scheint. Da es sich hier um eine rechnungs- und nicht kundenbezogene Dienstleistung handelt, können keine Unterlagen wie ein Kontoauszug verlangt werden. Die Ausgaben sind aber im Bankkonto, von welchem aus die Zahlung getätigt wurde, ersichtlich und können dort markiert werden.

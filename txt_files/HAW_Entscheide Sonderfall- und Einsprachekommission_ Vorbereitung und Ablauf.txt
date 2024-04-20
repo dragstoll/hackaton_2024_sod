@@ -1,0 +1,120 @@
+Inhalt
+Inhalt	1
+1	Inhaltliche Erstellung des Entscheids	1
+2	Bearbeitungszeit	3
+3	Vorbereitung der Unterlangen	3
+4	Aufbereitung Unterlagen und Traktandenliste	4
+5	Teilnehmende SEK-Sitzung	4
+6	Nachbereitung der Entscheide	4
+7	Versand und Visieren der Entscheide durch die Geschäftsstelle SoBe	5
+8	Rechtskraftbescheinigung	5
+
+Inhaltliche Erstellung des Entscheids
+Grundsätze
+Der Entscheid ist verständlich und nachvollziehbar, inhaltlich korrekt mit allen relevanten Sachverhalten und in einer sachlichen und objektiven Sprache verfasst
+Er entspricht den übergeordneten gesetzlichen Grundlagen, der geltenden Rechtsprechung sowie den aktuellen Richtlinien der SoBe 
+Die Verantwortung für den Inhalt und die Qualität des Entscheids liegt bei der Stellenleitung. 
+Der Entscheid wird aus der Perspektive der SoBe geschrieben 
+Es werden die aktuellen, auf den Sachverhalt zutreffenden Entscheidvorlagen verwendet. Die Textbausteine der Vorlage werden an die vorliegende Situation angepasst
+Der Entscheid ist immer doppelseitig (1. Seite: Dispositiv, 2. Seite: Erwägungen)
+Der Name der*des Klientin*en (KL) ist ausgeschrieben, auch bei Minderjährigen; Format: Vorname Name (ohne «Frau» resp. «Herr»)
+Kopfteil
+Namen Kommissionsmitglieder der SoBe der aktuellen Sitzung 
+(werden durch den Fachstab Wirtschaftliche Hilfe (WH) erfasst)
+Betreff mit dem Hinweis über welches Thema entschieden wird 
+(wird in den Zentren erfasst)
+Die Personendaten im Kopfteil der SEK-Entscheide werden gendergerecht und gemäss Personenanzahl benannt (z.B. bei weiblicher Person "Stadtbürgerin". Bei Einzelpersonen wird der Aufenthaltsstatus anzupasst z.B. "Flüchtling" statt "Flüchtlinge"); Bei Ehepaaren wird der*die Ehepartner*in manuell ergänzt
+Minderjährige: es werden die Angaben der Eltern bzw. desjenigen Elternteils angeführt, in dessen Fall die*der Minderjährige geführt wird; Name und Geburtsdatum der minderjährigen Person werden in der jeweiligen Zeile hinten angestellt (Name Mutter und/oder Vater // betrifft: Name Minderjährige*r)
+Dispositiv (1. Seite)
+Alle zu fällenden Entscheidungen werden im Dispositiv knapp und präzise erwähnt. Jede Entscheidung wird separat beziffert
+Rechtsmittelbelehrung für die*den betroffene*n KL: Die in der Rechtsmittelbelehrung angeführten Dispositiv-Ziffern, gegen welche ein Gesuch um Neubeurteilung eingereicht werden kann, sind zu prüfen und nötigenfalls anzupassen
+Mitteilungssatz: Alle Personen resp. Institutionen, welche den Entscheid (evt. auch nur im Dispositiv) erhalten sollen, sind bezeichnet
+Bereits in einem früheren Entscheid beschlossene, rechtskräftig gewordene Entscheidungen dürfen nicht mehr im Dispositiv erwähnt werden, sondern nur noch in den Erwägungen
+Erwägungen (2. Seite)
+Die Erwägungen müssen den Entscheid im Dispositiv auf klare und nachvollziehbare Weise begründen und belegen
+Die Erwägungen sollen folgende Grundstruktur aufweisen: Einleitung (unterstützt seit, Wohnsituation, Antrag), Werdegang, Kosten, rechtliches Gehör, Entscheidbegründung
+Leitgedanke: Sicht von Entscheidungsträger*in einnehmen: Welche Infos benötigen die Behördenmitglieder als „Aussenstehende“, nicht mit dem Fall vertraute Entscheidungsträger*innen? Was ist hinsichtlich des zu fällenden Entscheides von Bedeutung, was muss festgehalten/beschrieben/erwogen werden, damit der Entscheid  (= Dispo) als Schlussfolgerung der Erwägungen in allen Punkten nachvollziehbar ist?
+Die Ausgangslage, die Entscheidungsgrundlagen, die Motivation, allfällige Empfehlungen von qualifizierten Drittstellen etc. müssen vollständig, verständlich und präzise dargelegt werden
+Die Erwägungen dürfen sich nicht auf Beilagen oder weitere Texte beziehen. Der Inhalt der Beilagen und Texte muss zusammengefasst erwähnt werden
+Den KL muss das rechtliche Gehör gewährt worden sein. In den Erwägungen ist (insbesondere bei Ablehnungen) Bezug auf die Stellungnahme der KL zu nehmen
+Begründung, falls dem Rechtsmittel die aufschiebende Wirkung entzogen wurde
+Die Erwägungen sind in Fliesstext abgefasst: keine Titel, keine Aufzählungen
+Die „Vorgeschichte“ ist chronologisch dargelegt; angeführte Daten sind korrekt
+Es sind nur die für den Entscheid relevanten Fakten angeführt – diese aber vollständig (keine Verweise auf Dokumente im Fallführungssystem, Beilagen etc.)
+Der Sachverhalt ist präzise, sachlich und wahrheitsgetreu geschildert
+Auf die im Dispo festgehaltenen Auflagen wird Bezug genommen (z.B. Stand der Ab-klärungen bzgl. elterlicher Unterhaltspflicht, Aussichten auf Stipendien etc.)
+Beträge werden nur so weit angeführt, als dass sie in direktem Zusammenhang mit dem Entscheid stehen (keine Budgets mit GBL, Miete etc., aber: Aufschlüsselung der Totalkosten einer Ausbildung, Angaben zu Erträgen einer SE u.ä.)
+Bearbeitungszeit
+
+Nachträglich eingereichte Entscheide 
+Wenn ein Entscheid nachträglich eingereicht wird, muss zur Begründung die Erklärung zur nachträglichen Einreichung des SEK-Entscheids ausgefüllt werden. Für nachträglich eingereichte Entscheide gelten folgende Definitionen:
+
+Im Intake: 
+Wenn KL neu anlaufen und ein SEK-Entscheid nötig wird, gilt dieser als nachträglich eingereicht, wenn er nach dem Gespräch Leistungsentscheid Intake (GLE) nicht bei der kommenden SEK-Sitzung traktandiert werden kann. Ist die Eingabefrist für die kommende SEK-Sitzung bereits abgelaufen, ist dies gegenüber der SEK mit Beilage des Formulars "Nachträglicher SEK-Entscheid" so zu begründen. Dies gilt sowohl für SE als auch für bereits vor der Unterstützung begonnene Aus- / Weiterbildungen.
+
+Im Quartierteam: 
+Ein SEK-Antrag gilt als nachträglich eingereicht, wenn er nach Beginn der Aus- / Weiterbildung oder Aufnahme einer selbständigen Erwerbstätigkeit traktandiert wird.
+Kostenübernahme bei nachträglich eingereichtem Entscheid
+Vor der Bewilligung einer Aus- / Weiterbildung oder selbständigen Erwerbstätigkeit dürfen keine Kosten in Bezug auf die Ausbildung oder selbständige Erwerbstätigkeit gezahlt werden. Kosten für die materielle Grundsicherung dürfen ausgezahlt werden. 
+
+Vorbereitung der Unterlangen
+
+Erforderliche Unterlagen für die SEK
+Zu behandelnder Entscheid
+Falls der Entscheid bereits einmal traktandiert war und zurückgewiesen wurde: Scan des ursprünglichen Entscheids mit handschriftlichem Vermerk „zurückgewiesen“ und das Mail mit dem Grund der Rückweisung. 
+Ggf. Formular Nachträglicher SEK-Entscheid
+Sämtliche beschlossene SEK-Entscheide der letzten zwei Jahre.
+Weitere entscheidrelevante Beilagen (z.B. LBZ-Bericht, Empfehlung Drittstelle, Erlassgesuch, Kürzungsentscheid)
+Zustellung der Unterlagen an den Fachstab WH
+Die vollständigen Unterlagen müssen dem Fachstab WH spätestens am Mittwoch, 13:00 Uhr, zwei Wochen vor der geplanten SEK-Sitzung zur Verfügung stehen. 
+Der Entscheid muss bis zu diesem Zeitpunkt durch die Stellenleitung im Fallführungssystem auf die Kalenderwoche der nächsten SEK-Sitzung traktandiert sein.
+Die Beilagen zum Entscheid sind bis zu diesem Zeitpunkt in einem E-Mail an folgende Adresse zu verschicken: SD SOD-WH SEK-Sekretariat.
+
+Aufbereitung Unterlagen und Traktandenliste 
+
+Überarbeitung Entscheid
+Der Fachstab WH prüft den eingereichten Entscheid und die Beilagen. Allfällige Korrekturen und Ergänzungen werden via Stellenleitung eingefordert. Ein CC-Mail wird an die entsprechenden Sozialarbeitenden (SA) verschickt. Allfällige Korrekturen und Ergänzungen sind bis spätestens am Mittwoch, 13:00 Uhr, eine Woche vor der geplanten SEK-Sitzung direkt im Fallführungssystem vorzunehmen.
+Zustellung Unterlagen an die Geschäftsstelle SoBe
+Der Fachstab WH stellt die Entscheide inkl. Beilagen den Sitzungsteilnehmenden zur Verfügung und erstellt eine elektronische Traktandenliste mit dem Tool EK Traktanden. Alle Unterlagen werden durch den Fachstab WH bis am Freitag, 12:00 Uhr, vor geplanter Sitzung der Geschäftsstelle SoBe zugestellt.
+
+Teilnehmende SEK-Sitzung 
+An der Sitzung nehmen folgende Personen teil: 
+1. oder 2. Vizepräsident*in der SoBe
+2 Behördenmitglieder
+(Stv.) Geschäftsführer*in SoBe (Protokollführung)
+Mitarbeiter*in Fachstab WH (vertritt die Entscheide der SOD)
+Stellenleitung der AOZ (vertritt die Entscheide der AOZ)
+Nachbereitung der Entscheide
+
+Korrekturen durch Mitarbeiter*in Fachstab WH
+Korrekturen durch den Fachstab WH müssen spätestens am nächsten Tag als Word-Datei im Fallführungssystem abgespeichert werden. Die Geschäftstelle SoBe ist über den Abschluss der Änderungen zu informieren. 
+
+Zurückgewiesene Entscheide
+Die Mitteilung über zurückgewiesene Entscheide wird von dem*der Mitarbeiter*in Fachstab WH per Email an die Stellenleitung gesandt. Die Email enthält den Rückweisungsgrund und die Aussagen der Behördenmitglieder. 
+Information an die Sozialzentren über die Resultate der Sitzung
+Die Stellenleitungen erhalten spätestens am Tag nach der Sitzung das Protokoll vom Fachstab WH mit folgenden Angaben zu den Entscheiden:
+Annahme Antrag
+Ablehnung Antrag
+Unterstützung/Leistung bewilligt
+Unterstützung/Leistung abgelehnt
+Verzicht Rückerstattung
+Nichtverzicht Rückerstattung
+KF	=> Entscheid musste formal korrigiert werden 
+KI	=> Entscheid musste inhaltlich korrigiert werden 
+Das Protokoll wird auch an die Zentrumsleitungen und die Direktion versandt.
+
+Versand und Visieren der Entscheide durch die Geschäftsstelle SoBe
+Erstversand:
+Die Entscheide werden durch die Geschäftsstelle SoBe gemäss Angaben auf dem Dispositiv versandt.
+Nachversand:
+Wird ein SEK-Entscheid nicht abgeholt, wird er per A-Post nochmals versandt. Mittels Begleitbrief wird mitgeteilt, dass die Rechtsmittelfrist bereits läuft. 
+Dritter Versand:
+Ist die Zustellung auch beim Nachversand erfolglos, wird der Entscheid der fallführenden Person mittels interner Post zugestellt mit der Bitte, diesen der*dem KL persönlich zu übergeben. Die persönliche Aushändigung eröffnet keine neue Rechtsmittelfrist. 
+Visieren:
+Die Entscheide werden innerhalb von fünf Arbeitstagen verschickt. Mit dem Erstversand wird der Entscheid im Fallführungssystem visiert. 
+
+
+Rechtskraftbescheinigung
+Der SEK-Entscheid ist 30 Tage ab Datum Postformular (zweiter Versand) rechtskräftig.
+Wird durch die fallführende Stelle ein rechtskräftiger Entscheid benötigt, kann ein als „rechtsgültig“ gestempelter Entscheid nach Ablauf von 60 Tagen ab Zustellung direkt beim Rechtsdienst der SoBe via folgende Adressen angefordert werden: Lars.Klawonn@zuerich.ch oder Malgorzata.Schmid@zuerich.ch.
+Im Falle eines Rechtsmittelverfahrens wird der angefochtene Entscheid erst nach dem Abschluss des Verfahrens rechtskräftig. 

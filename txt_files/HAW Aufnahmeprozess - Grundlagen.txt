@@ -1,0 +1,67 @@
+1	Grundsätze	1
+2	Zentrale Elemente des Aufnahmeprozesses	1
+2.1	Information	2
+2.2	Orientierung	2
+2.3	Leistungsplanung persönliche Hilfe nach SHG	3
+2.4	Leistungsplanung Wirtschaftliche Hilfe nach SHG	3
+3	Zuständigkeiten	3
+Grundsätze
+Das Sozialdepartement (SD) und die Sozialen Dienste Zürich (SOD) erbringen vielfältige soziale Dienstleistungen.
+
+Der Aufnahmeprozess regelt den Prozess ab Kontaktaufnahme mit den Sozialzentren bis zur Inanspruchnahme des richtigen Dienstleistungsangebotes. Dabei stehen die persönliche Hilfe nach Sozialhilfegesetz (SHG) sowie die sozialarbeiterische Beratung genauso im Fokus wie die Ausrichtung der wirtschaftlichen Hilfe.
+
+Der Aufnahmeprozess in den Sozialzentren ist kundenfreundlich gestaltet und berücksichtigt die Vielfalt der angebotenen Dienstleistungen. Er orientiert sich an folgenden Grundsätzen:
+Niederschwelligkeit: Die Dienstleistungen der SOD sind auf einfache Art und Weise und auf verschiedenen Kanälen erreichbar. Die Klientinnen und Klienten können unabhängig von ihrer Wohnadresse in der Stadt den Aufnahmeprozess in einem beliebigen Intake durchlaufen.
+Freundlichkeit: Die Klienten und Klientinnen werden im Sozialzentrum freundlich empfangen. Innerhalb kurzer Zeit werden sie an das passende interne oder externe Angebot  weitergeleitet.
+Fokus Beratung: Die persönliche Hilfe und Beratung sind stark gewichtet und erfolgen unabhängig, respektive parallel zur Anspruchsklärung wirtschaftlicher Hilfe.
+Möglichst wenige Ansprechperson: Der Aufnahmeprozess ist so gestaltet, dass es für den Klienten oder die Klientin möglichst wenige Wechsel der Ansprechpersonen gibt und er/sie sein/ihr Anliegen nur einmal vorbringen muss. 
+Transparenz: Die Klienten und Klientinnen wissen zu jedem Zeitpunkt, wo sie im Prozess stehen und was die nächsten Schritte sind.
+
+
+
+Zentrale Elemente des Aufnahmeprozesses
+Der Aufnahmeprozess beinhaltet die nachfolgenden zentralen Elemente und ist in der Prozessbeschreibung konkretisiert.
+
+
+Information
+Die Information ist die erste Anlaufstelle für Besucher/-innen und damit die Visitenkarte des Sozialzentrums. Sie wird von Sachbearbeitenden des Intakes bedient, welche folgende Aufgaben durchführen:
+Besucher/-innen freundlich willkommen heissen und Anliegen entgegennehmen
+Klärung der örtlichen Zuständigkeit (Prüfung Wohnadresse Besucher/-innen)
+Vermittlung in ein Orientierungsgespräch mit einem/einer Sozialarbeiter/-in, wenn eine Intake-Leistung angezeigt ist oder es mehr Zeit für die Klärung des Anliegens braucht
+Weiterleitung der Besucher/-innen an die passende Stelle im Sozialzentrum oder Vermittlung an die zuständige Stelle ausserhalb des Sozialzentrums
+Unterstützung der Besucher/-innen, die für sie zuständige Stelle zu finden
+Organisation von Erstberatungsterminen für Beratungssuchende in der Kinder- und Jugendhilfe
+
+Die Information ist so organsiert, dass für die Besucher/-innen keine langen Wartezeiten entstehen. Den Sachbearbeitenden der "Information" stehen zur raschen Weiterleitung ein Triage-Leitfaden sowie diverse Wegbeschreibungen zu den relevanten Stellen zur Verfügung.
+Orientierung
+Die Orientierung findet wenn immer möglich unmittelbar nach der Triage durch die Information statt. Falls das nicht möglich ist, wird möglichst zeitnah (längstens innerhalb eines Arbeitstages) ein Termin vergeben. Die Orientierung wird immer dann durchgeführt, wenn die Situation unklar ist oder es sich um eine finanzielle und/oder persönliche Problemstellung handelt, die auf den ersten Blick in die Zuständigkeit des Intakes gehört. 
+
+Das Orientierungsgespräch ist ein sozialarbeiterisches Gespräch zwischen Sozialarbeiter/-in und Klient/-in, um eine Auslegeordnung der Themen des Klienten/der Klientin zu machen und zu schauen, wie in diesen Themen weiter vorgegangen wird. Das Gespräch läuft gemäss den Grundsätzen der Sozialen Arbeit ab. Insbesondere ist es wichtig, anstelle von geschlossenen, mit offenen Fragen zu arbeiten und dem Klienten/der Klientin die für ihn/sie relevanten Themen selbst definieren zu lassen.
+
+Der/die Sozialarbeiter/-in macht die Falleröffnung resp. Wiedereröffnung des Falles in der Fallapplikation KISS, um das Orientierungsgespräch zu erfassen und eine Aktennotiz zu erstellen. Mit der Falleröffnung im KiSS ist die Neueröffnung anhand der Omega-Personennummer oder Wiederaktivierung von passiven Fällen gemeint. Kein Fall wird hingegen eröffnet, wenn es sich im Orientierungsgespräch um reine Informations- und Auskunftstägigkeit ohne Beratungsleistung handelt.
+
+Ziele der Orientierung sind:
+Die Klienten oder Klientinnen haben ihre Situation und ihr Anliegen geschildert.
+Die Themen, bei welchen der/die Klient/-in Hilfe/Unterstützung benötigen und diese auch wollen, sind identifiziert.
+Für die Klienten oder Klientinnen ist ersichtlich und nachvollziehbar, welche Themen in welcher Priorität angegangen werden und was sie dabei zu tun haben.
+Für die Klienten oder Klientinnen ist klar, bei welchen Themen die SOD Unterstützung bieten können und wo sie mit welchen anderen Stellen in Kontakt treten müssen. 
+Wo möglich und nötig, sind erste dringende Massnahmen eingeleitet.
+Je nach Resultat des Orientierungsgespräches, ist die entsprechende Leistung geplant (Persönliche Hilfe nach SHG, Wirtschaftliche Hilfe nach SHG und/oder Triage an Dritte).
+Die Klientinnen und Klienten wissen, wie es weiter geht und verfügen über einen nächsten Termin.
+
+Zeigt sich im Orientierungsgepräch, dass die Klienten oder Klientinnen wirtschaftliche Hilfe nach SHG benötigen, händigt der/die Sozialarbeiter/-in ihnen den Antrag für wirtschaftliche Hilfe sowie die dafür erforderliche Unterlagenliste aus. 
+Den Sozialarbeitenden stehen für die Durchführung der Orientierungsgespräche aktuell folgende Hilfsmittel zur Verfügung:
+Ablauf der Orientierung
+Vorlagen: Hilfsmittel für Orientierung für das Erfassen von Hand sowie Hilfsmittel Strukturierte Aktennotiz für die Erfassung im KISS ("copy-paste" in Aktennotiz)
+
+Den Klienten oder Klientinnen steht das Hilfsmittel "Ablauf Wirtschaftliche Hilfe" zur Verfügung.
+Leistungsplanung persönliche Hilfe nach SHG
+Die Themen der persönlichen Hilfe nach SHG werden zeitlich unabhängig von der Anspruchsprüfung in der wirtschaftlichen Hilfe angegangen. Das heisst, dass ein weiteres Beratungsgespräch zeitnah an das Orientierungsgespräch stattfindet - unabhängig von der Anspruchsprüfung der wirtschaftlichen Hilfe.
+Leistungsplanung Wirtschaftliche Hilfe nach SHG
+Im Rahmen der Leistungsplanung wirtschaftliche Hilfe nach SHG wird die Klärung der Mittellosigkeit und Ermittlung des Unterstützungsbedarfes durchgeführt. Im Gespräch Leistungsentscheid WH wird der Entscheid betreffend des Unterstützungsanspruches kommuniziert und die soziale und berufliche Integration wird initialisiert (siehe HAW Berufliche und Soziale Integration – Grundlagen). Der Anspruch auf wirtschaftliche Hilfe ist innerhalb sieben Arbeitstagen nach Einreichung der vollständigen Unterlagen geklärt.
+
+Einzelheiten zu den Abläufen und Bestimmungen im Prozess der Anspruchsklärung für wirtschaftliche Hilfe im Intake finden sich in der HAW Aufnahmeprozess - Anspruchsklärung und Ausrichtung wirtschaftlicher Hilfe im Intake.
+
+
+Zuständigkeiten
+Einzelheiten zu den Zuständigkeiten im Rahmen der Leistungserbringung der persönlichen Hilfe und wirtschaftlichen Hilfe finden sich in HAW Aufnahmeprozess - Zuständigkeiten Intake und Quartierteam.

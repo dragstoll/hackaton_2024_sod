@@ -1,0 +1,168 @@
+
+1. Einleitung
+Die vorliegende Praxishilfe gibt einen vertieften Überblick über das Verfahren beim Migrationsamt aufgrund des Bezugs von wirtschaftlicher Hilfe (WH) von ausländischen Klient*innen (KL). Vorliegende Informationen dienen der Fallführung zur Orientierung und zur Beratung der KL. 
+
+Benötigen KL detaillierte, fallspezifische Beratungen und/oder eine Rechtsvertretung in Mi-grationsverfahren, können sie auf die spezialisierten Stellen gem. Kapitel 6 e) verwiesen werden.
+2.  Sozialhilfebezug und Aufenthaltsrecht in der Schweiz 
+Ausländer*innen können ihr bestehendes Aufenthaltsrecht verlieren, wenn sie Widerrufsgründe erfüllen oder gegen sie bei Straftaten eine Landesverweisung nach Art. 66a oder Art. 66abis StGB ausgesprochen wird.
+
+Ein Widerrufsgrund für das Aufenthaltsrecht ist der Bezug von Sozialhilfe. Ausländer*innen können ihren Anspruch auf Aufenthalt also verlieren, wenn sie ihren Anspruch auf WH wahrnehmen.
+Das Erfüllen eines Widerrufsgrundes führt jedoch nicht automatisch zur Wegweisung der betroffenen Person. Eine Wegweisung wegen Sozialhilfebezugs kommt nur in Frage, wenn diese auch verhältnismässig ist. Die KL sollten darüber entsprechend informiert werden, da aus Angst vor migrationsrechtlichen Massnahmen häufig auf den Bezug von Sozialhilfe verzichtet wird. 
+
+a) Drittstaatsangehörige 
+- Aufenthaltsbewilligung (B): 
+Das Migrationsamt kann die Bewilligung von Ausländer*innen und/oder einer Person, für die sie*er zu sorgen hat widerrufen, wenn diese auf Sozialhilfe angewiesen ist (Art. 62 lit. e AIG). Ebenfalls widerrufen kann es eine Aufenthaltsbewilligung, wenn die betreffende Person eine Integrationsvereinbarung (z.B. betreffend berufliche Integration) ohne entschuldbaren Grund nicht einhält (Art. 62 lit. g AIG).
+- Niederlassungsbewilligung (C)
+Das Migrationsamt kann die Bewilligung von Ausländer*innen und/oder einer Person, für die sie*er zu sorgen hat1 widerrufen, wenn diese dauerhaft und in erheblichem Mass auf Sozialhilfe angewiesen ist (Art. 63 Abs. 1 lit. c AIG). 
+
+- ausstehender Familiennachzug
+Der Sozialhilfebezug kann dazu führen, dass KL ihre Familienangehörigen nicht in die Schweiz nachziehen können. Auch KL mit Schweizerischer Staatsangehörigkeit kann der Familiennachzug aufgrund von WH verweigert werden.
+
+- Ehegatt*innen von Schweizerischen Staatsangehörigen
+Auch diese Personengruppe kann grundsätzlich aufgrund von WH-Bezug aus der Schweiz weggewiesen werden. Die Voraussetzungen dafür sind allerdings sehr streng, d.h. es sind sehr hohe WH-Bezüge nötig sowie in der Regel weitere fallspezifische Umstände, die gegen einen weiteren Aufenthalt sprechen (siehe Liste unter Kap. 3 b).
+
+Dauerhaftigkeit und Erheblichkeit des WH-Bezugs
+Betreffend Erheblichkeit werden bei Personen mit einer Niederlassungsbewilligung als Faustregel Sozialhilfeleistungen für die ganze Unterstützungseinheit von mindestens ca. Fr. 50'000 (Paar ohne Kinder) bis ca. Fr. 80‘000 (grössere Familien) während zwei bis drei Jahren vorausgesetzt. Die Beträge bei Einzelpersonen mit C-Ausweis oder bei Personen mit Aufenthaltsbewilligung liegen entsprechend etwas tiefer. Einen exakten, allgemein gültigen Grenzbetrag gibt es nicht. Die ungefähre Höhe des WH-Bezugs ist mittels Kontoauszug ermittelbar.
+
+Bei der Prüfung der Dauerhaftigkeit ist vor allem die Prognose für die Zukunft relevant. Dazu geben die Fallführenden im Rahmen der Beantwortung der detaillierten schriftlichen Anfragen wichtige Einschätzungen an das Migrationsamt ab.
+
+
+b) EU/EFTA-Staatsangehörige
+
+Bei EU/EFTA-Staatsangehörigen und deren Familienangehörigen, die sich auf das Freizügigkeitsabkommen (FZA) berufen können, stellt der Bezug von Sozialhilfe per se keinen Grund für eine Wegweisung aus der Schweiz dar. Jedoch können sie ihre Aufenthaltsbewilligung (B-Bewilligung) namentlich dann verlieren, wenn sie die Arbeitnehmereigenschaft nicht mehr erfüllen (Art. 23 VFP). Dies ist u.a. dann der Fall, wenn:
+
+sie keine Arbeitsstelle mehr haben oder 
+weniger als 10h pro Woche arbeiten und weniger als Fr. 1'000 Einkommen pro Monat generieren.
+Vorbehalten bleibt das Verbleiberecht bei Krankheit, Unfall oder Invalidität. 
+
+Die Arbeitnehmereigenschaft beurteilt das Migrationsamt, nicht die SOD. Solange die KL eine gültige Bewilligung haben, haben sie grundsätzlich einen WH-Anspruch, d.h. wir müssen das Migrationsamt nicht betreffend Arbeitnehmereigenschaft kontaktieren (siehe HAW Anspruch WH bei ausl. KL, auch für den Anspruch auf WH bei Verlust der Arbeitsstelle von EU/EFTA-Staatsangehörigen). Für die KL ist es aber wichtig zu wissen, dass das Migrationsamt ihre Bewilligung widerrufen kann, wenn sie ihre Stelle verlieren.
+
+EU/EFTA-Staatsangehörige mit C-Bewilligung verlieren ihre Aufenthaltsberechtigung nicht mit dem Verlust der Arbeitnehmereigenschaft, sondern erst, wenn ihnen die Niederlassungsbewilligung aufgrund von erheblichem und dauerhaftem Sozialhilfebezug entzogen wird.
+
+c) Aufenthaltszweck Rentner*in, Ausbildung, Stellensuche
+
+Personen, die zur erwerbslosen Wohnsitznahme (ohne Arbeitstätigkeit) in der Schweiz zugelassen werden (Rentner*innen, Student*innen, Stellensuchende), müssen als Voraussetzung für ihren Aufenthalt stets genügend finanzielle Mittel vorweisen können. Sobald dies nicht mehr der Fall ist und sie z.B. Sozialhilfe beziehen, können sie ihre Aufenthaltsberechtigung unabhängig vom Vorliegen des Widerrufsgrundes Sozialhilfe verlieren. Das Migrationsamt kann diese Personen dann direkt aus der Schweiz wegweisen, ohne das in Kapitel 4 beschriebene dreistufige Verfahren anzuwenden. 
+
+d) Personen mit Flüchtlingsstatus
+
+Die Flüchtlingseigenschaft (B-Flüchtlings- und F-Flüchtlingsausweis) bleibt trotz Erfüllen eines Widerrufsgrundes bestehen, d.h. Personen mit Flüchtlingseigenschaft können grundsätzlich nicht aus der Schweiz weggewiesen werden. Die Flüchtlingseigenschaft kann aber aberkannt werden, wenn Flüchtlinge in das Herkunftsland reisen, vor welchem sie um Schutz ersucht haben (auch nur ferienhalber oder zwecks Familienbesuch). Dann ist der Entzug der Flüchtlingseigentschaft und infolge dessen eine Wegweisung der betroffenen Personen aus der Schweiz aufgrund WH Bezug möglich.
+
+
+3. Verhältnismässigkeit von Migrationsmassnahmen
+a) Allgemeines
+
+Sämtliche Entscheide des Migrationsamtes müssen verhältnismässig sein. Selbst wenn der Widerrufsgrund Sozialhilfebezug grundsätzlich erfüllt ist, kann es sein, dass eine Wegweisung aufgrund der individuellen Umstände des*der Ausländer*in dennoch unverhältnismässig ist. Das Erfüllen eines Widerrufsgrundes führt also nicht automatisch zur Wegweisung der betroffenen Person.
+Das Migrationsamt muss stets nach den gesamten Umständen des Einzelfalls entscheiden, ob eine Bewilligung zu widerrufen ist oder nicht. Ein Widerruf kommt nur als letzte und schwerwiegendste Massnahme in Frage, wenn die Sozialhilfe dem*der Ausländer*in "vorwerfbar" ist, d.h. keine "entschuldbaren" Gründe für den Bezug vorliegen.
+Bei seiner Ermessensausübung wägt das Migrationsamt die öffentlichen Interessen des Staates an einer Wegweisung (z.B. Verringerung von Sozialhilfekosten) gegen die privaten Interessen des*der Ausländer*in an seinem*ihrem weiteren Aufenthalt in der Schweiz ab (z.B. lange Aufenthaltsdauer, gute Integration in der Schweiz). Wenn die öffentlichen Interessen dabei aus Sicht des Migrationsamts überwiegen, kann es letztlich zu einer Wegweisung kommen. 
+b) Wesentliche Beurteilungskriterien
+
+Die wesentlichen Kriterien bei der Verhältnismässigkeitsprüfung sind: 
+– Aufenthaltsdauer und Aufenthaltszweck in der Schweiz (Familiennachzug, Erwerbstätigkeit, Härtefall etc.)
+– "Verschulden"/Gründe für Sozialhilfeabhängigkeit
+– Steuerungsmöglichkeit, um sich von der Sozialhilfe zu lösen oder diese zumindest zu reduzieren (tatsächlich möglich und zumutbar). Arbeitsbemühungen
+– Gesundheitszustand der Betroffenen (physisch und psychisch), sozialtherapeutische Betreuung, stationäre Therapien. Bemühungen der KL, ihre Restarbeitsfähigkeit zu nutzen 
+– Familiäre Verhältnisse (Ehepartner, Anzahl/Alter der unterstützten Kinder) und Nachteile für die Familie im Falle einer Wegweisung (z.B. Kindswohl)
+– Die den Betroffenen drohenden Nachteile im Herkunftsstaat (namentlich familiäre, wirtschaftliche, medizinische Aspekte)
+– Beziehung zum Herkunftsstaat (sind die KL noch durch Besuche, Bekannte, Besitztümer im Herkunftsland mit diesem verbunden?)
+– Verhalten in strafrechtlicher Hinsicht (inkl. Verurteilung wegen unrechtmässigem Bezug von Sozialhilfeleistungen)
+– Betreibungen und Verlustscheine
+– Gesellschaftliche und berufliche Integration gemäss Art. 58a AIG (Deutschkenntnisse, persönliches Umfeld, Respektierung der Werte der Bundesverfassung, Beachtung der öffentlichen Sicherheit und Ordnung)
+– Rückforderungen, Auflagen, Kürzungen und Einstellungen der WH aufgrund eines Fehlverhaltens des*der KL
+Die Auskunft der SOD an das Migrationsamt zum Sozialhilfebezug (Einschätzung der Fallführung) hilft dem Migrationsamt und allfälligen weiteren Rechtsmittelinstanzen die Verhältnismässigkeit der geplanten Massnahme einzuschätzen. Sie ist für die KL im ausländerrechtlichen Verfahren daher von grosser Bedeutung.
+4. Dreistufiges Verfahren bei Massnahmen
+a) Allgemeines
+Das Migrationsamt wendet bei der Massnahmenpraxis in der Regel ein dreistufiges Verfahren an. Dieses ist aber nicht zwingend. 
+
+Wäre eine Wegweisung aus der Schweiz aufgrund von Sozialhilfe zwar begründet, zum fraglichen Zeitpunkt aber unter den gegebenen Umständen nicht verhältnismässig, kann das Migrationsamt vorerst auch bloss ein Hinweisschreiben erlassen oder eine Verwarnung oder eine Rückstufung von einer Niederlassungsbewilligung C auf eine Aufenthaltsbewilligung B verfügen. Hinweisschreiben und Verwarnungen können im gleichen Fall auch mehrmals erlassen werden.
+
+Wenn jedoch ein hoher WH-Bezug und die Verhältnismässigkeit einer Wegweisung gegeben sind, muss nicht zwingend zuerst ein Hinweisschreiben, eine Verwarnung oder eine Rückstufung von C auf B erfolgen. Das Migrationsamt kann die Person auch direkt aus der Schweiz wegweisen.
+
+
+
+
+Gegen Verwarnungen, Rückstufungen und Wegweisungsverfügungen können Ausländer*innen ein Rechtsmittel ergreifen. Bei Wegweisungen aus der Schweiz kann der*die Ausländer*in das Rechtsmittelverfahren in der Regel in der Schweiz abwarten. Die ursprüngliche in der Verfügung des Migrationsamtes festgesetzte Ausreisefrist wird durch das Ergreifen eines Rechtsmittels aufgehoben, ein allfälliger Anspruch auf WH besteht weiter. Erst wenn die Verfügung rechtskräftig ist, kann ein Vollzug der Wegweisung stattfinden. Das empfohlene Vorgehen in der Fallführung im Falle von Hinweisschreiben, Verwarnungen, Rückstufungen und Wegweisungen ist nachfolgend beschrieben.
+
+b) Vorgehen in der Fallführung bei Hinweisschreiben, Verwarnungen, Rückstufungen und Wegweisungen
+
+Wenn eine Anfrage des Migrationsamtes betr. Einschätzung zum Sozialhilfebezug, ein Hinweisschreiben, eine Verwarnung oder eine Rückstufung erfolgt ist, wird das Thema mit den KL aufgegriffen, so dass er*sie eine eigenständige Entscheidung über weitere WH-Bezüge fällen kann. Grundsätzlich empfehlen wir den KL, sich frühzeitig an eine Migrationsberatungsstelle zu wenden und machen sie auf Alternativen zum WH-Bezug aufmerksam (sofern vorhanden, z.B. KPÜ). 
+
+Wenn bereits eine Wegweisung aus der Schweiz wegen WH-Bezugs erfolgt ist, empfiehlt es sich aus Sicht der KL, in der Regel den Rechtsweg einzuschlagen. Das Rechtsmittelverfahren kann normalerweise in der Schweiz abgewartet werden und der Anspruch auf WH währenddessen weiterbestehen. Bei der entsprechenden Einschätzung kann die Infodona helfen.
+
+KL haben aufgrund ihrer Mittellosigkeit Anspruch auf unentgeltliche Rechtspflege (Gerichtskosten) und Rechtsbeistand (Rechtsberatung, Anwalt), wenn ihr Rechtsbegehren nicht als aussichtslos erscheint und sie ihre Rechte im Verfahren nicht selbst wahren können (Art. 29 Abs. 3 der Bundesverfassung und § 16 Verwaltungsrechtspflegegesetz ZH). Sie müssen dafür jedoch stets ein Gesuch um unentgeltliche Rechtspflege / Rechtsbeistand stellen (zusammen mit dem Rechtsmittel gegen den Migra-Entscheid). Darauf sind die KL aufmerksam zu machen. 
+
+Ist eine Wegweisung rechtskräftig geworden, kann der*die KL beim Migrationsamt jederzeit ein Wiedererwägungsgesuch einreichen. Der*die KL kann dabei eine seit dem Wegweisungsentscheid geänderte, neue Sachlage geltend machen (z.B. Heirat, Geburt eines Kindes, verschlechterter Gesundheitszustand) oder andere neue Tatsachen bzw. Belege zu seinen Gunsten vorbringen, die das Migrationsamt bei seinem Wegweisungsentscheid noch nicht berücksichtigte. Das Migrationsamt ist verpflichtet, dieses Wiedererwägungsgesuch zu prüfen und einen Entscheid darüber zu erlassen. Gegen diesen Entscheid kann wiederum ein Rechtsmittel ergriffen werden. Ob der*die KL das Wiedererwägungsverfahren in der Schweiz abwarten darf, entscheiden die Rechtsmittelinstanzen.
+
+5. KPÜ, ÜL und EL
+Keine ausländerrechtlichen Folgen haben der Bezug von Krankenkassenprämienübernahme ohne Sozialhilfe (KPÜ) und von Überbrückungsleistungen (ÜL).
+
+Die Inanspruchnahme von Ergänzungsleistungen (EL) kann unter Umständen folgende ausländerrechtliche Folgen haben, obschon es sich bei den EL nicht um Sozialhilfeleistungen handelt: 
+
+- Familiennachzug
+Bei Drittstaatsangehörigen erlischt der Anspruch auf Familiennachzug, wenn diese jährliche EL beziehen oder wegen des Familiennachzugs beziehen könnten. Der EL-Bezug tangiert den Familiennachzug von EU/EFTA-Staatsangehörigen nicht.
+
+
+
+- Aufenthaltszweck Rentner*in, Ausbildung, Stellensuche
+Erheben Personen mit Aufenthaltszweck Rentner*in, Ausbildung oder Stellensuche nach der Erteilung der Aufenthaltsbewilligung einen Anspruch auf Ergänzungsleistungen, kann die Bewilligung widerrufen oder nicht erneuert werden, da diese für eine erwerbslose Wohnsitznahme genügend finanzielle Mittel aufweisen müssen (gilt auch für EU/EFTA-Staatsangehörige). Der WH-Bezug kann konsequenterweise ebenfalls zum Verlust des Aufenthaltsrechts führen. Wenn hingegen ein Verbleiberecht nach FZA besteht (Krankheit, Unfall, Invalidität oder Erreichen Rentenalter nach einer mehrjährigen Erwerbstätigkeit in der Schweiz), steht ein EL-Bezug dem Aufenthalt nicht entgegen.
+
+6. Beratung im Spannungsfeld von WH-Bezug und Migrationsrecht 
+a) Beratungsgrundsätze
+
+Für unsere KL ohne Schweizerpass ist es wichtig, dass die Migrationsthematik während dem ganzen Beratungs- und Unterstützungsprozess mit besonderer Sorgfalt behandelt wird, d.h. wir  
+informieren transparent über den Zusammenhang zwischen Sozialhilfebezug und Migrationsrecht,  
+zeigen Handlungsmöglichkeiten im migrationsrechtlichen Sanktionsverfahren auf 
+und ermöglichen damit, dass der*die Klient*in eigenständige Entscheidungen über (weitere) WH-Bezüge fällen kann. 
+
+b) Integrationsempfehlungen
+
+Allgemeine Integrationsempfehlungen an unsere KL sind nicht nur aus sozialarbeiterischer Sicht sinnvoll, sondern können auch dazu beitragen, die ausländerrechtliche Situation der KL zu verbessern und Migrationsmassnahmen zu vermeiden. Konkret bedeutet dies, dass die*der fallführende Sozialarbeiter*in Personen ohne Schweizerpass auf die Wichtigkeit folgender Empfehlungen hinweist:
+
+Private Situation
+möglichst rasch Deutschkenntnisse und Deutschzertifikat erwerben (wichtig als Nachweis für Migrationsamt)
+Vermeiden von Betreibungen und Strafen
+Gute soziale Vernetzung: Ausüben von Freizeitbeschäftigungen und Beteiligung in Vereinen, welche Kontakte zur lokalen Bevölkerung ermöglichen
+Kenntnisse erwerben über die Schweiz und ihre kulturellen, sozialen und politischen Gegebenheiten (z.B. Tageszeitungen/Fernsehen/Radio/Internet/Bücher, Kontakte mit landeskundigen Personen etc.)
+Gute Zusammenarbeit mit Behörden
+Sich um eine gute Integration der Ehepartner*in und der Kinder bemühen, wie auch das Kindswohl sicherstellen. 
+Schnellstmögliche Einbürgerung anstreben. Es können auch Einbürgerungsgesuche für Kinder alleine gestellt werden, denen der WH-Bezug bei der Einbürgerung in der Regel nicht angelastet wird. Für die Einbürgerungskosten kann bei der zuständigen Behörde ein Erlassgesuch gestellt werden.
+
+Berufliche Situation
+möglichst rasch Deutschkenntnisse und Deutschzertifikat erwerben (wichtig als Nachweis für Arbeitgeber*in und Migrationsamt)
+möglichst rascher Antritt einer existenzsichernden Stelle im ersten Arbeitsmarkt bzw. konstante und nachweisbare Bemühungen um eine solche zu finden (alle Bewerbungen aufbewahren)
+bei mehrmonatiger Krankheit stets Arztzeugnisse einholen, welche die Arbeitsunfähigkeit bestätigen. Bei mehrjähriger Krankheit IV-Gesuch prüfen, sofern Aussicht auf eine Rente besteht (mit Team SVR klären).
+Arbeitsintegrations- und Bildungsangebote besuchen, die im konkreten Fall einen klaren Nutzen für die Integration und/oder zukünftige Ablösung haben. 
+ 
+Als Arbeitsinstrument für die Beratung steht die Informationsbroschüre des Migrationsamtes zur Verfügung, die in verschiedenen Sprachen erhältlich ist. 
+
+
+c) Arbeitsintegration und Bildung 
+
+Die KL sind darauf hinzuweisen, dass der dem Migrationsamt gemeldete WH-Bezug durch den Besuch von Bildungs- und Arbeitsintegrationsangeboten erhöht wird. Die SOD weisen diese Kosten gegenüber dem Migrationsamt separat aus, so dass die Integrationsbemühungen sichtbar werden. Migrationsrechtlich steht jedoch die möglichst schnelle Aufnahme einer existenzsichernden Erwerbstätigkeit im ersten Arbeitsmarkt im Vordergrund. 
+
+Diese kann erreicht werden:
+
+Eigenständig (eigene Stellensuche und Integrationsbemühungen) und/oder
+
+Mit Hilfe städtischer Integrationsprogramme. Der*die fallführende Sozialarbeiter*in unterstützt die Integrationsbemühungen, indem er*sie den Besuch von Deutschkursen (siehe Deutschkursübersicht und PRA Deutschkurse) empfiehlt und Arbeitsintegrationsangeboten ermöglicht. Bildungs- und Integrationsmassnahmen müssen klar erkennbar auf eine künftige Tätigkeit im ersten Arbeitsmarkt abzielen und gegenüber dem Migrationsamt auch so begründet werden. 
+
+Der Entscheid über den Besuch von Integrationsprogrammen liegt bei den KL. Wir geben eine individuelle Einschätzung dazu ab, aber keine Empfehlung. Zur Einschätzung kann der Fachstab WH beigezogen werden. Für individuelle Empfehlungen verweisen wir die KL an die Migrationsberatungsstellen. 
+
+
+d) Kindsschutzmassnahmen 
+
+Auch Kindschutzmassnahmen können den WH-Bezug erhöhen (inbesondere Kosten von über die WH zu finanzierende Verpflegungsbeiträge und Nebenkosten bei Platzierungen). 
+Grundsatz: Der Kindschutz ist in jedem Fall höher zu gewichten als allfällige ausländerrechtliche Konsequenzen. Auf eine Aufklärung über mögliche Konsequenzen darf dennoch nicht verzichtet werden, falls die Kosten der über WH finanzierten Massnahmen relevant ins Gewicht fallen. 
+
+
+e) Migrationsberatungsstellen
+
+Für die Beratung der KL im Zusammenhang mit dem Migrationsverfahren und ausländerrechtlichen Massnahmen ist innerhalb der SOD primär Infodona, die Beratungsstelle für Migrantinnen & Migranten der Stadt Zürich, zuständig. 
+
+Für Ausländer*innen, die eine juristische Vertretung im migrationsrechtlichen Rechtsmittelverfahren benötigen, stehen u.a. folgende Stellen zur Verfügung:
+
+MIRSAH:                                          Beratung, Fr. 50.-/Stunde
+Freiplatzaktion:                                 Beratung, kostenlos
+FIZ:                                                   Beratung für Migrantinnen, kostenlos 
+SPAZ:                                               Beratung für Sans-Papiers, kostenlos
+
+Auch beim Migrationsamt selbst können KL Informationen über ihren Aufenthalt und hängige Migrationsverfahren einholen (Art. 57 AIG). 

@@ -1,0 +1,36 @@
+
+
+Sozialzentrum Selnau:
+
+QT Zürichberg	L, O
+QT Uto 	G, U
+QT Wiedikon	E, Y
+
+
+Sozialzentrum Helvetiaplatz:
+
+QT Industrie 	A, Z
+QT Sihlfeld 	F, R
+QT Langstrasse 	keine
+QT Hard 	J, Sch
+
+
+Sozialzentrum Dorflinde:
+
+QT Oerlikon 	H, V
+QT Seebach 	I, ST
+QT Schwamendingen West 	M, T
+QT Schwamendingen Ost 	N, W, X
+
+
+Sozialzentrum Albisriederhaus:
+
+QT Albisrieden 			C, Da-Dk
+QT Altstetten 				Dl-Dz
+
+
+Sozialzentrum Wipkingerplatz: 
+
+QT Affoltern 	P, Q
+QT Unterstrass/Oberstrass 	K, S
+QT Wipkingen/Höngg 	B

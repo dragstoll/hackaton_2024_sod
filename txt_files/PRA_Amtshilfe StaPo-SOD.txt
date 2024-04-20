@@ -1,0 +1,35 @@
+Grundlage 
+Die Stadtpolizei (StaPo) und die Kantonspolizei (KaPo) Zürich müssen gelegentlich mit Personen in Kontakt treten, die von den Sozialen Diensten Zürich (SOD) unterstützt oder betreut werden. Gründe dafür können etwa sein, dass ein Klient zur Verhaftung ausgeschrieben ist oder einer Klientin eine Verfügung zugestellt werden muss. Können diese Personen nicht auf andere Weise ausfindig gemacht werden, ist die Polizei auf Informationen der SOD angewiesen, bei hängigen Strafverfahren im Rahmen der Rechtshilfe, ausserhalb von hängigen Strafverfahren im Rahmen der Amtshilfe. 
+
+Die massgeblichen gesetzlichen Grundlagen für die Leistung der Rechts- und Amtshilfe sind:
+
+Art. 43 ff. Strafprozessordnung (StPO) - bei Anfragen im Rahmen von hängigen Strafverfahren;
+§ 48 Sozialhilfegesetz (SHG) – bei Anfragen ausserhalb von hängigen Strafverfahren zu KlientInnen mit wirtschaftlicher Hilfe;
+Art. 413 Abs. 2 Zivilgesetzbuch (ZGB) – bei Anfragen ausserhalb von hängigen Strafverfahren zu verbeiständeten KlientInnen.
+
+Die vorliegende Praxishilfe beschreibt den zwischen der StaPo und der KaPo sowie den SOD vereinbarten Ablauf bei solchen Rechts- oder Amtshilfegesuchen. Aufgrund der Vertraulichkeit sind alle E-Mails in dieser Angelegenheit jeweils verschlüsselt zu verschicken.
+Ablauf
+Der Rechtsdienst der StaPo (RD StaPo) oder der Dienstchef Kriminaleinsatzabteilung Zürich der KaPo oder sein Stellvertreter fragen beim Sekretariat Zentrale Dienste SOD (Sekretariat ZD SOD, soziale.dienste@zuerich.ch) per E-Mail an, ob die gesuchte Person KlientIn der SOD ist.
+
+Das Sekretariat ZD SOD erteilt der anfragenden Stelle per E-Mail die gewünschte Auskunft. Ist die gesuchte Person KlientIn der SOD, leitet das Sekretariat ZD SOD das E-Mail der anfragenden Stelle an die Fallführung resp. den/die BeiständIn mit cc an die Stellenleitung und die anfragende Stelle weiter. 
+
+Die anfragende Stelle stellt bei der Fallführung resp. bei der Beiständin oder beim Beistand und der Stellenleitung per E-Mail ein begründetes Gesuch um Bekanntgabe des nächsten Beratungstermins.
+
+Die Fallführung resp. die Beiständin oder der Beistand entscheidet aufgrund einer Interessenabwägung (vgl. Ziff. 3), ob die Auskunft erteilt werden kann oder nicht. Die Mitteilung erfolgt mittels E-Mail (Kopie an Stellenleitung). Eine allfällige Verweigerung ist zu begründen.
+
+Wird der Beratungstermin bekanntgegeben, verpflichtet sich die StaPo bzw. die KaPo, die Klientin oder den Klienten nicht unmittelbar vor oder im Sozialzentrum zu kontaktieren resp. zu verhaften. Sie achtet auf einen ausreichenden zeitlichen und räumlichen Abstand zur Beratungssituation, um diese möglichst wenig zu beeinträchtigen.
+
+
+Ist die anfragende Stelle mit einer allfälligen Auskunftsverweigerung nicht einverstanden, kann sie per E-Mail mit dem Rechts- oder Amtshilfegesuch an die zuständige Zentrumsleitung (ZL) gelangen.
+
+Die ZL entscheidet abschliessend über das Gesuch. Bei Kindes- und Erwachsenenschutzmassnahmen liegt der Entscheid, ob und wieweit Rechts- oder Amtshilfe gewährt wird, gestützt auf Art. 413 ZGB primär beim Beistand oder der Beiständin. Bei Unsicherheiten holt sich der Beistand/die Beiständin oder die Zentrumsleitung gestützt auf Art. 400 Abs. 3 ZGB vor der Antwort an die Polizei Instruktion oder Beratung bei der KESB ein. Die abschliessende Antwort der ZL erfolgt per E-Mail , mit Kopie an die Fallführung resp. die Beiständin oder den Beistand und die Stellenleitung.
+
+Interessenabwägung
+Fallführung ohne Kindes- oder Erwachsenenschutzmassnahme
+Das öffentliche Interesse an der Bekanntgabe des Termins wird in der Regel höher zu gewichten sein, als das private Interesse der unterstützten Person an dessen Geheimhaltung. Die Fallführung kann daher grundsätzlich Rechts- oder Amtshilfe gewähren.
+
+Fallführung mit Kindes- oder Erwachsenenschutzmassnahme
+BeiständInnen sind zur Verschwiegenheit verpflichtet (Art. 413 Abs. 2 ZGB, erster Halbsatz ZGB). Sie sind jedoch zur Preisgabe von Informationen berechtigt, wenn der Verschwiegenheit überwiegende Interessen entgegenstehen (Art. 413 Abs. 2 ZGB, zweiter Halbsatz). Die Beiständin oder der Beistand muss nach pflichtgemässem Ermessen entscheiden, ob die Interessenwahrung der betreuten Person eine Bekanntgabe des Beratungstermins rechtfertigt oder nicht. Sind die Voraussetzungen für die Rechts- oder Amtshilfe geben, ist keine zusätzliche Entbindung vom Amtsgeheimnis nötig.
+
+Juristischer Support
+Bei Unsicherheiten kann in Fällen ohne Kindes- und Erwachsenenschutzmassnahme der Fachstab Wirtschaftliche Hilfe (FS WH), in Fällen mit Kindes- und Erwachsenenschutzmassnahme entweder der Fachstab Erwachsenenschutz (FS ES) oder der Fachstab Kinder- und Jugendhilfe (FS KJH) beratend beigezogen werden.

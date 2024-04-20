@@ -1,0 +1,27 @@
+
+
+Grundlage
+
+Bei einem neuen Unterstützungsgesuch und bei der jährlichen Überprüfung des Leistungsentscheides muss beim Strassenverkehrsamt des Kantons Zürich (StVA) angefragt werden, ob Klient*innen (KL) ein Fahrzeug eingelöst haben. Diese Anfrage ist für alle unterstützten Personen über 18 Jahre nötig.
+Verfahren zur Auskunftserteilung beim Strassenverkehrsamt
+Halteranfragen können nur mittels Ausfüllen des Online-Formulars des Strassenverkehrsamtes gestellt werden. Dieses ist über diesen Link abrufbar. 
+
+Müssen mehrere Personen eines unterstützten Haushaltes abgeklärt werden, so ist für alle Personen ein eigenes Formular auszufüllen. 
+
+Die Antworten sind in der Regel innert 48 Stunden zu erwarten.
+
+Es sind folgende (automatisch generierten) Antworten möglich: 
+
+Die von Ihnen angefragte Person ist im angefragten Zeitraum nicht als Halter*in von Motorfahrzeugen registriert.
+KL wurde im System des StVA gefunden und ist nicht als Halter*in eines Fahrzeugs aufgeführt. Hatte KL innerhalb der letzten zwei Jahre einen anders lautenden Ledignamen, muss die Anfrage zusätzlich mit diesem gestellt werde, da die Namensänderung dem StVA allenfalls nicht gemeldet wurde. 
+
+Die von Ihnen angefragte Person ist im angefragten Zeitraum als Halter*in von Motorfahrzeugen registriert.
+KL wurde im System des StVA gefunden und ist Halter*in eines Fahrzeugs. 
+Wir erhalten die gewünschten Informationen.
+
+Mit den von Ihnen gemachten Angaben haben wir in unserem System keine Person gefunden. 
+Das StVA haben mit denen von uns angefragten Angaben (Familien- / Vornamen und Geburtsdatum) keine Person gefunden. Das kommt vor, wenn die*der angefragte KL mehrere Familien- oder Vornamen hat und das StVA in ihrem System aber lediglich einen Familien- / oder Vornamen erfasst hat.
+In diesem Fall ist die erhaltene E-Mail mit allen Vor- und Nachnamen dem StVA an folgende Mailadresse zu senden: ava@stva.zh.ch Die Mitarbeitenden des StVA prüfen dann alle Varianten und schicken uns die Antwort A) oder B). 
+
+Sollten in einem Fall Zweifel an der automatisch generierten Antwort des StVA bestehen, kann die erhaltene E-Mail an ava@stva.zh.ch weitergeleitet werden. 
+

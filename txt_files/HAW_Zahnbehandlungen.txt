@@ -1,0 +1,49 @@
+
+Grundlage
+Notwendige zahnärztliche Behandlungen werden von den Sozialen Diensten (SOD) finanziert, sofern Behandlungsplan resp. -ziel und Ausführung einfach, wirtschaftlich und zweckmässig sind und kein anderer Kostenträger (z. B. Krankenkasse, Unfallversicherung, Haftpflichtversicherung) dafür aufzukommen hat. 
+Die Rückerstattung von Zahnarztkosten erfolgt nach den allgemeinen sozialhilferechtlichen Grundsätzen. Eine Kostenbeteiligung durch Klientinnen/Klienten ist nicht vorgesehen.
+Informationsaustausch mit Zahnärztinnen und Zahnärzten
+Damit der Informationsaustausch zwischen den SOD und der behandelnden Zahnärztin/dem behandelnden Zahnarzt sichergestellt werden kann, ist eine entsprechende schriftliche Ermächtigung durch die Klientin/den Klienten notwendig. 
+Kostenübernahme
+
+Behandlungen im Ausland
+Kosten für im Ausland durchgeführte Zahnbehandlungen werden nur vergütet, sofern es sich um eine notfallmässige Schmerzbehandlung handelt. 
+zahnärztliche Kontrollen und Dentalhygiene
+Die Kosten für zahnärztliche Kontrolluntersuchungen sowie Dentalhygiene werden grundsätzlich übernommen (Richtwert: Fr. 600.00 pro Jahr). 
+Notfall-Behandlungen
+Für die Bewilligung von (schmerzstillenden) Notfallbehandlungen wird kein Kostenvoranschlag benötigt (Richtwert: Fr. 600.00 resp. zwei Behandlungen pro Jahr). 
+Behandlungen unter Fr. 3‘000.00
+Behandlungen, deren voraussichtliche Kosten (inklusive Laborkosten) den Betrag von 
+Fr. 3‘000.00 nicht übersteigen, können grundsätzlich ohne vertrauenszahnärztliche Abklärung bewilligt werden. Voraussetzung ist, dass die vorgesehene Behandlung abschliessend ist und der Kostenvoranschlag den Anforderungen von Ziff. 3 entspricht. 
+Vor Erteilen einer Kostengutsprache sichten die Fallführenden die Rechnungen der vergan-genen 5 Jahre. Bestehen aufgrund von Häufigkeit und/oder kumulierten Kosten für zahnärztliche Behandlungen Unsicherheiten, ob die vorgesehene Behandlung die erforderlichen Kriterien erfüllt, wird die Vertrauenszahnärztin/der Vertrauenszahnarzt kontaktiert und das weitere Vorgehen im Einzelfall besprochen. 
+Behandlungen über Fr. 3‘000.00
+Belaufen sich die voraussichtlichen Kosten für die vorgesehene Behandlung auf über 
+Fr. 3‘000.00, sind Kostenvoranschlag und Behandlungsziel durch eine Vertrauenszahnärztin/ einen Vertrauenszahnarzt zu prüfen (Vorgehen s. Ziff. 4). Gestützt auf deren Beurteilung wird die Kostenübernahme (vollumfänglich oder teilweise) gutgeheissen resp. abgelehnt.
+Zahnbehandlungen von Kindern und Jugendlichen
+Jährliche Kontrolluntersuchungen bei schulpflichtigen Kindern und nötige Folgebehandlungen werden von den Schulzahnkliniken der Stadt Zürich durchgeführt. Die Schulgesundheitsdienste (SGD) kommen für einen angemessenen Anteil, gestützt auf das versteuerte Einkommen der Eltern, auf. Für zahnärztliche Behandlungen, die von der Schulzahnklinik empfohlen werden, ist keine Prüfung durch die Vertrauenszahnärztin/den Vertrauenszahnarzt nötig. Die Kosten werden vollumfänglich übernommen.
+Bei Kieferorthopädischen Behandlung können die Schulzahnkliniken an externe Kiederorthopädinnen oder Kiederorthopäden verweisen. An den Kosten beteiligen sich die SGD analog zu den Behandlungen in den Schulzahnkliniken. Kostenvoranschläge für Kieferorthopädischen Behandlungen sind ab Fr. 6'000.00 durch die Vertrauenszahnärztin/den Vertrauenszahnarzt für Kieferorthopädie zu überprüfen. 
+Kosten für Untersuchungen und Behandlungen, die nicht in Schulzahnkliniken durchgeführt oder von diesen empfohlen wurden, werden nicht von der Sozialhilfe übernommen. 
+Prüfung des Kostenvoranschlages bzw. der Rechnung
+
+Wert und Anzahl der Taxpunkte
+Bei zahnärztlichen Behandlungen von Sozialhilfebeziehenden ist der Sozialversicherungsansatz (SV-Tarif) anzuwenden. Dies betrifft sowohl den Taxpunkt-Wert (Stand Januar 2018: Fr. 1.00) als auch die Anzahl der pro Position veranschlagten Taxpunkte. 
+Zur Prüfung von Kostenvoranschlägen und Zahnarztrechnungen steht eine Excell-Tabelle zur Verfügung. Alternativ können die Positionen auf der Tarifliste der Schweizerischen Zahnärztegesellschaft (SSO) nachgeschlagen werden.
+
+Tarifpositionen, die nicht übernommen werden
+Tarifpositionen, die weder bezahlt noch bewilligt werden können, sind in der Excell-Tabelle orange markiert oder sind auf der Tarifliste SSO mit dem Vermerk "Wird von den Versicherern nach UV/MV/IV nicht vergütet" aufgeführt. 
+Diese Positionen können nur ausnahmsweise und nach Rücksprache mit der Vertrauenszahnärztin oder dem Vertrauenszahnarzt übernommen werden.
+Tarifposition 4.0250: Mehraufwand bei Personen mit besonderen Bedürfnissen
+Bei Patientinnen und Patienten mit Behinderungen, Suchtproblemen etc. können im Rahmen einer zahnärztlichen Behandlung Mehraufwände entstehen. In solchen Fällen kommt die Position 4.0250 zur Anwendung. Der sich abzeichnende Mehraufwand muss im Kostenvoranschlag beziffert und nachvollziehbar begründet werden. Im Zweifelsfall kann ein ärztliches Zeugnis angefordert werden. 
+Einzig bei Behandlungen im Zentrum für Zahnmedizin der Universität Zürich ist grundsätzlich keine Begründung erforderlich. Ist der Mehraufwand aber grösser als ursprünglich geschätzt bzw. beträgt die Abweichung der Gesamtkosten mehr als 15 % der veranschlagten Kosten, muss die/der behandelnde Zahnärztin/Zahnarzt um Erhöhung der Kostengutsprache ersuchen. Die zusätzlichen Mehraufwände sind in jedem Fall zu begründen.
+
+Begutachtung durch die Vertrauenszahnärztinnen/-zahnärzte der SOD
+Zu überprüfende KVs werden zusammen mit einer Vollmacht der Klientin/des Klienten sowie den detaillierten Rechnungen für von den SOD finanzierte zahnärztliche Behandlungen während der letzten fünf Jahre an die Vertrauenszahnärztin/den Vertrauenszahnarzt (VZA) geschickt. Diese/r gibt innerhalb von zwei Monaten eine Beurteilung ab, inwiefern die vorgesehene Behandlung die Kriterien von Einfachheit und Zweckmässigkeit erfüllt und entsprechend durch die Sozialhilfe finanziert werden kann. Die behandelnde Zahnärztin bzw. der behandelnde Zahnarzt wird durch die Fallführung über das Ergebnis der Begutachtung informiert. 
+Die Adressen und Zuständigkeiten nach Sozialzentren der VZA sind im Regelwerk SKOS C im Intranet ersichtlich. 
+Erteilen einer Kostengutsprache
+Steht der Behandlung nichts im Wege, werden die Klientin/der Klient und die behandelnde zahnärztliche Praxis schriftlich informiert. Die Kostengutsprache umfasst den im KV festgehaltenen Betrag zuzüglich einer Abweichung von maximal 15 %. Die Gültigkeitsdauer ist individuell festzulegen; in der Regel sind Behandlung und Rechnungsstellung innert eines Jahres abzuschliessen. 
+Bei zwei verpassten Terminen wird die Behandlung erst nach einer sorgfältigen Überprüfung der Kooperationsbereitschaft sowie -fähigkeit der Klientin/des Klienten weitergeführt. Ist diese nicht gegeben, wird die Behandlung zugunsten einer reinen «Schmerzbehandlung» abgebrochen. 
+Kompetenz
+Die Kompetenz für die Finanzierung von zahnärztlichen Leistungen liegt bei den Sozialarbeitenden. 
+Vorgehen bei Ablösung 
+Bei Ablösung einer Klientin/eines Klienten informiert die Fallführung umgehend die behandelnde Zahnärztin/den behandelnden Zahnarzt. Die bis zu diesem Zeitpunkt bereits entstandenen Kosten sind zu übernehmen. Wurde die Behandlung noch nicht begonnen, wird die Kostengutsprache schriftlich widerrufen, sodass seitens SOD keine Leistungspflicht mehr besteht. 
+Erfolgt diese Information nicht rechtzeitig bzw. wird die geleistete Kostengutsprache nicht widerrufen, sind die gesamten Kosten der Behandlung gemäss Kostenvoranschlag zu übernehmen.

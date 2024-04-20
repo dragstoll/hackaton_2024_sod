@@ -1,0 +1,54 @@
+
+
+Grundlage
+Gemäss SKOS-Richtlinien Kap. A.4.1 schränkt die Tatsache, dass eine Person Sozialhilfe bezieht, die zivilrechtliche Rechts- und Handlungsfähigkeit nicht ein. Es ist den Klientinnen und Klienten (KL) der wirtschaftlichen Sozialhilfe (WH) also im Grundsatz freigestellt, wozu sie den ihnen zustehenden Grundbedarf (GBL), eine allfällige Integrationszulage (IZU) oder den Einkommensfreibetrag (EFB) verwenden.
+
+Diese Verfügungsfreiheit hat ihre Grenzen, wenn KL der WH Zahlungen an oder zugunsten von Dritten tätigen, die ihren finanziellen Möglichkeiten nicht entsprechen. Mit der vorliegenden PRA soll den fallführenden Sozialarbeiterinnen und Sozialarbeitern (SA) ein Hilfsmittel zur Verfügung gestellt werden, um solche unangemessene Zahlungen zu erkennen, die auf weitere nicht deklarierte finanzielle Mittel hinweisen, die Situation zu klären und entsprechend der Klärung darauf zu reagieren.
+Grenzen der Verfügungsfreiheit
+Mit den knapp bemessenen Mitteln der Sozialhilfe ist es KL der WH nur beschränkt möglich, Zahlungen an oder zugunsten von Drittpersonen zu tätigen. Richtwert ab dem das überprüft werden soll, sind dabei Zahlungen, die zusammengezählt 15% des GBL während maximal 12 Monaten überschreiten. Dabei kann es sich auch um bloss einmalige oder kurzzeitige Zahlungen handeln.  Diese "Prüfschwelle" lehnt sich an die Vorgaben der Sozialbehörde betreffend Leistungskürzungen an, die in der Kompetenz der Fallführung liegen. Bei Überschreiten dieser Schwelle besteht die Gefahr, dass die KL ihren zwingenden laufenden Verpflichtungen nicht mehr nachkommen können. Das kann zu einer Verschuldung, zu einer Gefährdung des Kindswohls oder zur Vernachlässigung der grundsätzlichen Bedürfnisse der Familienmitglieder führen. Zu berücksichtigen sind auch die Dauer und die Häufigkeit der Überweisungen sowie die weitere Situation der Person. 
+
+Wird diese Grenze mit den Zahlungen an oder zugunsten von Dritten überschritten, ist daher anzunehmen, dass der/die KL über zusätzliche finanzielle Mittel verfügt hat, die nicht wahrheitsgemäss und rechtzeitig deklariert worden sind. Es obliegt der/dem KL, diese Annahme umzustossen und den Gegenbeweis zu erbringen. Dazu sind beweiskräftige Belege (vgl. Ziff. 5) notwendig, denn strafbare Handlungen können nicht ausgeschlossen werden (z.B. Sozialhilfebetrug, Geldwäscherei, Steuerhinterziehung).
+Indizien für Zahlungen an oder zugunsten von Dritten
+Allgemein:
+
+Zahlungen an oder zugunsten von Dritten fallen zu unterschiedlichen Zeitpunkten auf, teils zufällig während der laufenden Unterstützung, teils anlässlich der jährlichen Erneuerung des Leistungsentscheids.
+
+Erfolgten die Zahlungen über ein von den KL deklariertes Bank- oder Postkonto, so erscheinen sie auf dem entsprechenden Kontoauszug als Überweisung oder Zahlungsausgang. Anlässlich von dessen Überprüfung sollten daher auch die Zahlungsempfänger kurz kontrolliert werden. Beinhaltet der Kontoauszug ungewöhnliche Zahlungen an Dritte, die nicht als nachgewiesene Gläubiger bekannt sind (z.B. Vermieter, KK, Swisscom), sind die KL damit zu konfrontieren (vgl. nachfolgend Ziff. 4).
+
+Spezialfall: Geldüberweisungen von KL der WH an Dritte mittels Western Union etc.
+
+Bei Geldüberweisungen wird Geld per Geldüberweisungsinstitut (z.B. SBB oder Western Union) an eine Drittperson versendet. Dieses Mittel wird oft verwendet, um Verwandte / Bekannte im Ausland finanziell zu unterstützen. Für solche Geldüberweisungen wird kein Konto benötigt. Der Überweisende muss sich gegenüber dem Geldüberweisungsinstitut mit einem gültigen amtlichen Ausweis ausweisen und zu Fragen bezüglich Herkunft und Verwendungszweck des Geldes Stellung nehmen. Die Geldüberweisungsinstitute gehen davon aus, dass der Überweisende auch der wirtschaftlich Berechtigte an dem überwiesenen Geldbetrag ist. 
+
+Solche Überweisungen fallen den Sozialen Diensten (SOD) meist dann auf, wenn in einem Unterstützungsfall eine Vertiefte Abklärung erfolgt. Mittels unterzeichneter Bankenvollmacht erteilen solche Geldüberweisungsinstitute den SOD Auskunft.
+Konfrontation / Rechtliches Gehör
+Fallen ungewöhnliche Zahlungen an oder zugunsten von Dritten auf, welche die in Ziff. 2 Abs. 1 erwähnte "Prüfschwelle" übersteigen, so sind die KL damit zu konfrontieren. Dabei sind sie darauf aufmerksam zu machen, dass der begründete Verdacht besteht, sie würden über nicht deklarierte Einnahmen oder Vermögenswerte verfügen. Im Rahmen der Sachverhaltsklärung und der Gewährung des rechtlichen Gehörs ist ihnen Gelegenheit zu geben, sich zu den einzelnen Zahlungen zu äussern und sowohl über den Zahlungsadressaten wie auch den Zahlungszweck Auskunft zu geben. Bei Bedarf sind weitere angemessene Schritte einzuleiten.
+Würdigung der Aussagen und Beweismittel
+Mündlich erfolgte Aussagen sollten durch die KL schriftlich bestätigt und mit Beweisen belegt werden. Grundsätzlich sollten die Gesamtumstände genau angeschaut und auf mögliche Widersprüche in den früheren Äusserungen der KL geachtet werden. Als allgemeine Orientierungshilfe kann übrlegt werden, mit welchen Dokumenten man eine eigene Forderung / Schuld belegen und beweisen würde. Aussagen wie z.B. dass der/die KL von einer unbekannten Person Geld erhalten habe und das Geld für diese Person überwiesen habe, sind unglaubwürdig.
+
+Bei Bestätigungen von Freunden und Verwandten kann es sich um Gefälligkeitsbestätigungen handeln. Sie sollten daher ebenfalls anhand der nachfolgend aufgezählten Kriterien hinterfragt werden.
+
+Zahlungen im angeblichen Auftrag von Dritten:
+
+Teilweise machen KL im Rahmen der Gewährung des rechtlichen Gehörs geltend, sie hätten die Zahlung im Auftrag von Drittperson getätigt. Dabei handelt es sich öfter um eine Schutzbehauptung. Dazu eingereichte Belege sollten daher möglichst vielen der nachfolgend aufgezählten Kriterien entsprechen:
+
+Die Bestätigung der Drittperson, für welche die Geldüberweisung angeblich getätigt wurde, sollte den Betrag, das Geldübergabedatum, die Herkunft der finanziellen Mittel und den Zahlungsgrund umfassen. 
+Die Bestätigung sollte unterzeichnet und korrekt datiert sein (auf Rück-/Vordatierung achten). 
+Die Bestätigung sollte den Namen, das Geburtsdatum, die Adresse, die Telefonnummer und/oder die E-Mailadresse der Drittperson beinhalten und gut lesbar sein. 
+Die Identität der Drittperson sollte soweit möglich abgeklärt und überprüft werden (z.B. anhand einer Kopie des Passes, der ID oder des Ausländerausweises der Drittperson).
+Bestehen Zweifel, dass es die Drittperson an der erwähnten Adresse überhaupt gibt, hilft eine kurze Recherche im Internet teilweise weiter (GoogleMaps oder Weisse Seiten etc.)
+Geldflüsse sollten anhand von aussagekräftigen Unterlagen belegt werden. Es empfiehlt sich, keine handschriftliche Notizen zu akzeptieren, sondern Kontoauszüge und unterschriebene und datierte Quittungen zu verlangen. 
+Die KL sollten den Nachweis erbringen, dass die Drittperson im Zeitpunkt der Überweisungen über die finanziellen Mittel verfügte, um die Zahlungen zu finanzieren. Diesbezüglich ist auch zu belegen, wie die Rückzahlung von der auftraggebenden Drittperson an die/den KL erfolgt ist oder noch erfolgen wird.
+Das Filialnetz der Geldüberweisungsinstitute ist sehr dicht und deren Öffnungszeiten sind sehr lang. Die Erklärung, die Drittperson habe keine Zeit gehabt, um eine Überweisung selbst zu tätigen, ist daher selten plausibel und glaubwürdig. Die Gründe, weshalb eine Drittperson eine Überweisungen nicht selber tätigen konnte, müssen aber nachvollziehbar sein (z.B. weil die Drittperson über keinen amtlichen Ausweis oder keine gültige Aufenthaltsbewilligung verfügte).
+
+Angebliche Rückzahlung von Schulden bei der Drittperson:
+
+Beleg für den Bestand der Schuld, z.B. Darlehensvertrag
+Zahlungsbeleg dafür, dass das Geld zuvor durch die/den KL auch erhalten worden ist.
+Keine Nach- oder Umdatierungen
+Widersprüche aufgrund der damaligen Lebenssituation beurteilen: Es kann unlogisch sein, wenn KL dann angeblich Schulden gemacht haben, als sie eigentlich über ausreichend eigene Mittel verfügten. Bei dieser Beurteilung kann evtl. der Zahlungszweck weiterhelfen.
+Einstellung der WH aufgrund erheblicher und begründeter Zweifel an der Mittellosigkeit (SKOS-RL Kap. F.3)
+Bestehen aufgrund der Sachverhaltsabklärungen erhebliche Zweifel an der aktuellen Bedürftigkeit, können die Unterstützungsleistungen mittels anfechtbarem ZL-Entscheid ausnahmsweise eingestellt werden. Da die WH das letzte finanzielle Auffangnetz ist, ist von dieser Möglichkeit nur zurückhaltend Gebrauch zu machen. Die Einstellung ist auf jeden Fall anzudrohen und den KL ist Gelegenheit zu geben, sich vorgängig mündlich oder schriftlich dazu zu äussern. Hierzu sollte ihnen eine kurze Frist angesetzt werden (10-14 Tage).
+
+Ist die Situation unklar, kann das Team VA als Support beigezogen werden.
+Rückforderung wegen unrechtmässigem Bezug gemäss § 26 lit. a SHG
+Grundsätzlich sind die Gesamtumstände des Einzelfalls zu berücksichtigen, insbesondere ob der/die KL aus dem GBL bereits zusätzliche Leistungen bezahlt (z.B. Mietzinsdifferenz oder VVG, laufende Kosten eines Autos). Das wirkt sich auf die verbleibende Verfügungsfreiheit betreffend GBL, EFB und IZU aus. Sofern es mit Beweisen ausreichend belegt ist oder der KL den bestehenden begründeten Verdacht betreffend ihm zusätzlich zur Verfügung stehender, nicht deklarierter finanzieller Mittel nicht mit an Sicherheit grenzender Wahrscheinlichkeit hat ausräumen können, ist ein Rückforderungsentscheid gestützt auf § 26 lit. a SHG zu erlassen.

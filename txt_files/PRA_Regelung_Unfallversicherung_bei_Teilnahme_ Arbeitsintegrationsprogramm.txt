@@ -1,0 +1,54 @@
+
+1	Ausgangslage	1
+1.1	Sistierung Nichtberufsunfallversicherung bei der Krankenkasse für die Dauer der Programmteilnahme	1
+1.2	Ausnahme: Einsätze im Rahmen der stundenweisen Beschäftigung	2
+2	Abtretungserklärung und Zahlungsermächtigung	2
+3	Vorgehen bei Berufs- und Nichtberufsunfall	2
+3.1	Unfallmeldung	2
+3.2	Taggeldzahlungen der Unfallversicherung (UV-Taggelder)	3
+3.3	Beendigung Programmteilnahme bei laufender Taggeldzahlung	3
+3.4	Ablösung von der wirtschaflichen Hilfe (WH) durch UV-Taggelder	3
+
+Ausgangslage
+Anbieter von Arbeitsintegrationsprogrammen sind verpflichtet, ihre Programmteilnehmer*innen gegen Betriebs- und Nichtbetriebsunfälle zu versichern. Damit braucht es für  Teilnehmer*innen dieser Programme keine obligatorische Nichtberufsunfallversicherung bei der Krankenkasse und sie kann für die Dauer der Programmteilnahme sistiert werden. Das Abschliessen einer UVG-Versicherung ist demnach auch für Anstellungen ohne Lohn obligatorisch. Das heisst, Personen ohne Lohn erhalten bei einem Unfall ab dem dritten Tag nach dem Unfall ebenfalls ein Taggeld.
+
+Ausgenommen sind Einsätze im Rahmen der stundenweisen Beschäftigung. Dort läuft der Versicherungsschutz immer über die obligatorische Nichtberufsunfallversicherung bei der Krankenkasse und darf deshalb nicht sistiert werden.
+
+Sistierung Nichtberufsunfallversicherung bei der Krankenkasse für die Dauer der Programmteilnahme 
+Sobald festgestellt wird, dass der*die Klient*in (KL) längerfristig an einem Arbeitsintegrationsprogramm (ausser stundenweise Beschäftigung, siehe Kap. 1.2)  teilnimmt, erfolgt die Sistierung der obligatorischen Nichtberufsunfallversicherung bei der Krankenkasse mittels schriftlichem Antrag. 
+
+Tritt ein*e KL aus dem Programm aus, muss zeitnah wieder eine obligatorische Nichtberufsunfallversicherung bei der Krankenkasse abgeschlossen werden. Der*die KL ist nach Austritt nur noch während 31 Tagen beim Anbieter gegen Nichtberufsunfall versichert.
+Ausnahme: Einsätze im Rahmen der stundenweisen Beschäftigung
+Klient*innen, die an einem Angebot der stundenweisen Beschäftigung teilnehmen, sind nicht durch die Anbieter gegen Berufs- und Nichtberufsunfälle versichert, sondern durch die obligatorische Nichtberufsunfallversicherung bei ihrer Krankenkasse. Der Unfallzusatz KVG wird daher nicht sistiert. 
+
+Abtretungserklärung und Zahlungsermächtigung
+Für die Anmeldung in ein Qualifizierungsprogramm, einen gemeinnützigen Arbeitseinsatz oder einen Förderarbeitsplatz bei einem privaten Anbieter braucht es eine Abtretungserklärung (siehe KiSS-Formular «SV – Abtretung Nachzahlung Sozialversicherungen an SOD») und eine Zahlungsermächtigung (siehe KiSS-Formular «SV – Zahlungsermächtigung für alle SozVers»). 
+
+Der*die KL unterschreibt die beiden Dokumente in zweifacher Ausführung (1 Exemplar für den Anbieter und 1 Exemplar für die SOD). Der*die Sozialarbeiter*in (SA) reicht ein Exemplar vor Programmantritt bei dem privaten Anbieter ein.
+
+In folgenden Fällen braucht es keine Zahlungsermächtigung und keine Abtretungserklärung:
+
+Alle SEB-Programme
+Alle Teillohnprogramme  
+
+Folgende Tabelle gibt eine Übersicht:
+
+
+Zahlungsermächtigung und Abtretungserklärung bleiben für die gesamte Einsatzdauer beim gleichen Anbieter gültig. Ein Widerruf erfolgt erst bei Beendigung des Einsatzes, sofern keine Taggeldzahlungen geleistet werden (siehe Kap. 3.3). 
+
+Vorgehen bei Berufs- und Nichtberufsunfall 
+Unfallmeldung 
+
+Erleidet der*die KL während der Programmteilnahme oder bis zu 31 Tagen nach Austritt einen Unfall – unabhängig ob Berufs- oder Nichtberufsunfall – so wird der*die SA vom Anbieter unverzüglich per E-Mail informiert. Falls der*die SA von einem Unfall erfährt, informiert er*sie unverzüglich den Anbieter. 
+
+Taggeldzahlungen der Unfallversicherung (UV-Taggelder)
+Ab dem dritten Tag der Arbeitsunfähigkeit wird seitens Unfallversicherung ein Taggeld bezahlt. Die Unfallmeldung an die zuständige Unfallversicherung sowie die Schadensmeldung wird vom jeweiligen Anbieter resp. Einsatzbetrieb (bei externen Einsatzplätzen) ausgefüllt. Die Taggelder gehen beim Anbieter resp. Einsatzbetrieb ein und werden an die Sozialen Dienste weitergeleitet und im KiSS als Einnahme gebucht. Der*die SA überprüft den Eingang der Unfalltaggeldzahlungen.  
+
+Bei Wiederaufnahme der Tätigkeit erfolgt eine Meldung durch den Anbieter resp. Einsatzbetrieb an den*die SA. 
+
+Beendigung Programmteilnahme bei laufender Taggeldzahlung 
+Wird die Programmteilnahme während laufender Taggeldzahlungen beendet, so bleiben die Abtretungserklärung und die Zahlungsermächtigung bestehen und der Anbieter resp. Einsatzbetrieb leitet die Taggelder an die SOD weiter.
+
+Ablösung von der wirtschaflichen Hilfe (WH) durch UV-Taggelder
+Wird der*die KL durch die UV-Taggelder von der WH abgelöst, macht der*die SA eine Meldung an den Anbieter. Bei den SEB ist zusätzlich das ZAT (Controlling und Infrastruktur, Support Sozialdepartement) zu informieren.
+

@@ -1,0 +1,31 @@
+1. Inhalt
+Die vorliegende Handlungsanweisung erläutert den Anspruch von ausländische Klient*innen (KL) auf wirtschaftliche Sozialleistungen. 
+
+Ausländer*innen haben wie Schweizer*innen ein verfassungsmässiges Recht auf Hilfe in Notlagen (Art. 12 Bundesverfassung der Schweiz). Je nach ihrer Bewilligungsart und ihrem Aufenthaltszweck haben Ausländer*innen gestützt auf das Sozialhilfrecht und das Migrationsrecht Anspruch auf reguläre wirtschaftliche Hilfe (WH), auf Asylfürsorge oder auf Nothilfe/Notfallhilfe. 
+
+2. Anspruch nach Aufenthaltszweck und Bewilligungsart
+Ein Anspruch auf WH besteht grundsätzlich so lange, wie die Aufenthaltberechtigung vorhanden ist, d.h. bis das Migrationsamt die Aufenthaltsberechtigung mittels rechtskräftiger Verfügung entzieht und die gesetzte Ausreisefrist abgelaufen ist (näheres hierzu: siehe PRA Informationen zur Beratung von KL zum Migrationsverfahren). Ausnahme: Bei EU/EFTA-Staatsangehörigen kann der Anspruch auf WH bereits mit Beendigung ihrer Erwerbstätigkeit erlöschen, ohne dass das Migrationsamt eine Verfügung erlassen muss (siehe Kap.3).
+
+Wenn kein WH-Anspruch mehr besteht, dürfen auch keine WH-Auszahlungen mehr an die KL erfolgen. Die Leistungen können per sofort eingestellt werden und die Klienten*innen sind schriftlich zu informieren, dass die Leistungen eingestellt wurden und eine beschwerdefähige Verfügung verlangt werden kann. Ziel ist es, keine Auszahlungen an die KL zu machen ohne Rechtsgrundlage. Allenfalls sind entsprechende KL an die ZAV zu vermitteln zur Klärung des Anspruchs auf Notfallhilfe. 
+
+Das Migrationsamt kann die SOD mangels rechtlicher Grundlage nicht automatisch über einen rechtskräftigen Bewilligungsentzug informieren. Jedoch erfolgt in diesen Fällen im Fallführungssystem eine Meldung über die Änderung des Aufenthaltsstatus auf "unbekannt". Gestützt auf diese Meldung ist das Migrationsamt nach dem genauen Aufenthaltsstatus anzufragen (partner@ma.zh.ch / Mailvorlage) und zu prüfen, ob der WH-Anspruch weiterhin gegeben ist. 
+
+Grundsätzlich muss die Fallführung den aktuellen Aufenthaltsstatus der KL jederzeit im Auge behalten, insbesondere bei abgelaufenen Bewilligungen und laufenden Migrationsverfahren. Die KL sind seitens Fallführung darüber zu orientieren, dass sie die SOD im Rahmen ihrer Mitwirkungspflicht über Veränderungen hinsichtlich ihrer Aufenthaltsberechtigung informieren müssen.
+
+Wir haben folgende Möglichkeiten, Informationen über den Aufenthaltsstatus der KL zu erlangen:
+Wir fragen die KL an
+Informationen im Fallführungssystem und Omega als Anhaltspunkte 
+(z.B. Aufenthaltsstatus, Gültigkeitsdauer Bewilligung, Meldeadresse. Achtung: Informationen sind nicht immer aktuell / korrekt)
+Wir fragen das Migrationsamt an (Amtshilfe, § 48 Abs. 2 SHG)
+
+Die nachfolgende Auflistung gibt eine Übersicht über die verschiedenen Aufenthaltsstatus und den daraus resultierenden Anspruch auf WH.
+3. Spezialfall Beendigung Erwerbstätigkeit EU/EFTA
+EU/EFTA-Staatsangehörige mit B-Bewilligung, deren unselbständige Erwerbstätigkeit endet, stellen gemäss Art. 61a AIG einen Spezialfall betreffend Anspruch auf WH dar. Für sie gilt das folgende Schema.
+
+
+
+
+Bei unfreiwilliger Beendigung der unselbständigen Erwerbstätigkeit innerhalb der ersten 12 Monate besteht kein Anspruch auf WH (ausser bei den Gründen gemäss Grafik). Das AIG sieht in diesem Fall jedoch eine Sperrfrist vor für den Widerruf der Aufenthaltsbewilligung von mindestens sechs Monaten bzw. bis zum Ablauf der Arbeitslosenentschädigung. Jedoch kann für diese Personengruppe ein Anspruch auf Notfallhilfe bestehen. Sie können an die ZAV weiterverwiesen werden.
+
+Bei freiwilliger Beendigung der Erwerbstätigkeit und bei selbständiger Erwerbstätigkeit hingegen kann das Migrationsamt die Bewilligung sofort entziehen (es gibt hier keine Sperrfrist) und ein Anspruch auf WH entfällt daher mit dem rechtskräftigen Bewilligungswiderruf.
+

@@ -1,0 +1,46 @@
+
+
+Grundsatz
+Als Grundlage für die Zuständigkeiten von SOD und AOZ gilt die Vereinbarung zur Zusammenarbeit zwischen SOD und AOZ. Darin ist u.a. geregelt, welche der beiden Organisationen in welchen Fällen für die Fallführung zuständig ist, den Zeitpunkt des Zuständigkeitswechsels sowie den Ablauf der Fallübergabe zwischen AOZ und SOD. 
+
+Die vorliegende PRA beschreibt ergänzend dazu, was bei Fallaufnahmen von Klientinnen und Klienten (KL), die von der AOZ an die SOD übergeben werden, beachtet werden muss, damit eine nahtlose Fallübergabe im Hinblick auf die berufliche und soziale Integration sowie betreffend persönlicher Hilfe nach SHG gewährleistet wird. 
+
+Zuständigkeiten
+Die Zuständigkeiten der beiden Organisationen im Bereich wirtschaftliche Hilfe (WH) ist im Kapitel 2 der Zusammenarbeitsvereinbarung geregelt. Folgende Personen werden ab einem Aufenthalt von sieben Jahren in der Schweiz von den AOZ an die SOD übergeben:
+
+anerkannte Flüchtlinge (Aufenthaltsstatus B FL)
+vorläufig aufgenommene Flüchtlinge (Aufenthaltsstatus F VA FL)
+
+Die Zuständigkeit wechselt erst dann von den AOZ zur SOD, wenn keine Person der Unterstützungseinheit an einem von der Fachstelle Integration (FI) akkreditierten Angebot teilnimmt und für keine Person eine solche Teilnahme geplant ist (vgl. Ausführungen im Kap. 2.4.1 der Zusammenarbeitsvereinbarung).
+
+Die Zuständigkeit wechselt nur dann von den SOD zur AOZ, wenn ein laufender Fall durch eine Erweiterung des Falles (z.B. Heirat) zu einem Mischfall wird (Mischfall = mind. eine Person wird nach den Bestimmungen der Asylfürsorge (AfV) unterstützt und mind. eine Person wird nach den SKOS-Richtlinien unterstützt) (vgl. auch Kap. 2.3 der Zusammenarbeitsvereinbarung). 
+
+
+
+
+Fallübergaben von den AOZ zur SOD
+Der Ablauf der Fallübergaben ist in Kap. 2.4.3 der Zusammenarbeitsvereinbarung festgehalten:
+
+Folgende Punkte sind bei der Fallaufnahme im Intake speziell zu beachten:
+Alle Unterlagen sowie das Formular "Fallübergabe" werden in elektronischer Form von der AOZ per Mail an die Stellenleitung (SL) und stellvertretende SL des jeweiligen Intake geschickt (mind. vier Wochen vor dem Zuständigkeitswechsel). Diese sind nach der Falleröffnung im KiSS abzulegen.
+Klientinnen und Klienten (KL), welche von der AOZ an die SOD übergeben werden, müssen keinen neuen Antrag auf wirtschaftlich Hilfe (WH) stellen. 
+Der laufende Leistungsentscheid (LE) von der AOZ wird vom jeweiligen Intake übernommen, sofern er noch mindestens sechs Monate gültig ist. In diesen Fällen ist kein Orientierungsgespräch notwendig. Die Personen können direkt zu einem Gespräch Leistungsentscheid mit einer/einem Sozialarbeitenden eingeladen werden. Hier gilt zu beachten, dass dieses erste Gespräch vor dem Zeitpunkt des Zuständigkeitswechsels stattfinden muss. Die Fallführung der AOZ ist über das Datum dieses Gesprächs direkt zu informieren.
+Wenn der laufende LE der AOZ weniger als 6 Monate gültig ist, ist vom jeweiligen Intake ein neuer LE zu erstellen. In diesen Fällen sind die Personen zu einem Orientierungsgespräch einzuladen. Hier gilt ebenfalls zu beachten, dass dieses erste Gespräch vor dem Zeitpunkt des Zuständigkeitswechsels stattfinden muss. Die Fallführung der AOZ ist über das Datum dieses Gesprächs direkt zu informieren.
+KL, welche von der AOZ an die SOD übergeben werden, müssen im ersten Gespräch auf die Rechte und Pflichten hingewiesen werden. Das Merkblatt "Rechte und Pflichten" muss von den KL unterschrieben werden (als separates Dokument, da sie keinen Antrag auf WH bei den SOD stellen und unterzeichnen).
+Entscheide, welche von der AOZ erstellt wurden und zum Zeitpunkt der Fallübergabe aktuell sind, werden von den SOD übernommen und weitergeführt (vgl. Zusammenarbeitsvereinbarung Kap. 2.4.6). 
+Bei der Fallaufnahme im KiSS ist zu prüfen, ob die vorhandenen Personendaten mit denjenigen im OMEGA übereinstimmen (insb. bzgl. Zivilstand). Ansonsten sind die Daten gemäss OMEGA anzupassen. 
+Es ist darauf zu achten, dass immer das Datum der Einreise in die Schweiz im KiSS erfasst wird (ebenfalls im Formular "Fallübergabe" ersichtlich).
+Bei der Erstellung der Unterstützungsanzeige an das KSA ist darauf zu achten, dass der Unterstützungsbeginn korrekt eingetragen wird (erst ab dem zweiten Monat nach dem Zuständigkeitswechsel, da für den ersten Monat nach dem Zuständigkeitswechsel die wirtschaftliche Hilfe noch von der AOZ ausgerichtet wird (vgl. Kap. 2.4.5 der Zusammenarbeitsvereinbarung)). 
+Weiter ist bei der Erstellung der Unterstützungsanzeige zu beachten, dass diese auf den Namen des Dossierträgers bei der AOZ (aus dem Formular "Fallübergabe" ersichtlich) erstellt wird (= Hauptperson) (nicht auf den Namen der Fallträgerin im KiSS). Bei Familien/Ehepaaren ist dies normalerweise der Mann, und nicht die Frau. Dies ist im Hinblick auf die Weiterverrechnung mit dem KSA relevant.
+Gleichzeitig muss auch der WV-Einheitsträger manuell angepasst werden. Das KiSS nimmt für den WV-Einheitsträger automatisch die Fallträgerin/den Fallträger. Der WV-Einheitsträger muss aber mit dem Dossierträger bei der AOZ (und mit der Hauptperson in der Unterstützungsanzeige) übereinstimmen und deshalb manuell angepasst werden (normalerweise ist dies der Mann, und nicht die Frau). Somit ist auch gewährleistet, dass die Rechnung auf denselben Namen läuft wie die Meldung ans KSA. In der KiSS-Bedienerhilfe "Intake: WV-Einheitsträgerwechsel bei Fällen aus Fallübergaben von der AOZ" wird beschreiben, wie der WV-Einheitsträger manuell angepasst werden kann. 
+Bei Fällen mit einer Änderung bezüglich Kostenersatz nach SHG (im Formular "Fallübergabe" ersichtlich) ist folgendes zu beachten: 
+Sollten nach der Fallübergabe Rechnungen bei den SOD eingehen, die gemäss Verbuchungsgrundsätzen den Zeitraum vor dem Änderungsdatum der Kostenersatzpflicht betreffen, sind diese immer der AOZ weiterzuleiten (z.B. Zahnarztrechnung mit Datum der KoGu vor der Änderung der Kostenersatzpflicht). Für diese Rechnungen ist die AOZ zuständig, da nur die AOZ diese weiterverrechnen kann.
+Sollten Rechnungen bei den SOD eingehen, die gemäss Verbuchungsgrundsätzen sowohl den Zeitraum vor wie auch nach dem Änderungsdatum der Kostenersatzpflicht betreffen, zahlt die SOD die Rechnung und stellt der AOZ den Anteil in Rechnung, welcher den Zeitraum vor dem Änderungsdatum betrifft. Sollten solche Rechnungen bei der AOZ eingehen, zahlt die AOZ die Rechnung und stellt den SOD den Anteil in Rechnung, welcher den Zeitraum nach dem Änderungsdatum betrifft (z.B. Mietzinsrechnungen, die periodengerecht verbucht werden). 
+Darüber hinaus gelten dieselben Vorgaben wie bei einer regulären Fallaufnahme (vgl. HAW Aufnahmeprozess – Anspruchsklärung und Ausrichtung wirtschaftlicher Hilfe). 
+
+In Einzelfällen kann auf Antrag der AOZ davon abgewichen werden, dass die AOZ die wirtschaftliche Hilfe für den ersten Monat nach dem Zuständigkeitswechsel ausrichtet. Der Antrag muss zusammen mit der Vorinformation, dass der Fall an die SOD übergeben wird, erfolgen. 
+
+Fallübergaben von den SOD zur AOZ
+In Fällen, wo eine Fallübergabe von den SOD an die AOZ zu machen ist, gelten ebenfalls die Regelungen der Vereinbarung zur Zusammenarbeit (vgl. Kap. 2.4). 
+
+

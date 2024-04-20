@@ -1,0 +1,79 @@
+
+Grundlage
+
+Gemäss § 15 des Einführungsgesetzes zum Krankenversicherungsgesetz (EG KVG) sind die Sozialdienste verpflichtet, die Individuelle Prämienverbilligung (IPV) von Sozialhilfebeziehenden sicherzustellen und nur die Restprämie im Unterstützungsbudget der Sozialhilfe zu berücksichtigen (siehe Prozessbeschrieb Sicherstellung IPV). Dabei ist zu beachten, dass von Klient*innen (KL), die bei einer teuren Krankenkasse (KK) versichert sind, eingefordert wird, zu einer günstigen KK zu wechseln, soweit dies möglich und zumutbar ist (siehe HAW Wechsel in eine günstige Krankenversicherung).
+
+Weiter sind die Sozialdienste gestützt auf das EG KVG verpflichtet, die nicht durch die Prämienverbilligungen gedeckten Prämien von KL direkt an die Versicherer zu überweisen (Direktzahlung). 
+
+Seit dem 01.01.2012 können die Versicherungen keine Leistungsaufschübe mehr verfügen, d.h. der Versicherungsschutz ist für die Versicherten auch bei Prämienausständen lückenlos gegeben. Jedoch ist bei Prämienausständen ein Versicherungswechsel nicht möglich. Unter bestimmten Kriterien können Prämienausstände vor Unterstützungsbeginn übernommen werden (siehe Ziff. 2.3).
+
+Prämienzahlungen
+Das genaue Vorgehen ist im Prozess "Bezahlung KVG-Prämie" beschrieben.
+
+Information an Klienten*innen sowie die jeweiligen Krankenkassen
+
+Sowohl die KL als auch die jeweiligen KK sind über die Direktzahlungen in Kenntnis zu setzen. Für die Information an die jeweils zuständige KK steht eine KiSS-Vorlage zur Verfügung (KK – EG KVG – Info an KK). 
+
+KK-Administration via SOD
+
+Die KL erledigen ihre KK-Angelegenheiten in der Regel selbst. Die SOD übernehmen die Administration der KK-Angelegenheiten für Personen, die dabei Unterstützung benötigen. Für die Information an die zuständige KK, dass die SOD die gesamten KK-Angelegenheiten betreuen, steht eine KiSS-Vorlage zur Verfügung ("Mutationsmeldung an Krankenkasse / Betreuungsbestätigung"; nicht zu verwechseln mit dem Schreiben an die Krankenkasse betreffend Direktzahlung).
+In dieser Betreuungsbestätigung können auch die spezifischen Modalitäten festgelegt werden (Versicherungsmodell, Franchise etc.).
+
+
+
+Versicherungsmodell und Franchise
+Hinsichtlich Versicherungsmodell und Franchise wird auf die HAW Wechsel in eine günstige Krankenkasse, Ziff. 3, verwiesen: KL sollen grundsätzlich in einem Standardmodell mit tiefster Franchise versichert sein. 
+2.1 Ausnahme zur Direktzahlung der Krankenkassenprämien 
+Wenn aufgrund der Einnahmenssituation nur ein Teilbetrag der KVG-Prämie übernommen werden kann, kann vom Grundsatz der Direktzahlung an die KK abgewichen werden. Der Teilbetrag wird direkt den KL überwiesen. Diese müssen monatlich nachweisen, dass sie die gesamte KVG-Prämie bezahlt haben.
+
+2.2	Einschluss Unfallversicherung
+Die Fallführung ist zuständig für die Prüfung, ob der Einschluss einer Unfallversicherung in die Krankenversicherung angezeigt ist. Dies ist dann der Fall, wenn der/die KL nicht bereits durch einen Arbeitgeber, einen Arbeitseinsatz (z.B. SEB) oder die Arbeitslosenversicherung unfallversichert ist. Der/die SA veranlasst den Einschluss entweder selbst und informiert den/die KL (KK-Administration für den/die KL) oder hält den/die KL dazu an (bei KK-Selbstadministration). 
+Ebenso veranlasst die Fallführung die Aufhebung der Unfallversicherung, wenn der/die KL neu durch einen Arbeitseinsatz unfallversichert ist und weiterhin mit WH unterstützt wird. 
+2.3	Prämienausstände 
+
+Prämienausstände vor Unterstützungsbeginn
+
+Offene KVG-Prämienausstände von KL, die für die Zeit vor Beginn des Sozialhilfebezuges bestehen, können gemäss Verordnung zum EG KVG unter bestimmten Voraussetzungen beglichen werden. Um die KL vor weitgehender Verschuldung zu schützen, prüfen wir eine Übernahme der Prämienausstände. Wenn wir die Prämienausstände übernehmen, übernehmen wir stets auch die zu den Prämienausständen gehörenden allfälligen Verzugszinsen, Mahnkosten sowie Betreibungskosten.
+
+Die Fallführenden erkundigen sich daher aktiv bei den KL oder direkt bei der Krankenkasse (wenn KK via SOD administriert wird), ob Prämienausstände vorliegen.
+
+Zu prüfen ist im Zusammenhang mit der Übernahme von Prämienausständen auch, ob rückwirkend noch Prämienverbilligungen beantragt werden können. Das genaue Vorgehen ist im Prozess "Sicherstellung IPV in der WH" beschrieben.
+
+Bei der Übernahme der Prämienausstände ist folgendes zu beachten:
+
+Eine Übernahme ist empfohlen, wenn 
+weder eine Prämie noch eine Kostenbeteiligung in Betreibung ist (kumulativ)
+und im Einzelfall berechtigte Gründe dafür vorliegen die Situation des/der KL zu verbessern 
+
+Prämienausstände können über die LA 140 und Kostenbeteiligungen als SIL (über die LA 340 bzw. 341) übernommen werden.
+
+
+Beispiele für eine mögliche Übernahme:
+durch die Begleichung der Schuld wird ein Krankenkassenwechsel möglich
+eine Verschuldung wird verhindert
+Personen auf Wohnungssuche erleiden keinen Nachteil aufgrund von Betreibungen
+Eine Ablösung von der Sozialhilfe ist aktuell nicht absehbar
+
+Eine Übernahme ist im begründeten Einzelfall möglich, wenn
+eine Betreibung eingeleitet worden ist aber noch keine Verlustscheine vorliegen 
+alle Kostenbeteiligungen beglichen sind und
+Hinweise dafür vorhanden sind, dass der/die KL seit Entstehen der Prämienausstände unter dem sozialhilfrechtlichen Existenzminimum lebte (kumulativ) 
+
+Eine Übernahme ist nicht möglich, wenn
+Verlustscheine vorliegen
+Prämienausstände älter als zwei Jahre sind
+Prämienausstände betrieben werden und der KL seit Entstehen dieser Prämienausstände über dem sozialhilferechtlichen Existenzminimum gelebt hat.
+
+Die Kompetenz für die Übernahme liegt gemäss Kompetenzordnung der Sozialbehörde bei der Stellenleitung.
+
+Bei Prämienausständen, die eine Periode während des WH Bezugs betreffen, ist in jedem Fall der Grund zu klären. Falls die Prämie nicht von der KK falsch verbucht wurde, ist der Ausstand schnellstmöglich zu begleichen. 
+Information betreffend BezügerInnen von Ergänzungsleistungen
+Die SVA überweist für das AZL die regionale Durchschnittsprämie (RDP) höchstens aber die tatsächliche Prämie als Prämienverbilligung direkt an die Krankenkasse. Die gesetzlichen Übergangsbestimmungen sehen vor, dass für Bezüger*innen, für welche die EL-Reform eine Verschlechterung zur Folge hat, während einer Übergangsfrist von drei Jahren, d.h. bis 1.1.2024, das bisherige Recht gilt.
+
+Den Klient*innen wird durch die Krankenkasse der allfällige Restbetrag in Rechnung gestellt. Das genaue Vorgehen mit Zahlungen ist in der KiSS-Bedienerhilfe Direktzahlung Regionale Durchschnittsprämie ZL festgehalten.
+Zusatzversicherung VVG / Zahnzusatzversicherung bei Kindern
+Die Übernahme von VVG-Versicherungen (Prämien) ist ausnahmsweise mittels SIL möglich, wenn die persönlichen Umstände dies rechtfertigen (vgl. SKOS-Richtlinien, Kapitel C.6.5, sowie Behördenhandbuch Kanton Zürich, 8.1.02). Die Kompetenz dafür liegt bei der Fallführung (entsprechende Aktennotiz anfertigen). Eine Übernahme von Prämienausständen vor Unterstützungsbeginn ist bei VVG-Versicherungen, im Gegensatz zur obligatorischen Krankenversicherung, nicht möglich.
+
+Der Abschluss einer kostengünstigen Zahnzusatzversicherung für Kinder, die das 3. Altersjahr noch nicht vollendet haben, wird empfohlen. Online-Versicherungsvergleichsportale können bei der Wahl der Versicherung helfen. Wenn eine Zahnzusatzversicherung abgeschlossen wird, werden die Prämien bis zur Volljährigkeit übernommen.
+
+Für die Übernahme von Kostenbeteiligungen und die ensprechenden Kompetenzen gilt Ziff. 3.1. der HAW Situationsbedingte Leistungen. Bei Zahnbehandlungen von Kindern und Jugendlichen ist Ziff. 2.6. der HAW Zahnbehandlungen zu beachten. 

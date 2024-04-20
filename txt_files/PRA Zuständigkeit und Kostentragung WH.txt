@@ -1,0 +1,39 @@
+Bestimmen des Unterstützungswohnsitzes nach ZUG und SHG
+Der zivilrechtliche Wohnsitz ist beinahe deckungsgleich mit dem Unterstützungswohnsitz. Der Unterschied zwischen dem zivilrechtlichen Wohnsitz und dem Unterstützungswohnsitz besteht darin, dass eine Person den zivilrechtlichen Wohnsitz bis zum Erwerb eines neuen Wohnsitzes nicht verlieren kann. Den Unterstützungswohnsitz kann eine Person hingegen verlieren und ist dann eine „Person ohne festen Wohnsitz“. Eine Person ohne festen Wohn-sitz kann aber in einer Gemeinde Aufenthalt begründen und die Gemeinde ist dann als Aufenthaltsgemeinde verpflichtet Hilfe zu leisten. Dieser Unterschied ist bei der Beurteilung der fürsorgerechtlichen Zuständigkeit von zentraler Bedeutung.
+
+Der Unterstützungswohnsitz einer Person liegt dort, wo sie sich mit der Absicht des dauernden Verbleibens aufhält (Art. 4 Abs. 1 ZUG). Dies setzt voraus, dass:
+sie sich dort tatsächlich niedergelassen und eingerichtet hat und damit über eine ordentliche Wohngelegenheit verfügt und 
+sie die aus den gesamten Umständen erkennbare Absicht hat, dort nicht nur vorüberge-hend, sondern "dauerhaft", d.h. zumindest für längere Zeit zu bleiben.
+
+Ausnahmen: Der Aufenthalt in einem Heim, Spital oder einer anderen Anstalt sowie die behördlich oder vormundschaftlich angeordnete Unterbringung von volljährigen Per-sonen in Familienpflege begründen keinen Wohnsitz (Art. 5 ZUG). 
+
+Um den Weiterverrechnungscode zu bestimmen, muss zuerst geklärt werden, ob eine hilfe-suchende Person in der Stadt Zürich bzw. im Kanton Zürich Unterstützungswohnsitz gemäss Sozialhilfe- oder Zuständigkeitsgesetz begründet. 
+
+Die Kriterien für das Bestimmen des Weiterverrechnungscodes sind: 
+CH-BürgerIn oder AusländerIn 
+Aufenthaltsdauer im Kanton Zürich
+Zuzug in den bzw. Datum der Wohnsitzbegründung im Kanton Zürich 
+Unmündige Kinder
+Für unmündige Kinder existieren Sonderbestimmungen (Art. 7 ZUG und § 37 SHG). 
+
+Das unmündige Kind übernimmt grundsätzlich die Aufenthaltsdauer des Inhabers bzw. der Inhaberin der elterlichen Sorge mit gleicher Nationalität, sofern es den gleichen Wohnsitz hat/hatte. 
+Obliegt die elterliche Sorge beiden Eltern (beide Eltern CH-Bürger / beide Eltern Ausländer), übernimmt das Kind das längere Zuzugsdatum. 
+
+Kinder begründen am Aufenthaltsort einen eigenen Unterstützungswohnsitz, auch wenn die Eltern keinen Unterstützungswohnsitz begründen (nur Aufenthalt haben). 
+
+Zusätzlich ist bei fremdplatzierten unmündigen Kindern zwischen einem vorübergehenden bzw. befristeten Fremdaufenthalt und einer dauernden Fremdplatzierung zu unterscheiden. 
+Ehegatten / eingetragene Partnerinnen und Partner
+Ist die Wohnsitzdauer zusammenlebender Ehegatten oder eingetragener Partnerinnen und Partnern (beide Schweizer oder beide Ausländer) unterschiedlich, so ist stets die längere massgebend. Lösen sie den gemeinsamen Haushalt auf, so wird ihnen die bisherige Wohn-sitzdauer angerechnet, sofern sie den Wohnkanton nicht verlassen (§ 36 Abs. 2 SHG). 
+
+Kostentragung (Weiterverrechnung)
+Die Kostenersatzpflicht des Wohnkantones wird im ZUG, die Kostenersatzpflicht des Kantons Zürich im SHG geregelt.
+Kostenersatzpflicht des Wohnkantons nach ZUG (Personen ohne festen Wohnsitz)
+Der Wohnkanton vergütet dem Aufenthaltskanton, der einen Bedürftigen im Notfall unter-stützt, die Kosten der notwendigen und der in seinem Auftrag ausgerichteten weiteren Unterstützung sowie die Kosten der Rückkehr des Unterstützten an den Wohnort (Art. 14 ZUG). 
+Kostenersatzpflicht des Kantons nach SHG 
+Bei ausländischen Staatsangehörigen können die Kosten ab Zuzug in den Kanton Zürich an den Kanton Zürich weiterverrechnet werden, wenn sie noch nicht zehn Jahre ununterbro-chen Wohnsitz im Kanton haben (§ 44 Abs. 1 SHG).
+
+Der Kanton ersetzt der Aufenthaltsgemeinde die Kosten der von ihr geleisteten wirtschaft-lichen Hilfe, soweit nicht die Wohngemeinde erstatzpflichtig ist oder eine Ersatzpflicht nach Bundesrecht besteht (§ 44 Abs. 2 SHG).
+
+Der Kanton übernimmt die Kosten der ausserhalb des Kantonsgebiets geleisteten wirtschaft-lichen Hilfe an Hilfeempfänger ohne züricherischen Wohnsitz, soweit den Kanton bundesrechtlich eine Ersatzpflicht trifft (§ 44 Abs. 3 SHG). 
+
+

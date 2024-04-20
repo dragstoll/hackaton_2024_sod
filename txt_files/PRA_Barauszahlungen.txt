@@ -1,0 +1,20 @@
+
+Vorgehen
+Der Auszahlungsbeleg wird im Bereich ausgefüllt und an die KlientInnen übergeben. Der / die KlientIn geht anschliessend mit Beleg und Ausweis an die Stadtkasse (Adresse siehe Auszahlungsbeleg), um das Geld zu beziehen.
+Formular
+Es darf nur das Formular verwendet werden, welches ausdrücklich für die Verwendung als Auszahlungsbeleg via Stadtkasse bestimmt worden ist. Der Beleg ist mit einer Sicherheitsetikette zu versehen, damit die Fälschungsssicherheit gewährleistet ist. Die Etiketten liegen in den Zentren vor.
+Text
+Bitte geben Sie einen Text ein, damit von der Buchhaltung erkannt werden kann, wofür die Zahlung geleistet wurde.
+Betrag
+Die Beträge sind möglichst klein zu halten. Es wird maximal ein Barbetrag von Fr. 3'000.-- ausbezahlt.
+Der Betrag hat auf dem Formular in Worten präzisiert zu werden. Die Ausschreibung erfolgt analog dem gesprochenen Wort und nicht als Ziffernfolge.
+Visa/Unterschrift
+Die Unterschrift (Visum reicht nicht) muss vom / von der StellenleiterIn oder dessen / deren Stv. im Feld Ausgabenbewilligung erfolgen. > Nicht vergessen: Melden Sie uns einen allfälligen neuen Stv.
+Die Unterschrift muss mit einem blauen Kugelschreiber - auf keinen Fall mit einem schwarzen - erfolgen, da sonst der Beleg nur schwer von einer Kopie zu unterscheiden ist.
+Klientendaten
+Der Beleg muss:
+mit der PN-Nummer des Klienten versehen sein
+(besser: die komplette Nummer des Kontos XXXXXX . XXX . XXXXXX)
+die Zahlungsart ‘Bar’ enthalten
+den Namen des Zahlungsempfängers enthalten
+die Adresse des Zahlungsempfänger enthalten

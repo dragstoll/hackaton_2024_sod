@@ -1,0 +1,155 @@
+
+Grundlagen
+Die Finanzierung von ergänzenden Hilfen zur Erziehung (eHE) erfolgt seit 2022 in der Regel über das kantonale Kinder- und Jugendheimgesetz (KJG). Zur Finanzierung im Rahmen des KJG bestehen die HAW "Finanzierung von ergänzenden Hilfen zur Erziehung (eHE) nach KJG" und die Prozessbeschreibung "Finanzierung von ergänzenden Hilfen zur Erziehung (eHE) nach KJG" (siehe PUMA, Kinder- und Jugendhilfe). In diesen Unterlagen wird auch beschrieben, welche Leistungen unter den Begriff einer eHE fallen.
+
+In Ausnahmefällen haben Kinder, Jugendliche oder junge Erwachsene (nachfolgend "Leistungsbeziehende" genannt) keinen Anspruch auf Leistungen im Rahmen des KJG oder diese reichen für eine vollständige Finanzierung nicht aus. In solchen Fällen ist die Finanzierung der eHE im Rahmen der wirtschaftlichen Hilfe (WH) nach Sozialhilfegesetz (SHG) zu prüfen. Rechtliche Grundlage für eine solche Finanzierung ist § 15 Abs. 3 SHG, wonach Kindern und Jugendlichen eine ihren Bedürfnissen angepasste Pflege und Erziehung sowie eine ihren Fähigkeiten entsprechende persönliche Förderung und Ausbildung zu ermöglichen ist. Bei bereits laufenden eHE besteht diese Pflicht nach Erreichen der Volljährigkeit auch noch gegenüber jungen Erwachsenen.
+
+Die vorliegende HAW regelt neben der Finanzierung der Kosten der eHE selbst auch die Finanzierung der bei Platzierungen anfallenden individuellen Auslagen, insbesondere der Verpflegungs- und der Nebenkosten.
+
+Finanzierung von eHE über die WH nach SHG als Ausnahme 
+Grundsätzlich werden eHE über das KJG abgegolten. Die Finanzierung von eHE über die WH stellt den Ausnahmefall dar, zu dem es insbesondere in folgenden Situationen kommen kann:
+Die*der Leistungsbeziehende hat den zivilrechtlichen Wohnsitz ausserhalb des Kantons Zürich und dieser Wohnsitzkanton kennt keine dem zürcherischen KJG entsprechende Finanzierungsmöglichkeit.
+Nachgewiesene besondere Bedürfnisse der*des Leistungsbeziehenden verursachen Kosten, die gemäss Kostenübernahmegarantie (KÜG) des AJB nicht oder nicht vollständig über das KJG finanziert werden (in der Regel Vorfinanzierung über die WH während hängigen Rechtsmittelverfahren gegen Entscheid AJB).
+Der Antrag auf KÜG über das KJG wurde durch die zuständige Fallführung der SOD nicht rechtzeitig gestellt, weshalb eine Finanzierungslücke besteht. 
+
+Zusätzlich kann es notwendig sein, bei einer Platzierung in Heim- oder Familienpflege die Verpflegungs- und die Nebenkosten über die WH nach SHG zu finanzieren,
+wenn die Eltern der*des Leistungsbeziehenden entweder finanziell nicht in der Lage sind, für diese bei einer Platzierung entstehenden Kosten ganz aufzukommen,
+oder die Eltern bezüglich der direkten Tragung dieser Kosten nicht mit den Leistungserbringenden kooperieren (zum Beispiel Verweigerung von Informationen zu ihrer finanziellen Leistungsfähigkeit, Verweigerung des Abschlusses einer Finanzierungsvereinbarung, Verweigerung von Zahlungen trotz Mahnung).
+
+Voraussetzungen für Finanzierung von eHE über die WH
+Damit eine eHE und bei Platzierungen die dafür zusätzlich individuell anfallenden Auslagen (Verpflegungs- und Nebenkosten) über die WH finanziert werden können, muss die Durchführung der eHE indiziert und notwendig sein und die vorgelagerten eigenen Mittel reichen für deren (rechtzeitige) Finanzierung nicht aus.
+Gesuch und Gesuchsberechtigung
+Ein Gesuch um Finanzierung über die WH können in erster Linie die Sorgeberechtigten, die urteilsfähigen minderjährigen oder die volljährigen Leistungsbeziehenden sowie die Mandatsführenden im Auftrag der KESB/des Gerichts stellen. Bei Bedarf unterstützen die Fachpersonen KJH oder WH die Sorgeberechtigten und/oder die Leistungsbeziehenden bei der Gesuchstellung. 
+
+Sind die Sorgeberechtigten nicht bereit, einen WH-Antrag zu stellen und besteht keine Beistandschaft mit dem Auftrag, für die Finanzierung des Lebensunterhaltes der*des Leistungsbeziehenden besorgt zu sein, können die Leistungserbringenden direkt ein Gesuch um Kostengutsprache stellen. 
+
+Verdeckte Platzierungen: Die SOD erteilen bei Bedarf subsidiär Kostengutsprache, wenn den Eltern der Aufenthaltsort der*des Leistungsbeziehenden aus Kindesschutzgründen nicht bekannt gegeben werden darf. Hier erfolgt die Finanzierung vorab über die WH. Die Finanzierung aus eigenen Mitteln oder im Rahmen der elterlichen Unterhaltspflicht ist erst in einem nachgelagerten Schritt zu klären.
+Zuständigkeit - Unterstützungswohnsitz
+Sozialhilferechtlich zuständig für die Finanzierung der Kosten einer eHE, der Verpflegungs- und Nebenkosten sowie allfälliger weiterer persönlicher Auslagen ist der Unterstützungswohnsitz der Leistungsbeziehenden, wenn die Finanzierung der eHE nicht über das KJG erfolgen kann (z.B. weil sich der zivilrechtliche Wohnsitz der*des Leistungsbeziehenden nicht im Kanton Zürich befindet). Der Unterstützungswohnsitz bestimmt sich im interkantonalen Verhältnis nach Art. 4ff. ZUG und im innerkantonalen Verhältnis nach § 32ff. SHG.
+
+Bei Fragen oder Unklarheiten im Zusammenhang mit der örtlichen Zuständigkeit bzw. dem Unterstützungswohnsitz bietet die ZAV unter SDSOD-SZSZAVTriagestelleKSA@zuerich.ch Support.
+Unterstützungswohnsitz von Minderjährigen
+Grundsätze:
+Minderjährige teilen in der Regel unabhängig von ihrem Aufenthaltsort den Unterstützungswohnsitz der sorgeberechtigten Eltern. Bei unterschiedlichem Wohnsitz der Sorgeberechtigten ist der Unterstützungswohnsitz desjenigen Elternteils massgeblich, bei dem sie wohnen (abgeleiteter Unterstützungswohnsitz / § 37 Abs. 1 und 2 SHG, Art. 7 Abs. 1 und 2 ZUG). 
+Sind Minderjährige freiwillig oder behördlich/gerichtlich dauerhaft fremdplatziert, begründen sie einen von den Eltern unabhängigen, eigenen Unterstützungswohnsitz am Ort, an dem sie letztmals mit den Eltern oder dem sorgeberechtigten Elternteil zusammengelebt haben (§ 37 Abs. 3 lit. c SHG, Art. 7 Abs. 3 lit. c ZUG). 
+Ebenfalls einen eigenen Unterstützungswohnsitz haben Minderjährige, die unter Vormundschaft stehen (am Sitz der zuständigen KESB).
+
+Der abgeleitete Unterstützungswohnsitz kommt insbesondere zum Zug bei
+ambulanten eHE, bei denen Leistungsbeziehende weiterhin mit den Sorgeberechtigten zusammenleben und höchstens einzelne Nächte auswärts verbringen;
+vorübergehenden Fremdplatzierungen, die zeitlich beschränkt (in der Regel bis zu 6 Monate, z.B. Timeout) und / oder zu einem klar definierten Zweck erfolgt sind (z.B. Abklärung) und eine anschliessende Rückkehr in die Herkunftsfamilie vorgesehen ist.
+Ebenfalls als nicht dauerhaft gelten Fremdplatzierungen, wenn Leistungsbeziehende nur teilweise ausserhalb der Herkunftsfamilie leben, z.B. in Wochenpflege.
+
+Ein eigener Unterstützungswohnsitz besteht bei dauerhafter Fremdplatzierung. Indizien für eine dauerhafte Fremdplatzierung sind:
+Die Platzierung erfolgt auf unbestimmte Zeit oder für mindestens 6 Monate.
+Die Platzierung erfolgt im Zusammenhang mit Kindesschutzmassnahmen nach ZGB.
+
+Der Übergang zwischen vorübergehender und dauerhafter Fremdplatzierung ist zuweilen fliessend.
+
+Der eigene Unterstützungswohnsitz von Minderjährigen wird weder durch eine Umplatzierung noch durch Wochenend-/Ferienaufenthalte bei der Herkunftsfamilie unterbrochen. Nur wenn die*der Leistungsbeziehende (evtl. auch nur vorübergehend) wieder zu den Sorgeberechtigten rückplatziert oder volljährig wird, muss der Unterstützungswohnsitz neu bestimmt werden.
+
+Der eigene Unterstützungswohnsitz bleibt auch bestehen, wenn die Eltern bzw. der sorgeberechtigte Elternteil zu einem späteren Zeitpunkt einen neuen Unterstützungswohnsitz begründen.
+Unterstützungswohnsitz von jungen Erwachsenen
+Mit Erreichen der Volljährigkeit begründen junge Erwachsene einen eigenen Unterstützungswohnsitz. Sind sie nicht dauerhaft fremdplatziert, so befindet sich dieser an dem Ort, an dem sie angemeldet sind, sowie den Mittelpunkt ihrer Lebensbeziehungen und die Absicht des dauernden Verbleibs haben.
+Wurden junge Erwachsene bereits vor Erreichen der Volljährigkeit in Heim- oder Familienpflege fremdplatziert, so besteht der bisherige Unterstützungswohnsitz an dem Ort weiter, an dem er sich im Zeitpunkt der Platzierung befand. Das gilt bis zur Beendigung der eHE. Kehrt die volljährige Person danach nicht an den bisherigen Unterstützungswohnsitz zurück, ist zu prüfen, wo sich der neue Mittelpunkt ihrer Lebensbeziehungen befindet und ob sie sich dort mit der Absicht des dauernden Verbleibs aufhält. Ist das der Fall, begründet die*der junge Erwachsene dort einen neuen Unterstützungswohnsitz.
+Vorliegen einer Indikationsstellung und Anordnung durch KESB/Gericht oder Einverständnis der Sorgeberechtigten
+Die Finanzierung von eHE über die WH erfolgt, wenn
+eine Finanzierung über das KJG nicht oder nur teilweise möglich ist,
+die KESB oder ein Gericht die Massnahme angeordnet hat,
+oder der Beratungsprozess im Rahmen der Kinder- und Jugendhilfe ergeben hat, dass die Massnahme indiziert ist und die Sorgeberechtigten mit dieser einverstanden sind. Die*der Leistungsbeziehende muss ihrem*seinem Alter und Entwicklungsstand entsprechend in die Entscheidung einbezogen werden. Liegt das Einverständnis vor, schliessen die Sorgeberechtigten mit den Sozialen Diensten eine Vereinbarung ab, gestützt auf welche die Fallführung die eHE aufgleisen und die Finanzierung in die Wege leiten kann.
+Prüfung vorgelagerter Leistungen - Subsidiarität der WH
+Bedürftig im Sinne von § 14 SHG ist, wer für den Lebensunterhalt nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann. Ist eine Bedürftigkeit gegeben, besteht Anspruch auf WH. Vor der Erteilung einer Kostengutsprache ist aufgrund der Subsidiarität der WH daher zu prüfen, in welchem Umfang eigene Mittel und Leistungen Dritter zur Verfügung stehen, die bei der Finanzierung Vorrang haben (§ 16 Sozialhilfeverordnung / SHV). Müssen finanzielle Leistungsansprüche (z.B. Stipendien oder Ergänzungsleistungen) erst noch geltend gemacht werden, ist bei Bedarf vorschussweise zu unterstützen.
+
+Kommt eine Finanzierung der Kosten der eHE über das zürcherische KJG nicht zum Tragen, weil sich der zivilrechtliche Wohnsitz der*des Leistungsbeziehenden in einem anderen Kanton befindet, ist zu prüfen, ob im Wohnsitzkanton für die Durchführung von eHE eine vergleichbare Finanzierungsmöglichkeit besteht und falls ja hat die Finanzierung primär über diese zu erfolgen. Benötigen die Abklärungen länger Zeit, kann eine subsidiäre Vorfinanzierung über die WH erfolgen.
+Leistungen für den Unterhalt der Leistungsbeziehenden selbst 
+Berücksichtigung bei abgeleitetem Unterstützungswohnsitz:
+Leistungsbeziehende und ihre im gleichen Haushalt lebenden Familienangehörigen bilden eine Unterstützungseinheit. Als solche könnten sie grundsätzlich nur gesamthaft mit WH unterstützt werden. Diesbezüglich wird durch die Empfehlungen der Sozialkonferenz, des kantonalen Amts für Jugend und Berufsberatung und des kantonalen Sozialamts aber geraten zu unterscheiden,
+ob eine Familie bereits WH bezieht, weil sie auch sonst zur Finanzierung des laufenden Lebensunterhalts darauf angewiesen ist,
+oder ob die Familie noch nicht bei der WH anhängig ist. 
+Um den Eintritt der ganzen Familie in die WH zu vermeiden, ist ein nicht dauernd fremdplatziertes Kind bzw. Jugendliche*r als eigener Unterstützungsfall zu führen und die Unterstützungsleistungen entsprechend zu berechnen. Einnahmen, welche dem Kind bzw. der*dem Jugendlichen selbst zustehen (z.B. Lehrlingslohn, Stipendien, Halbwaisenrenten) sind in dessen bzw. deren Unterstützungsbudget anzurechnen. In der anschliessenden Berechnung des elterlichen Unterhaltsbeitrags sind diese Einnahmen nicht nochmals zu berücksichtigen.
+
+Berücksichtigung bei eigenem Unterstützungswohnsitz
+Hier gelten die Leistungsbeziehenden als eigene Unterstützungseinheit. Deshalb sind sämtliche, ihnen für ihren Unterhalt direkt zustehenden Leistungen wie Familienzulagen, Kinderalimente (zuzüglich allfällig bereits zugesprochenem Betreuungsunterhalt, da Betreuung nicht mehr durch den Elternteil erbracht wird und solange der Betreuungsunterhalt nicht abgeändert wurde), Kinderrenten, Lehrlingslohn, Stipendien usw. direkt zur (teilweisen) Deckung der durch die eHE entstehenden Kosten in ihr eigenes Unterstützungsbudget aufzunehmen.
+
+In der Regel sind die Eltern bereit, die für den Unterhalt des Kindes bestimmten Leistungen den SOD zur Finanzierung der eHE und der individuellen Auslagen zu überweisen, wenn diese ergänzend durch die WH finanziert werden. Ist dies nicht der Fall, muss eine Abtretung der Ansprüche oder eine Drittauszahlung an die SOD in die Wege geleitet werden. Nötigenfalls ist der KESB ein Antrag auf Errichtung einer Beistandschaft oder Erweiterung der Beistandschaft einzureichen mit dem Auftrag, für die Sicherung des Lebensunterhalts der leistungsbeziehenden Person zu sorgen und das Kindesvermögen zu verwalten. 
+Elterliche Unterhaltspflicht
+Die Prüfung der elterlichen Unterhaltspflicht ist in der gleichnamigen HAW, der PRA und der Prozessbeschreibung im PUMA geregelt. 
+
+Bei nicht behördlich oder gerichtlich angeordneten eHE kann die Kostengutsprache grundsätzlich erst dann für die Dauer der Massnahme resp. ein Jahr erteilt werden, wenn die Eltern, für die noch kein Unterhaltsentscheid besteht, mit den SOD eine Unterhaltsvereinbarung abgeschlossen haben. Andernfalls ist die Kostengutsprache vorab auf maximal sechs Monate zu befristen und unter Beizug der Zentrale Rückerstattungen (ZR) eine Unterhaltsklage zu prüfen.
+
+Die individuellen Auslagen gehören zum Unterhalt des Kindes. Gestützt auf die elterliche Unterhaltspflicht sind sie daher durch die Eltern zu finanzieren, soweit diese dazu finanziell in der Lage und bereit sind. Damit vergleichbare Auslagen würden auch anfallen, wenn die*der Leistungsbeziehende noch bei den Eltern leben würde.
+
+Mögliche zu finanzierende Kosten und einzuhaltende Abläufe/Standards
+
+Kosten der eHE selbst 
+Müssen auch die aufgrund der Durchführung der eHE selbst entstehenden Kosten ganz oder teilweise über die WH finanziert werden, so können in Anlehnung an die Regelungen im Anwendungsbereich des KJG folgende Kosten berücksichtigt werden:
+
+Fixtarif gemäss Anbieter*innenverzeichnis mit Leistungsvereinbarung (LV) des AJB bei Heimen.
+
+Tarif gemäss Kinder- und Jugendheimverordnung (KJV) bei DAF oder SPF mit LV mit AJB.
+
+Tarif oder Pflegegeld gemäss Platzierungs- oder Pflegevertrag resp. Einsatzvereinbarung bei Leistungserbringer*in ohne LV, die vom Standortkanton bewilligt sind (Heimpflege/Familienpflege) resp. die gemäss Pflegekinderverordnung (PAVO) oder Gesetzgebung des Standortkantons bei diesem gemeldet sind (DAF immer, SPF nur, wenn Standortkanton eine Meldepflicht vorsieht). 
+
+Bei nicht bewilligten oder gemeldeten (meldepflichtigen) Leistungserbringenden darf in der Regel auch keine Finanzierung über WH erfolgen.
+
+Hiervon ausgenommen sind Tarife gemäss Ziff. 3, wenn
+entweder die Massnahme durch eine KESB oder ein Gericht angeordnet worden ist;
+oder zur Wahrung des Kindeswohls bis zum Wechsel in ein reguläres Angebot eine (kurzfristige) Überbrückung erforderlich ist
+
+In solchen Fällen hat gestützt auf Art. 26 Abs. 3 PAVO bei Heimpflege, Familienpflege oder DAF eine Anzeige an das AJB oder die ausserkantonale Bewilligungs- resp. Meldestelle zu erfolgen. Bei SPF hängt es davon ab, ob diese im Standortkanton meldepflichtig ist. Im Kanton Zürich besteht gestützt auf § 13 Abs. 1 KJG eine solche Meldepflicht auch bei SPF.
+
+Die Tarife bzw. das Pflegegeld gemäss Pflegevertrag decken die (sozial-)pädagogischen und therapeutischen Leistungen ab, die durch die Leistungserbringenden in der Heim- und Familienpflege erbracht werden. Die darin enthaltenen Leistungen dürfen durch die Leistungserbringenden nicht zusätzlich in Rechnung gestellt werden.
+Individuell anfallende Auslagen bei Platzierungen
+Das KJG und ergänzend die Empfehlungen der Sozialkonferenz, des kantonalen Amts für Jugend und Berufsberatung und des kantonalen Sozialamts definieren, welche Leistungen in den Leistungstarifen enthalten sind bzw. welche Leistungen zusätzlich von den Eltern oder über die WH übernommen werden müssen.
+
+Bezüglich der Durchführung der eHE muss zwischen den Leistungserbringenden und den Sorgeberechtigten oder der gesetzlichen Vertretung der Leistungsbeziehenden eine Leistungsvereinbarung abgeschlossen worden sein. Weil grundsätzlich die Eltern Schuldner*in der individuellen Auslagen sind, soweit die*der Leistungsbeziehende nicht über eigene Einkünfte verfügt (vgl. Ziff. 3.4.1), regeln die Leistungserbringenden die Kostentragung in der Regel direkt mit ihnen und stellen ihnen entsprechend Rechnung. In die Vereinbarung können im Rahmen der Empfehlungen der Sozialkonferenz, des kantonalen Amts für Jugend und Berufsberatung und des kantonalen Sozialamts auch individuell anfallende Auslagen aufgenommen worden sein, die bei Abschluss der Vereinbarung bereits feststanden und regelmässig (monatlich) anfallen (zum Beispiel Fahrtkosten und Übersetzungskosten analog Regelungen in § 35 KJV).
+
+Begleichen die Eltern die Rechnungen nicht und wurden sie von den Leistungserbringenden erfolglos gemahnt, kann dafür im Rahmen einer subsidiären Kostengutsprache eine (Vor-)Finanzierung über die WH erfolgen. Danach ist im Rahmen der Abklärung der elterlichen Unterhaltspflicht durch die Fallführenden zu prüfen, ob und in welchem Umfang sich die Eltern an den entstehenden Kosten beteiligen müssen. Hierzu kann auf die Regelwerkpapiere und Prozessbeschreibungen zur elterlichen Unterhaltspflicht verwiesen werden.
+
+Sind die Eltern für ihre eigene Existenzsicherung bereits auf WH angewiesen, erteilen die SOD den Leistungserbringenden direkte Kostengutsprache und finanzieren die individuellen Auslagen im Rahmen der WH über das Unterstützungsbudget der*des Leistungsbeziehenden.
+Verpflegungskosten
+Gemäss § 19 KJG in Verbindung mit § 47 Abs. 1 KJV (Kinder- und Jugendheimverordnung) erheben die Leistungserbringenden von den Eltern Verpflegungsbeiträge pro Aufenthaltstag in der Höhe von CHF 25.00. Als Aufenthaltstag zählen Tage, an denen die Leistungsbeziehenden mindestens eine Hauptmahlzeit im Angebot der Heim-/Familienpflege einnehmen.
+Beitrag der Unterhaltspflichtigen gemäss Interkantonaler Vereinbarung für Soziale Einrichtungen (IVSE)
+In folgenden beiden Konstellationen ist der (ehemalige) Wohnsitzkanton des*der Leistungsbeziehenden gestützt auf die IVSE für die Finanzierung der Platzierungskosten im Heim zuständig und der Unterstützungswohnsitz muss subsidiär zu den Eltern nur den Beitrag der Unterhaltspflichtigen in der Höhe von CHF 25 bis CHF 30 finanzieren:
+
+Das IVSE-Heim befindet sich in einem anderen Kanton als der ausserhalb des Kantons Zürich liegende zivilrechtliche Wohnsitz der*des Leistungsbeziehenden.
+Das IVSE-Heim liegt im Kanton Zürich und der zivilrechtliche Wohnsitz der*des Leistungsbeziehenden wechselte erst infolge der Platzierung in dieses Heim in den Kanton Zürich.
+
+Bei Unsicherheiten kann der Fachstab KJH kontaktiert werden.
+Nebenkostenpauschale
+Die in den Empfehlungen der Sozialkonferenz, des kantonalen Amts für Jugend und Berufsberatung und des kantonalen Sozialamts festgelegte Nebenkostenpauschale beinhaltet Leistungen, die aus dem Blickwinkel der WH einen Teil des Grundbedarfs für den Lebensunterhalt darstellen. So sind darin Ausgabenpositionen wie Taschengeld, Kleider und Schuhe, Toilettenartikel, Telefonkarten, Freizeitaktivitäten, Verkehrsauslagen usw. enthalten.
+
+Weitere Kosten des individuellen Bedarfs
+Die Auflistung ist nicht als abschliessend zu betrachten:
+Kosten der medizinischen Grundversorgung, insbesondere KVG-Prämien, Kostenbeteiligungen und Selbstbehalte, Zahnbehandlungen;
+Kosten Haftpflichtversicherung;
+Schulmaterial;
+Berufsauslagen, insbesondere über den Nahverkehr hinausgehende Fahrkosten zum Ausbildungsort sowie Kosten für Berufskleidung;
+Kosten der individuellen Förderung, insbesondere für Instrumentalunterricht und Vereinssport;
+Gebühren, insbesondere für die Anmeldung bei der Einwohnerkontrolle sowie für Personenausweise (Ausländerausweise, Identitätskarten, Reisepässe), sofern kein Erlass möglich ist;
+Kosten für Übersetzungen und Kulturvermittlung in der Heim- und der Familienpflege, sofern diese Dienstleistungen Dritter für die Arbeit der Leistungserbringenden mit den Eltern erforderlich sind.
+
+Die Finanzierung von individuell anfallenden Nebenkosten richtet sich nach den gültigen Regelwerkpapieren der SOD, z.B. der HAW SIL.
+
+Kostengutsprache an Leistungserbringende
+Die SOD sind gegenüber den Leistungserbringenden verpflichtet, die Finanzierung der gesamten vertraglich vereinbarten Leistungen zu gewährleisten, soweit es sich dabei um zu berücksichtigende Kosten handelt (vgl. Ziff. 4.1 und 4.2). Die Kostengutsprache ist in der Regel auf zwölf Monate zu befristen. Danach hat bei Weiterführung der eHE über die zwölf Monate hinaus rechtzeitig eine Neuprüfung zu erfolgen.
+
+Müssen sich die Leistungsbeziehenden mit ihren eigenen finanziellen Mitteln oder ihre Eltern im Rahmen der Unterhaltspflicht an den Kosten beteiligen, so wirkt sich dieser Umstand meist nicht auf die Erteilung einer vollständigen Kostengutsprache aus. Nur wenn zwischen den Leistungserbringenden und den Leistungsbeziehenden oder ihren Eltern bereits eine direkte Teilbegleichung der Kosten vereinbart worden ist, ist das zu berücksichtigen und nur noch für die verbleibenden Kosten Gutsprache zu erteilen.
+Aktenführung - Zwingend notwendige Dokumente
+Für die Nachvollziehbarkeit der Finanzierung müssen folgende Dokumente vorliegen:
+entweder Anordnung KESB / Gericht
+oder schriftliches Einverständnis der sorgeberechtigten Eltern oder der gesetzlichen Vertretung der*des Leistungsbeziehenden (Formular "Vereinbarung zwischen Inhaber*in der elterlichen Sorge und den SOD betr. Einrichtung einer eHE");
+Platzierungsvertrag, Pflegevertrag oder Einsatzvertrag, der zwischen den sorgeberechtigten Eltern bzw. der gesetzlichen Vertretung der*des Leistungsbeziehenden und den Leistungserbringenden abgeschlossen worden ist;
+bei Platzierungen: separate schriftliche Regelung der individuellen Auslagen (Verpflegungskosten und Nebenkosten), sofern diese nicht bereits in der Leistungsvereinbarung mit den Leistungserbringenden aufgeführt sind (z.B. Nebenkosten-Budget).
+falls bereits bestehend: Unterhaltstitel (Unterhaltsvereinbarung oder gerichtliche Unterhaltsregelung, z.B. in Trennungs- oder Scheidungsurteil)
+
+Kompetenzregelungen
+Die Ausgabenkompetenzen richten sich nach der Art, aber auch nach der Höhe der im Zusammenhang mit der Durchführung einer eHE durch die WH zu tragenden Kosten.
+bei Finanzierung der Kosten der eHE
+Müssen nicht nur individuelle Auslagen sondern auch die durch die Durchführung der eHE selbst entstehenden Kosten über die WH finanziert werden, so besteht gemäss Kompetenzordnung der Sozialbehörde folgende Kompetenzabstufung:
+
+
+Damit wird in Anbetracht der möglichen Höhe der Ausgaben dem Vieraugenprinzip und der bloss ausnahmsweisen Finanzierung einer eHE über die WH Rechnung getragen. Für den Finanzierungsentscheid ist die im KiSS/Fallführungssystem vorhandene Vorlage "Finanzierung eHE über die WH" zu verwenden.
+bei Finanzierung von individuellen Verpflegungs- und Nebenkosten
+Der Entscheid betreffend Finanzierung der Verpflegungskosten und der Nebenkostenpauschale liegt in der Kompetenz der Fallführenden, da diese Auslagen aus WH-Sicht zum Grundbedarf für den Lebensunterhalt gehören.
+
+Bezüglich weiterer Kosten des individuellen Bedarfs sind die in den Regelwerkpapieren der SOD bestehenden, teilweise abgestuften Kompetenzregelungen zu beachten (vor allem HAW SIL). 

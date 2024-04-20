@@ -1,0 +1,60 @@
+
+
+
+Grundlage
+
+Damit die Ausgaben und Einnahmen korrekt verbucht werden, ist die Wahl der richtigen Leistungsart (LA) gemäss Kontoplan zentral. So kann eine aussagekräftige Auswertung der LA sichergestellt werden, die Sozialen Dienste können Ansprüche aus der Weiterverrechnung geltend machen und es kann eine korrekte Klientenkontoabrechnung erstellt werden.
+
+Der Kontoplan gliedert sich in erster Linie nach Einnahmen und Ausgaben und nach den Kapiteln der SKOS-Richtlinien. Die wichtigsten Informationen sind in den jeweiligen Spalten des Kontoplans enthalten. Sie werden hier mit Ausführungen und Beispielen ergänzt.
+
+Weiterverrechnung (WV)
+
+In dieser Spalte ist definiert, ob diese LA weiterverrechnet wird.  
+
+j: die LA wird in die Weiterverrechnung einbezogen.
+
+n: die LA wird nicht in die Weiterverrechnung einbezogen. 
+Beispiel: LA 140 KVG Prämie (da sozialhilferechtlich keine WH)
+
+Quoting
+
+Das Quoting ist zentral bei der Weiterverrechnung, sobald in einer Unterstützungseinheit (UE) nicht alle Personen den gleichen WV-Code haben.
+
+j: In einer LA wird der gebuchte Betrag anteilmässig auf alle Personen in der UE aufgeteilt.
+Beispiel: LA 130 Miete
+
+n: Der Betrag wird für jede einzelne Person gebucht. Aus diesem Grund muss hier immer eine Person definiert werden.
+Beispiel: LA 140 KVG Prämie
+
+Splitting
+
+Das korrekte Erfassen einer Verwendungsperiode ist zwingend notwendig, damit eine fehlerfreie Klientenkontoabrechnung oder Weiterverrechnung erfolgen kann. Es werden vier Splittingarten unterschieden: 
+
+M: Monatssplitting Die Verwendungsperiode entspricht dem ganzen Monat vom ersten bis zum letzten Tag des Monats. 
+Beispiele: LA 130 Miete oder alle LA für IZU, EFB
+
+T: taggenaues Splitting wird taggenau (Beispiel: 10.3.-13.3.) auf die effektive Verwendungsperiode gebucht.
+Beispiele: LA 110, 120, 121 GBL oder LA 230-231 Betreuung von Kindern/Jugendlichen
+
+V: Valuta Die Verwendungsperiode entspricht dem Fälligkeitsdatum der Rechnung (Beispiel: 30.6.).
+Beispiele: LA 150 ambulante Rechnung KVG, LA 310 Hausratversicherung, LA 313 Mobiliaranschaffung
+
+E: Entscheid Die Verwendungsperiode entspricht dem Datum der Bewilligung durch Kostengutsprache oder SEK-, ZL-, SL-, SA-Entscheid (Beispiel: 21.11.)
+Beispiele: LA 160 Zahnbehandlung, LA 125-127 Doppelzahlungen, LA 321 Mietzinsdepot
+
+Verwendungsperiode: Spezielles bei Einnahmen mit Splittingarten M und T
+
+Es gelten bei der Verbuchung von Einnahmen mit Splittingarten „M“ und „T“ die folgenden verbindlichen Grundsätze, unabhängig davon, ob die Leistungen an die Sozialen Dienste abgetreten sind oder nicht:
+
+Grundsatz 1: alle Renten, Ergänzungsleistungen, Alimente, Stipendien etc. werden auf die Verwendungsperiode des effektiven Monats bebucht.
+	Beispiel: IV-Rente September = Verwendungsperiode September
+		 
+Grundsatz 2: alle Lohneinkommen und Lohnersatzleistungen werden auf die Verwendungsperiode des Folgemonats gebucht. 
+	Beispiel: Lohn September = Verwendungsperiode Oktober
+
+In Ausnahmefällen, wenn sich die Verfügbarkeit des Einkommens verzögert, kann die Verwendungsperiode auch auf den nächsten Folgemonat gebucht werden.
+Beispiel: unregelmässiger Lohn September wird erst Mitte Oktober ausbezahlt = Verwendungsperiode November. 
+
+Grundsatz 3: Bei taggenauen Leistungen wie ALV-Taggelder etc. werden diese Leistungen im Folgemonat auf den ganzen Monat gebucht.
+	Beispiel: ALV-Taggelder 17.-30.9. = Verwendungsperiode ganzer Oktober
+

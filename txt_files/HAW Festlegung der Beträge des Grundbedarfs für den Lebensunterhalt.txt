@@ -1,0 +1,89 @@
+
+
+Inhaltsverzeichnis
+Grundlage
+Grundsätzlich wird zwischen dem Grundbedarf (GBL) für Personen in Wohnungen, Zimmern und Appartements (Kap. 2) und dem GBL in stationären Einrichtungen (Kap. 3) unterschieden. Für die Berechnung des GBL für Personen in Hotels oder hotelähnlichen Angeboten siehe HAW Befristete Notunterbringung in Hotels und hotelähnlichen Angeboten.
+
+Grundbedarf für Personen in Wohnungen, Zimmern und Appartements
+Die Beträge für den GBL beinhalten alle in Kap. C.3.1 der SKOS-Richtlinien enthaltenen Auslagen für den Lebensunterhalt, die in dieser Wohnform anfallen. 
+GBL für Ein- und Mehrpersonenhaushalte mit gemeinsamer Ausübung der Haushaltfunktionen (Ehepaare, Familien, familienähnliche Wohn- und Lebensgemeinschaften) - SKOS Kap. C.3.1 und C.3.2
+Dieser GBL wird bei folgenden Wohnformen gewährt:
+bei allen Mietverhältnissen, in denen der individuelle Energieverbrauch (Strom, Gas) zusätzlich zur Miete anfällt.
+bei Mietverhältnissen in Zimmern ohne Kochgelegenheit: Zwar entfallen einzelne Auslagen für Wohnnebenkosten, dafür entsteht ein finanzieller Mehraufwand wegen fehlender Kochgelegenheit.
+
+
+GBL für Ein- und Mehrpersonenhaushalte mit gemeinsamer Ausübung der Haushaltfunktionen, wenn die Energiekosten im Mietzins enthalten sind.
+Die Auslagen für den individuellen Energieverbrauch (Strom, Gas) sind im Mietzins pauschal inbegriffen und fallen deshalb beim Lebensunterhalt nicht an. Die nachfolgenden Beträge entsprechen dem GBL nach Abzug der Energiekosten von 4.7% gemäss SKOS-Warenkorb (Stand Januar 2021).
+
+
+
+GBL für Personen in Zweck-Wohngemeinschaften ohne gemeinsame Ausübung und Finanzierung der Haushaltfunktionen (inkl. Jugendwohngruppen, Aussenwohngruppen etc.) - SKOS Kap. C.3.2
+In dieser Wohnform entstehen keine Einsparungen durch gemeinsames Einkaufen, Kochen, Waschen etc., hingegen fallen einzelne Kosten der Haushaltführung, welche im GBL enthalten sind (z.B. Abfallentsorgung, Reinigung, Energieverbrauch, Internetanschluss), gemeinsam und somit pro Person verringert an (Indizien: getrennte Essenskassen und Kühlschränke, glaubhafte Schilderung des Alltags in der Wohngemeinschaft). 
+
+In solchen Haushalten wird der GBL unabhängig von der Haushaltgrösse festgelegt. Der GBL bemisst sich nach der Anzahl Personen, die zur Unterstützungseinheit gehören, und wird aufgrund der Einsparungen pauschal um 10% reduziert (z.B. 1 Person: Fr. 928.00 / 2 Personen: Fr. 1'420.00). Bei Zweck-Wohngemeinschaften erfolgt keine Differenzierung, ob die Energiekosten im Mietzins enthalten sind oder nicht. 
+
+Junge Erwachsene in Zweck-Wohngemeinschaften werden mit dem halben GBL eines Zweipersonenhaushaltes unterstützt (Fr. 789.00), unabhängig von der Anzahl Personen im Haushalt.
+
+Beträge für Auslagen im Zusammenhang mit der Ausübung des Besuchsrechtes
+Der Grundbedarf von Eltern oder einem Elternteil mit Besuchsrechten wird gemäss SKOS C.3.2 um die Auslagen erweitert, die durch den Besuch ihrer Kinder entstehen.
+
+
+*Bei einem längerfristigen Aufenthalt eines Kindes beim anderen Elternteil ist eine Anpassung des GBL beim Elternteil des regulären Aufenthalts zu prüfen, sofern dieser auch mit WH unterstützt wird.
+
+Beträge für die Berechnung einzelner Essenszuschläge oder -abzüge (innerhalb des Grundbedarfs)
+
+
+Grundbedarf in stationären Einrichtungen für Erwachsene (SKOS Kap. C.3.2)
+Es gelten grundsätzlich die Ansätze gemäss Konzept der jeweiligen Institution, jedoch für die gesamten Auslagen maximal folgende Ansätze:
+
+
+
+Für die individuelle Berechnung des GBL in stationären Einrichtungen werden alle effektiv anfallenden Auslagen der Klientin/des Klienten berücksichtigt, die im Grundbedarf gemäss SKOS Kap. C.3.1. enthalten sind. Der Grundbedarf wird um die im Tarif der Institution enthaltenen Auslagen (z.B. Verpflegung, Haushaltführung, Strom, Heizkosten, etc.) reduziert.
+Nebenkosten und Verpflegungsbeitrag als Teil des GBL bei Heim- und Familienpflege 
+Nebenkosten:
+
+Die Nebenkostenpauschalen gemäss Empfehlungen der kantonalen Sozialkonferenz, des kantonalen Sozialamts und des Amts- für Jugend und Berufsberatung (Empfehlungen SoKo-KSA-AJB 2024) sind verbindlich anzuwenden; sie entsprechen folgender Tabelle: 
+
+
+Mit der Nebenkostenpauschale sind folgende Positionen abgedeckt: 
+Taschengeld (auswärts eingenommene Getränke, Vereinsbeiträge, etc.) 
+Kleider und Schuhe
+Persönliche Ausstattung 
+Gewöhnliche Gesundheitspflege (ohne Kosten medizinische Grundversorgung wie KK-Prämien, Franchise und Kostenbeteiligungen, Zahnbehandlungen) 
+Verkehrsauslagen öffentlicher Nahverkehr (inkl. Halbtaxabo) und Velo
+Nachrichtenübermittlung, z.B. Kosten Telefonabonnement
+Freizeitgestaltung (inkl. Unterhaltung und Bildung) 
+Körperpflege (inkl. z.B. Coiffeur, Windeln) 
+
+Verpflegungsbeitrag:
+
+Bei Aufenthalten in Heim- oder Familienpflege nach Kinder- und Jugendheimgesetz (KJG) sind die unterhaltspflichtigen Eltern gestützt auf § 19 KJG und § 47 Abs. 1 KJV verpflichtet, einen Verpflegungsbeitrag von Fr. 25.00 pro Aufenthaltstag zu leisten. Kommen die Eltern für diesen Betrag nicht auf, kann er bei Bedürftigkeit des Kindes/Jugendlichen durch die wirtschaftliche Hilfe nach SHG (vor-)finanziert werden. 
+
+Geltungsbereich:
+
+Diese Nebenkosten- und Verpflegungsbeiträge gelten für Kinder, Jugendliche und junge Erwachsene (längstens bis zum 25. Altersjahr) mit zivilrechtlichem Wohnsitz im Kanton Zürich und Unterstützungswohnsitz in der Stadt Zürich, welche in Heimpflege (Kinder-, Jugend- und Schulheime) oder Familienpflege leben. Junge Erwachsene in anderen stationären Einrichtungen erhalten den GBL gemäss Ziffer 3. Das gilt auch bei Fällen, bei denen die Finanzierung ausnahmsweise nicht über das KJG erfolgt.
+
+Befindet sich der zivilrechtliche Wohnsitz ausserhalb des Kantons Zürich, gelten bezüglich der Höhe von allfälligen Verpflegungs- und Nebenkosten die Regelungen des jeweiligen Wohnsitzkantons. 
+Verpflegungsbeitrag bei Sonderschulmassnahmen
+Externe Sonderschulung:
+
+Bei Besuch einer externen Sonderschule erheben die Anbietenden der Familien- oder Heimpflege nach KJG einen Verpflegungsbeitrag von Fr. 15 pro Aufenthaltstag (für Frühstück und Abendessen); die Anbietenden der Sonderschulung können zusätzlich einen Verpflegungsbeitrag gemäss Volksschulgesetz erheben (VSG).
+
+Der Verpflegungsbeitrag an die externe Sonderschulung wird durch die Kreisschulbehörde festgelegt und den Eltern durch das Schulamt der Stadt Zürich in Rechnung gestellt. Für Tagessonderschulungen beträgt er höchstens Fr. 10.00 pro Verpflegungstag, 
+
+Sind die Eltern auf wirtschaftliche Hilfe angewiesen und stellen sie einen Antrag auf Reduktion des Verpflegungsbeitrags für die externe Sonderschulung, wird dieser auf den Minimalbeitrag gemäss Buchstabe A Ziff.  1 von Anhang 3 der Verordnung über die familienergänzende Kinderbetreuung in der Stadt Zürich festgelegt: Bei Tagessonderschulungen richtet er sich nach dem Minimaltarif Normkosten "Mittag"“. Der Minimalbeitrag wird zusätzlich zum jeweils massgeblichen GBL ausgerichtet.
+
+Interne Sonderschulung:
+
+Bei der Heimpflege mit interner Sonderschulung erheben die Anbietenden der Heimpflege von den Eltern Fr. 25.00 pro Aufenthaltstag (vgl. Ziff. 4).
+
+
+Obdachlose Personen
+Die Auslagen für Wohnkosten (Energieverbrauch, Haushaltführung etc.) entfallen bei obdachlosen Personen. Wegen der fehlenden Koch- und Waschgelegenheit entstehen ihnen jedoch Mehrauslagen. Deshalb wird ein Grundbedarf gemäss Ziffer 2.1 ausgerichtet. Wenn der Grundbedarf bei Obdachlosigkeit tageweise berechnet wird, beträgt er pro Person und Tag Fr. 34.00 (bzw. Fr. 27.00*). Da sämtliche Auslagen pro Person anfallen und keine Einsparungen durch eine gemeinsame Haushaltführung möglich sind, wird bei Mehrpersonenfällen auf die Anwendung der Äquivalenzskala verzichtet.
+
+*Junge Erwachsene werden grundsätzlich mit einem um 20% reduzierten GBL unterstützt, wenn sie nicht an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen, keiner angemessenen Erwerbstätigkeit nachgehen oder keine eigenen Kinder betreuen. Ob eine solche Reduktion des GBL auch bei obdachlosen jungen Erwachsenen angezeigt ist, ist anhand der Umstände im Einzelfall durch die Fallführung zu beurteilen.
+
+Spitalkostenbeiträge
+Wird in einem 1-Personen-Haushalt ein GBL nach Ziff. 2.1 oder 2.2 ausgerichtet, sind die Spitalkostenbeiträge aus dem Grundbedarf zu decken, wobei der Spitalbeitrag erst ab dem 8. Tag mit dem GBL verrechnet wird. Bei längerfristigen stationären Aufenthalten ist - anstelle des GBL gemäss SKOS C 3.1 - der GBL in stationären Einrichtungen auszurichten.
+
+Mehrpersonenhaushalte: Ab einer Haushaltsgrösse von zwei Personen sind die Spitalbeiträge zusätzlich zur ordentlichen Unterstützung zu vergüten (LA 340), auch wenn der Grundbedarf nach SKOS Kap. C.3.1. ausgerichtet worden ist.  

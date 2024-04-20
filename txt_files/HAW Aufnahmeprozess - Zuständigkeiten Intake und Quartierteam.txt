@@ -1,0 +1,71 @@
+Inhalt
+1	Grundsatz	1
+2	Zuständigkeiten in der WH nach SHG	2
+2.1	Intake	2
+2.1.1	Vorgehen bei Neu- und Wiederanmeldungen WH ohne vorgängige oder laufende Anhängigkeit in einem QT	2
+2.1.1.1	Vorgehen Anspruchsklärung WH bei persönlicher Neu- oder Wiederanmeldung durch KL	2
+2.1.1.2	Vorgehen bei Anmeldung aus (geschlossenen) Institutionen	2
+2.1.1.3	Vorgehen bei Übergabe von Fällen der AOZ	2
+2.1.2	Vorgehen bei Neu- und Wiederanmeldungen WH mit vorgängiger oder laufender Anhängigkeit in einem QT	2
+2.1.2.1	Vorgehen bei Wiederanmeldung (letzter Unterstützungsmonat liegt mehr als drei Monate zurück)	3
+2.1.2.2	Vorgehen bei Dossiers mit Erwachsenen- und Kinderschutzmassnahmen bei welchen Antrag auf WH gestellt wird	3
+2.1.2.3	Vorgehen bei Erreichen der Volljährigkeit	3
+2.2	Quartierteam	3
+3	Zuständigkeiten in der Persönlichen Hilfe nach SHG und Beratungsleistungen nach KESR und KJHG	4
+Grundsatz
+Das Intake ist zuständig für alle Neuanmeldungen zur persönlichen und wirtschaftlichen Hilfe (WH) gemäss Sozialhilfegesetz (SHG) sowie bei Wiederanmeldungen zur WH bei welchen der letzte Unterstützungsmonat mehr als drei Monate zurückliegt. Meldet sich ein*e Klient*in (KL)  neu oder wieder an, findet unmittelbar (längstens innerhalb eines Arbeitstages) das Orientierungsgespräch mit einem*einer Sozialarbeiter*in (SA) statt, in welchem die notwendigen Leistungen ermittelt werden. In der Regel werden Dossiers bis maximal sechs Monate in den Intakes geführt. Ist es absehbar, dass ein Dossier innerhalb von sechs Monaten abgeschlossen werden kann, verbleibt es bis zum Abschluss im Intake. Andernfalls wird es ans sozialräumlich zuständige Quartierteam (QT) übergeben.
+Die allgemeinen Grundlagen zum Aufnahmeprozess sind in der HAW Aufnahmeprozess – Grundlagen festgehalten.
+
+
+Zuständigkeiten in der WH nach SHG
+
+Intake
+Aufgaben des Intakes sind:
+notwendige Leistungen für KL identifizieren (Orientierungsgespräch)
+die Zuständigkeit klären
+die Mittellosigkeit prüfen
+den Unterstützungsbedarf bestimmen
+vorgelagerte Leistungen geltend machen (Subsidiarität)
+Teilnahmekriterien für Massnahmen zur sozialen und beruflichen Integration prüfen
+Massnahmen zur sozialen und beruflichen Integration einleiten
+Vorgehen bei Neu- und Wiederanmeldungen WH ohne vorgängige oder laufende Anhängigkeit in einem QT
++
+Vorgehen Anspruchsklärung WH bei persönlicher Neu- oder Wiederanmeldung durch KL
+Neu- und Wiederanmeldungen für  ohne vorgängige WH der laufende Anhängigkeit in einem QT erfolgen in der Regel persönlich durch KL. Im Rahmen des Orientierungsgespräches erfassen SA nebst den persönlichen Anliegen auch die finanziellen und wirtschaftlichen Verhältnisse der Antragsstellenden. Sie informieren zudem über die Rahmenbedingungen und Abläufe der Anspruchsklärung. Der Antrag auf WH wird ausgehändigt und die erforderlichen Unterlagen werden durch Abgabe einer Unterlagenliste bekannt gegeben. Nach vollständiger Abgabe der Unterlagen seitens KL erfolgt innerhalb sieben Arbeitstage das Gespräch Leistungsentscheid WH, bei dem der KL über den Anspruch und Unterstützung informiert wird.
+Vorgehen bei Anmeldung aus (geschlossenen) Institutionen
+Bei Antragstellung auf WH aus (geschlossenen) Institutionen wie beispielsweise Gefängnissen, psychiatrischen Kliniken, Spitäler, Pflegezentren und Frauenhäuser geschieht die Antragsstellung durch die jeweiligen Sozialdienste oder die KL selber. Da die persönliche Unterstützung der KL durch die Institution gewährleistet ist, ist kein Orientierungsgespräch erforderlich. Antrag und Unterlagenliste können durch Sachbearbeitung (SB) Intake direkt an die Institution geschickt werden. In den gängigen Institutionen, mit denen die SOD eine enge Zusammenarbeit pflegt, liegen die Antragsunterlagen dort auf. Wenn KL nicht in der Lage ist, persönlich ins Sozialzentrum zu kommen, erfolgt die Anspruchklärung in enger Zusammenarbeit mit den Bezugspersonen der KL in der Institution.
+Vorgehen bei Übergabe von Fällen der AOZ
+Das Vorgehen bei Übergaben von Fällen der AOZ ist in der PRA Fallübergaben von der Asylorganisation Zürich (AOZ) geregelt. 
+
+
+
+
+Vorgehen bei Neu- und Wiederanmeldungen WH mit vorgängiger oder laufender Anhängigkeit in einem QT
++
+Vorgehen bei Wiederanmeldung (letzter Unterstützungsmonat liegt mehr als drei Monate zurück)
+Bei Wiederanmeldungen zur WH mit vorgängiger oder laufender Anhängigkeit in einem QT und bei welchen der letzte Unterstützungsmonat mehr als drei Monate zurückliegt, erfolgt eine neuerliche Anspruchsklärung im Intake. Da sich die persönliche und wirtschaftliche Situation verändert haben kann, erfolgt das Vorgehen gleich wie bei persönlichen Neuanmeldungen (siehe Punkt 2.1.1.1), d.h. es findet ein Orientierungsgespräch statt, in welchem auch die Antragsformulare sowie die Unterlagenliste ausgehändigt werden.
+Vorgehen bei Dossiers mit Erwachsenen- und Kinderschutzmassnahmen bei welchen Antrag auf WH gestellt wird
+Die Mandatsträger*innen im QT stellen im Zusammenwirken mit den KL Antrag auf WH im Intake. Die Aushändigung der Antragsformulare geschieht direkt durch die SB im Intake. Das Intake prüft die Zuständigkeit, Mittellosigkeit und Subsidiarität. Die Abklärung sozialer und beruflicher Massnahmen erfolgt allerdings nicht, weil diese in der Verantwortung des zuständigen Mandatsträgers oder der zuständigen Mandatsträgerin liegt.
+
+Die fallführenden SA des Intakes bewilligen den Antrag, wobei die Beratung und persönliche Hilfe betreffend Erwachsenen- und Kinderschutzmassnahmen im QT verbleibt. Es ist in diesen Fällen daher auch kein Orientierungsgespräch im Aufnahmeprozess nötig.
+Vorgehen bei Erreichen der Volljährigkeit
+Wird ein*eine minderjährige*r KL im Rahmen des Familiensystems mit WH unterstützt, muss er*sie beim Erreichen der Volljährigkeit im entsprechenden Intake am Intakeschalter selbstständig Antrag auf WH stellen. Er*sie wird als eigener Fall aufgenommen. Die Aushändigung der Antragsformulare geschieht direkt durch die SB Intake. Anschliessend läuft das ordentliche Verfahren zur Klärung der Mittellosigkeit ab.
+
+Eine allfällige Indikation für eine Beratung im Rahmen der persönliche Hilfe wird vom zuständigen QT eingeschätzt und dem Intake mitgeteilt. Daher ist kein Orientierungsgespräch nötig.
+Quartierteam
+Die Überprüfung der Mittellosigkeit resp. die Festlegung des Unterstützungsanspruches erfolgt im QT bei laufenden Fällen zu folgenden Zeitpunkten:
+spätestens nach Ablauf eines Unterstützungsjahres
+im Rahmen der Erstellung des Leistungentscheides bei Hinzukommen oder Wegfalls einer Person in der Unterstützungseinheit (bei Heirat, Scheidung/Trennung, Geburt, Hinzukommen einer mindejährigen Person z.b. im Rahmen des Familiennachzuges)
+bei einer bevorstehenden Finanzierung von erzieherischen Hilfen
+
+Weitere Aufgaben der QT's sind unter anderem:
+bei Scheidung/Trennug die Fälle zu trennen und den Leistungentscheid in den beiden neuen Fällen einzurichten
+Finanzierungen von erzieherischen Hilfen einzurichten und den elterlichen Unterhaltbeitrag bemessen
+sozialversicherungs-, familien- und stipendienrechtliche Leistungen sicherstellen
+Teilnahmekriterien für Massnahmen zur sozialen und beruflichen Integration prüfen
+Massnahmen zur sozialen und beruflichen Integration einleiten und begleiten
+Fallabschlüsse vornehmen
+
+Spezialsituation bei Wiederanmeldungen im Intake aufgrund eines dreimonatigen Unterstützungsunterbruches:
+Offene Pendenzen, die sich aus der Unterstützung mit WH im QT ergeben (z.B. Klientenkontoabrechnungen oder noch nicht verfügte Rückforderungen) werden vom QT fertigbearbeitet. Falls hängige Gerichtsverfahren, ein hängiger Auftrag oder ein Bericht des Teams Vertiefte Abklärungen/Inspektorat mit Handlungsbedarf vorliegen, findet eine Absprache über die Aufgabenverteilung zwischen der Stellenleitung des zuständigen QT's und der Stellenleitung des zuständigen Intakes statt.
+Zuständigkeiten in der Persönlichen Hilfe nach SHG und Beratungsleistungen nach KESR und KJHG

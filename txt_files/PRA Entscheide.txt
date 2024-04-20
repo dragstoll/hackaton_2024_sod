@@ -1,0 +1,88 @@
+
+Inhaltsverzeichnis
+
+Grundlage
+Als Entscheid oder Verfügung werden an den Einzelnen gerichtete Verwaltungsakte bezeichnet, durch die eine konkrete verwaltungsrechtliche Rechtsbeziehung in verbindlicher Weise geregelt wird. In den folgenden Ausführungen wird der Begriff „Entscheid“ verwendet. 
+
+Mit dem Entscheid werden Rechte und Pflichten der Klient*innen (KL) verbindlich festgelegt, ohne dass sie diesen zustimmen müssen. Der Entscheid dient aber auch den KL, indem er Rechtssicherheit verschafft (z.B. bezüglich der Höhe des Unterstützungsanspruchs) und den Rechtsmittelweg beschreibt und eröffnet (vgl. Häfelin/Müller/Uhlmann, Allg. Verwaltungsrecht, 6. Auflage, N854ff).
+
+Wie und in welcher Form ein Entscheid den KL mitzuteilen ist, ist im Verwaltungsrechtspflegegesetz (VRG) geregelt. Schriftliche Anordnungen müssen in der Regel begründet und mit einer Rechtsmittelbelehrung versehen werden. 
+
+Inhaltlich müssen sich die Entscheide im Bereich der wirtschaftlichen Hilfe (WH) auf das kantonale Sozialhilfegesetz (SHG), Sozialhilfeverordnung (SHV) sowie auf die SKOS-Richtlinien stützen. Ergänzend finden Richtlinien der Sozialbehörde und Handlungsanweisungen der Direktion Anwendung. Diese entfalten gegenüber den KL jedoch keine direkte Wirkung, denn sie stellen ausschliesslich interne Dienstanweisungen dar. Sie sind in den Entscheiden deshalb im Gegensatz zu SHG, SHV und SKOS-Richtlinien nicht als Rechtsgrundlagen zu erwähnen.
+Entscheidarten in den SOD
+Nachfolgend werden die wesentlichen Entscheidarten vorgestellt. Die Aufstellung erfolgt möglichst chronologisch in der Reihenfolge des Unterstützungsverlaufs ab Gesuchstellung bis zur Ablösung. Die Ausführungen gelten für alle Entscheide, unabhängig von der jeweiligen Entscheidkompetenz (SEK, ZL, SL oder SA).
+Nichteintretens- und Ablehnungsentscheide
+Nichteintretens- und Ablehnungsentscheide sind zu erstellen, wenn die Bedingungen zum Bezug von WH nicht gegeben sind. Dabei unterscheiden die SKOS-Richtlinien in Kapitel F.3 zwischen Nichteintretensentscheiden (der Anspruch konnte nicht geprüft werden, weil Unterlagen nicht vollständig vorliegen) und Ablehnungsentscheiden (der Anspruch konnte geprüft werden, die Bedürftigkeit ist aber nicht gegeben). Diese können mündlich eröffnet werden, müssen aber in Form eines schriftlichen Entscheids mit Begründung und Rechtsmittelbelehrung ergehen, wenn KL dies wünschen oder wenn eine Absicherung der Fallführung (Beweispflicht der SOD) angezeigt ist. 
+Beispiel 1: Die*der Gesuchsteller*in hat zwar einen Unterstützungsantrag ausgefüllt, reicht danach aber die von ihr*ihm verlangten Kontoauszüge nicht vollständig ein, besteht aber auf einer Unterstützung. Der Anspruch kann nicht abschliessend geprüft werden und sie*er will ein Rechtsmittel dagegen ergreifen. 
+Folge: Schriftlicher Nichteintretensentscheid mit Begründung und Rechtsmittelbelehrung.
+
+Beispiel 2: Einkommen oder Vermögen ist zu hoch, die Unterstützungsbedürftigkeit ist nicht gegeben, was für die*den Gesuchsteller*in nachvollziehbar ist. 
+Folge: mündlicher Ablehnungsentscheid mit dem Hinweis, dass sie*er innert 10 Tagen einen schriftlichen Entscheid mit Begründung und Rechtsmittelbelehrung verlangen kann.
+
+Kein Entscheid muss erlassen werden, wenn sich die Gesuchsteller*innen nach der Aufforderung zur Einreichung von Unterlagen nicht mehr melden. Der Unterstützungsantrag gilt dadurch als formlos zurückgezogen. Die Schritte der Gesuchsbearbeitung müssen in der Dossierführung aber nachvollziehbar dokumentiert werden.
+Leistungsentscheid
+Zu Beginn der Unterstützung ist durch das Intake nach der Klärung des Sachverhalts und der Feststellung der Mittellosigkeit ein zeitlich nicht begrenzter Leistungsentscheid (LE) zu erstellen. Darin sind diejenigen Unterstützungsleistungen festzuhalten, die voraussichtlich regelmässig monatlich zur Auszahlung gelangen, solange die Voraussetzungen für den Bezug von WH weiterhin erfüllt sind (§ 31 Abs. 1 SHV). Der LE stellt eine Art Rahmenbudget dar und ergeht mit einer Rechtsmittelbelehrung.
+
+Die Geschäftsleitung SOD hat entschieden, dass während der Klärungsphase und bei kurzfristiger Unterstützung (während maximal drei Unterstützungsmonaten) nicht zwingend ein LE gemacht werden muss. Die Abgabe von Monatsbudgets reicht hier aus. Die KL sind aber darüber zu informieren, dass auf ihren Wunsch hin ein LE erstellt wird. Auf alle Fälle muss spätestens bei der Übergabe des Falls vom Intake ins Quartierteam ein LE vorliegen.
+
+In folgenden Situationen muss ein neuer ordentlicher LE erstellt und KL ausgehändigt werden: 
+
+Bei Änderungen in der Unterstützungseinheit (z.B. Heirat, Geburt, Wegfall des mündigen Kindes aus der Unterstützungseinheit, Todesfall usw.)
+Wenn der*die KL beschwert ist (wenn eine Ändeurung des LE zu Ungunsten des KL ausfällt)
+Auf Wunsch des*der KL
+
+In allen anderen Situationen reicht die Abgabe eines Monatsbudgets (versehen mit dem Vermerk, dass ein anfechtbarer Entscheid verlangt werden kann) aus. 
+Entscheid Weiterführung WH
+Gemäss § 33 SHV hat in allen Unterstützungsfällen mindestens einmal jährlich eine Überprüfung zu erfolgen. Besteht die Mittellosigkeit ganz oder teilweise weiter, bestätigt die Stellenleitung die Weiterführung der Unterstützung. Dazu ist im KISS ein unechter Leistungsentscheid Weiterführung WH zu erstellen. Die KL sind schriftlich in Briefform über das Ergebnis der Überprüfung zu informieren. 
+Entscheide über situationsbedingte Leistungen
+Diese Entscheide sind im Sozialhilfealltag am häufigsten und kommen in unterschiedlicher Form vor: Sie können formlos (z.B. mündlich oder per Mail) mitgeteilt werden oder in schriftlicher Form als Verfügung mit Rechtsmittelbelehrung ergehen. Nur für diese Art von Entscheiden gelten die Ausführungen gemäss Ziffer 3.2. 
+Leistungskürzungen / Leistungseinstellungen (Zweite Stufe des Auflage- und Sanktionsverfahrens)
+Eine Leistungskürzung darf nur erfolgen, wenn KL einer schriftlich erteilten Auflagenicht nachgekommen sind und ihnen die Kürzung darin angedroht worden ist (vgl. § 24 Abs. 1 lit. a SHG und § 24 Abs. 1 lit. b SHG).
+
+Bevor eine Leistungseinstellung verfügt werden darf, müssen aus Gründen der Verhältnismässigkeit die Leistungen gekürzt worden sein (§ 24a Abs. 1 lit. b SHG). Davon ausgenommen sind Einstellungsentscheide, die aufgrund eines fehlenden Nachweises der anhaltenden Notlage erlassen werden (vgl. Ziffer 2.7).
+
+Leistungskürzungen und Leistungseinstellungen müssen dabei immer schriftlich und mit Begründung und Rechtsmittelbelehrung versehen ergehen.
+Rückforderungsentscheide
+Haben KL Unterstützungsleistungen bezogen, auf die sie keinen oder keinen vorbehaltlosen Anspruch gehabt haben, sind diese Leistungen in der Regel zurückzufordern. Rückerstattungsforderungen sind schriftlich und mit Begründung und Rechtsmittelbelehrung versehen anzuordnen.
+
+Bei unrechtmässigen Sozialhilfebezügen stützen sich die Rückforderungen auf § 26 SHG. Bei Fehlern der SOD oder Dritter, die nicht auf ein unrechtmässiges Verhalten der KL zurückzuführen sind, gelangen Art. 62 ff. OR analog zur Anwendung (ungerechtfertigte Bereicherung).
+
+Davon zu unterscheiden sind Rückforderungen bei rechtmässigem Bezug von Unterstützungsleistungen (§ 27 SHG). Diese kommen hauptsächlich dann zum Zug, wenn nachträglich Leistungen Dritter ausbezahlt werden (z.B. Nachzahlungen von Sozialversicherungsleistungen), sodass die WH nur als Vorschusszahlung auf diese Leistungsansprüche ausgerichtet worden ist. 
+Einstellungsentscheide bei fehlendem Nachweis der Notlage
+Das SHG enthält dazu keine ausdrückliche Rechtsgrundlage. Gemäss ständiger Rechtsprechung leitet sich die Möglichkeit dazu aber aus dem in der Sozialhilfe geltenden Bedarfsdeckungsprinzip ab. Auch gemäss SKOS-Richtlinien (Kapitel F.3) ist es zulässig, die Leistungen einzustellen, wenn erhebliche Zweifel an der Bedürftigkeit der KL bestehen. Voraussetzung ist aber, dass die KL vorgängig ermahnt worden sind (schriftliche Auflage ohne Rechtsmittelbelehrung) und ihnen im Hinblick auf den geplanten Einstellungsentscheid das rechtliche Gehör gewährt worden ist. 	
+
+Einstellungsentscheide müssen immer schriftlich ergehen und eine Begründung und Rechtsmittelbelehrung umfassen.
+
+Beispiel: Ein KL lässt sich während des laufenden WH-Bezugs nachweislich sein Freizügigkeitsguthaben auszahlen. KL wird mit einer schriftlichen Auflage aufgefordert, zur Überprüfung der Situation Unterlagen einzureichen und/oder zu Fragen Stellung zu nehmen. KL reagiert nicht oder es gelingt ihr*ihm nicht, die erheblichen Zweifel an der Bedürftigkeit auszuräumen.
+Klientenkontoabrechnung
+Können KL der WH abgelöst werden, muss eine Klientenkontoabrechung erstellt werden, wenn auf ihrem Unterstützungsbudget nachträglich oder laufend Einnahmen verbucht worden sind, die den jeweiligen Unterstützungsbedarf überschritten haben könnten. 
+
+Die Klientenkontoabrechnung ist in Form eines schriftlichen Entscheides mit Rechtsmittelbelehrung zu erlassen.
+Form und Mitteilung von Entscheiden
+In der täglichen Arbeit werden sehr viele Entscheide getroffen. Es ist nicht möglich, diese den KL immer schriftlich mitzuteilen. Viele Entscheide werden direkt im Beratungsgespräch gefällt. Die folgenden Ausführungen zeigen summarisch auf, wann Entscheidungen in welcher Form zu erlassen und mitzuteilen sind. 
+Zwingende Gründe für einen schriftlichen Entscheid
+Den KL ist in folgenden Situationen immer ein schriftlicher Entscheid mit Begründung und Rechtsmittelbelehrung zuzustellen (per eingeschriebener Post oder gegen Quittierung des Empfangs mit Unterschrift):
+
+Die Unterstützung wird gesamthaft abgelehnt oder eingestellt (vgl. Ziffer 2.1, 2.5 und 2.7).
+Die beantragten Leistungen werden abgelehnt oder nur teilweise gutgeheissen und die KL sind damit nicht einverstanden (vgl. Ziffer 2.4).  
+Die Leistungen werden gekürzt (vgl. Ziffer 2.5).
+Die Leistungen werden zurückgefordert und/oder eine laufende Verrechnung wird angeordnet (vgl. Ziffer 2.6).
+Eine Klientenkontoabrechnung wird erstellt (vgl. Ziffer 2.8). 
+Mündlicher Entscheid / Entscheid auf Verlangen
+Ein mündlicher Entscheid ist ausreichend, wenn die beantragte Leistung vollumfänglich bewilligt wird oder KL in einem Gespräch über die teilweise Abweisung und deren Gründe informiert wurden und damit nachweislich einverstanden sind (in den Akten belegt).
+
+KL sind in jedem Fall (mündlich oder schriftlich) auf das Recht aufmerksam zu machen, dass sie einen schriftlichen Entscheid mit Rechtsmittelbelehrung verlangen können.
+ 
+Beispiel 1: KL beantragt die Übernahme der Krippenkosten und es wird ihr*ihm mündlich mitgeteilt, dass die beantragten Leistungen vollumfänglich übernommen werden. 
+
+Beispiel 2: Die beantragten Leistungen stehen in keinem Verhältnis zu den finanziellen Möglichkeiten von Personen in vergleichbarer Situation ohne Sozialhilfe. KL wird in einem Gespräch erklärt, dass nur ein Teil der beantragten Leistungen bewilligt wird. KL ist damit einverstanden.
+
+Formlos mitgeteilte Entscheide müssen im Dossier nachvollziehbar dokumentiert werden. Mögliche Arten der Dokumentation sind:
+Aktennotiz
+Bei „Leistungen zur Unterstützung des Hilfsprozesses“ und „grundsätzlich gewährten situationsbedingten Leistungen“ (siehe HAW Situationsbedingte Leistungen) ist eine Begründung für die Ausrichtung der Leistung und ein Hinweis auf das Einverständnis KL nötig. 
+Zahlungsbelege
+Bei „verbindlichen situationsbedingten Leistungen“ (siehe HAW Situationsbedingte Leistungen) wie Erwerbskosten, Franchisen und Selbstbehalte etc. ist bei einer vollumfänglichen Vergütung der beantragten Leistung die Ablage eines Zahlungsbeleges als Dokumentation ausreichend.
+„Zentrumsinterne Entscheide“
+„Zentrumsinterne Entscheide“ dienen dazu, die Einhaltung der Kompetenzordnung zu dokumentieren. Sie stellen keine Entscheide im Sinne des in Ziffer 1 erwähnten Verfügungsbegriffs dar, weil sie sich nicht direkt an KL richten. Solche "Entscheide" sind vor allem bei der Verlängerung der Übernahme von situationsbedingten Leistungen nötig. Es handelt sich hier um formlose Dokumente, die weder eine Rechtsmittelbelehrung noch einen Mitteilungssatz umfassen. Sie werden nicht verschickt, sondern lediglich im Dossier abgelegt.
+
+Anmerkung: Lehnt die gemäss Kompetenzdelegation zuständige Stelle (SL oder ZL) die weitere Ausrichtung der situationsbedingten Leistung hingegen ganz oder teilweise ab, so werden KL durch diese Ablehnung belastet. In einer solchen Situation ist durch die zuständige Stelle stets ein anfechtbarer Entscheid zu erlassen, damit den KL die Möglichkeit eröffnet wird, gegen die Ablehnung Einsprache zu erheben.

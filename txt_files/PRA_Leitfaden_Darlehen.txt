@@ -1,0 +1,51 @@
+Grundsätzliches zum Mietdepot
+Die Sozialen Dienste Zürich finanzieren im Fall eines Wohnungswechsels der Klient*innen grundsätzlich keine Mietdepots (Mietkautionskonto) an die Vermieterschaft sondern leisten eine Mietgarantie (Garantieerklärung).
+
+Ziehen unterstützte Personen aus der Gemeinde weg und sollte die neue Vermieterschaft die Garantieerklärung nicht akzeptieren, kann ausnahmsweise anstatt einer Garantieerklärung eine Mietkaution geleistet werden.
+
+Errichten von Darlehen für Anteilscheine und Mietdepots
+SA stellt ein Mietdepot- oder Anteilschein-Darlehen auf die Personen aus, welche als Mieter*innen im Mietvertrag aufgeführt sind, bei Ehepaaren demzufolge auf beide Personen. 
+Bei Fallübergaben der AOZ an die SOD übernehmen die SOD die Anteilscheine. Die SOD errichtet ein neues Darlehen gemäss den untenstehenden Vorgaben. 
+SA nimmt die notwendigen KiSS-Einträge unter Modul B – Wohnsituation vor: Vermieter*in/ Art: Mietdepot bzw. Anteilschein / Betrag / übernommen von: SOD / evtl. Bemerkung z.B. „Gesamtes AS-Kapital CHF 5000.-, wovon CHF 2000.- von Klient*in und CHF 3000.- von SOD übernommen“.
+SA nimmt Auszahlung des Darlehens an Vermieter*in (direkt auf das Mietkautionskonto) bzw. an die Genossenschaft via bargeldloser Einzelauszahlung vor.
+Wichtig: 
+Auszahlung hat auf der Personen-Nummer der Person zu erfolgen auf welcher der Darlehensvertrag (Mietvertrag) ausgestellt wurde. Bei einem Ehepaar ist die Nummer des Fallträgers anzugeben.
+Der Darlehensvertrag muss vor der Auszahlung unterzeichnet sein.
+Anteilscheine:				LA 320 mit Darlehensvertrag - Normalfall
+Mietdepot:			LA 321 mit Darlehensvertrag - Ausnahme, falls keine Garantieerklärung akzeptiert wird; siehe Ziffer 1
+Eröffnungsgebühr Mietdepot: 	LA 362
+SA/SB sendet Original Darlehensvertrag/Vereinbarung, Mietvertrag, Hinterlegungsbescheinigung der Bank oder Original Anteilscheinzertifikat bzw. Bestätigung an SDS Finanzen, Klibu KW.
+SDS führt im KiSS die notwendigen Mietdepot/Anteilsscheine in einem Inventar nach und archiviert die zugestellten Originaldokumente.
+
+
+		
+
+Zinsabrechnungen
+Zinsabrechnungen des Mietkautionskontos oder der Genossenschaft sind immer an SDS Finanzen, Klibu KW zuzustellen. Die Kapitalgewinne wie Zinsen und Verrechnungssteueransprüche werden der Finanzbuchhaltung gutgeschrieben und nicht dem individuellen Klientenkonto.
+Auflösung / Rückzahlung von Mietdepot- / Anteilschein-Darlehen
+
+Bei Auszug
+SA/SB verlangt beim Vermieter die Kontofreigabe samt Zinsabrechnung und fordert anschliessend mit dem Freigabeformular bei der Bank die Depotrückzahlung mit Zinsabrechnung an SDS Finanzen PC-Konto (80-2001-6):
+Vermerk Zahlungszweck:		Mietdepot (LA 861/PN)
+Hat der*die Vermieter*in innert einem Jahr seit Beendigung des Mietverhältnisses keinen Anspruch gegenüber dem*der Mieter*in rechtlich geltend gemacht, kann bei der Bank die Depotrückzahlung mit Zinsabrechnung direkt verlangt werden.
+SA/SB verlangt bei der Genossenschaft die Kapitalrückzahlung mit Zinsabrechnung an SDS Finanzen PC-Konto (80-2001-6):
+Vermerk Zahlungszweck:		Anteilsscheine (LA 860/PN)
+SA/SB leitet Zinsabrechnung und allfällige Info über Mieterschäden mit QT-Stempel und Visum der Zentrums- oder Stellenleitung an SDS Finanzen, Klibu KW weiter.
+Mieterschäden höher als Kapital / keine Rückzahlung
+SA/SB leitet Zinsabrechnung und Info über Mieterschäden mit QT-Stempel und Visum der Zentrums- oder Stellenleitung an SDS Finanzen, Klibu KW zur Abschreibung weiter.
+Umzug in Genossenschaftswohnung
+Falls der*die Mieter*in innerhalb derselben Genossenschaft umzieht, kann das alte Anteilscheinkapital durch eine Zusatzauszahlung erhöht oder bei gleichbleibendem Anteilscheinkapital übertragen werden. Die Genossenschaft muss einen neuen Mietvertrag auf die neue Adresse ausstellen. Ebenso ist ein neuer Darlehensvertrag (Vermerk: Ersetzt Darlehensvertrag vom tt.mm.jjjj) lautend auf die neue Adresse erforderlich.
+
+Bei einem Umzug in eine andere Genossenschaft: Auf keinen Fall altes Anteilscheinkapital erhöhen durch Zusatz-Auszahlung, sondern:
+SA/SB richtet neues Anteilschein-Darlehen in erforderlicher Höhe gemäss Ablauf Ziffer 2 aus.
+SA/SB verlangt bei der Genossenschaft die Kapitalrückzahlung des alten Anteilscheinkapitals mit Zinsabrechnung an SDS Finanzen (PC-Konto 80-2001-6):
+Vermerk Zahlungszweck:		Anteilsscheine (LA 860/PN)
+SA/SB leitet Zinsabrechnung und allfällige Info über Mieterschäden mit QT-Stempel und Visum der Zentrums- oder Stellenleitung an SDS Finanzen, Klibu KW weiter.
+
+
+Generelles
+Wird bei der Klientenkontoabrechnung ein Anteilsschein- oder Mietdepot-Darlehen mit einem Überschuss verrechnet, ist eine Auszahlung mit der Leistungsart des Überschusses LA 798 (RZ Überschuss an KL) auf das Konto PC 80-2001-6 zu veranlassen. Eine Umbuchung ist aus technischen Gründen nicht möglich.
+
+Bei Änderung der Familienverhältnisse (Wegzug eines Elternteils, Trennung, Scheidung) sind die Mietverhältnisse zu überprüfen. Ist ein neuer Mietvertrag notwendig, ist auch der bestehende Darlehensvertrag/Vereinbarung zu ersetzen (Vermerk: Ersetzt Darlehensvertrag/ Vereinbarung vom tt.mm.jjjj).
+
+Bei Fragen und Unklarheiten gibt der Fachstab SI gerne Auskunft. 
